@@ -1,0 +1,121 @@
+Achvaicer - LinqToExcel
+
+Requisição
+http://api.github.com/repos/achvaicer/LinqToExcel/contents/src/LinqToExcel/Extensions/CommonExtensions.cs
+
+{
+    "name": "CommonExtensions.cs",
+    "path": "src/LinqToExcel/Extensions/CommonExtensions.cs",
+    "sha": "4f747928b52896e3da5229cf1422ff7af3e6366c",
+    "size": 3282,
+    "url": "https://api.github.com/repos/achvaicer/LinqToExcel/contents/src/LinqToExcel/Extensions/CommonExtensions.cs?ref=master",
+    "html_url": "https://github.com/achvaicer/LinqToExcel/blob/master/src/LinqToExcel/Extensions/CommonExtensions.cs",
+    "git_url": "https://api.github.com/repos/achvaicer/LinqToExcel/git/blobs/4f747928b52896e3da5229cf1422ff7af3e6366c",
+    "download_url": "https://raw.githubusercontent.com/achvaicer/LinqToExcel/master/src/LinqToExcel/Extensions/CommonExtensions.cs",
+    "type": "file",
+    "content": "77u/dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2Vu\nZXJpYzsKdXNpbmcgU3lzdGVtLlJlZmxlY3Rpb247CnVzaW5nIFN5c3RlbS5D\nb2xsZWN0aW9uczsKdXNpbmcgU3lzdGVtLlRleHQuUmVndWxhckV4cHJlc3Np\nb25zOwp1c2luZyBTeXN0ZW0uTGlucS5FeHByZXNzaW9uczsKCm5hbWVzcGFj\nZSBMaW5xVG9FeGNlbC5FeHRlbnNpb25zCnsKICAgIHB1YmxpYyBzdGF0aWMg\nY2xhc3MgQ29tbW9uRXh0ZW5zaW9ucwogICAgewogICAgICAgIC8vLyA8c3Vt\nbWFyeT4KICAgICAgICAvLy8gU2V0cyB0aGUgdmFsdWUgb2YgYSBwcm9wZXJ0\neQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBu\nYW1lPSJwcm9wZXJ0eU5hbWUiPk5hbWUgb2YgdGhlIHByb3BlcnR5PC9wYXJh\nbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InZhbHVlIj5WYWx1ZSB0byBz\nZXQgdGhlIHByb3BlcnR5IHRvPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3Rh\ndGljIHZvaWQgU2V0UHJvcGVydHkodGhpcyBvYmplY3QgQG9iamVjdCwgc3Ry\naW5nIHByb3BlcnR5TmFtZSwgb2JqZWN0IHZhbHVlKQogICAgICAgIHsKICAg\nICAgICAgICAgQG9iamVjdC5HZXRUeXBlKCkuSW52b2tlTWVtYmVyKHByb3Bl\ncnR5TmFtZSwgQmluZGluZ0ZsYWdzLlNldFByb3BlcnR5LCBudWxsLCBAb2Jq\nZWN0LCBuZXcgb2JqZWN0W10geyB2YWx1ZSB9KTsKICAgICAgICB9CgogICAg\nICAgIC8vLyA8c3VtbWFyeT4KICAgICAgICAvLy8gQ2FsbHMgYSBtZXRob2QK\nICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFt\nZT0ibWV0aG9kTmFtZSI+TmFtZSBvZiB0aGUgbWV0aG9kPC9wYXJhbT4KICAg\nICAgICAvLy8gPHBhcmFtIG5hbWU9ImFyZ3MiPk1ldGhvZCBhcmd1bWVudHM8\nL3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz5SZXR1cm4gdmFsdWUgb2Yg\ndGhlIG1ldGhvZDwvcmV0dXJucz4KICAgICAgICBwdWJsaWMgc3RhdGljIG9i\namVjdCBDYWxsTWV0aG9kKHRoaXMgb2JqZWN0IEBvYmplY3QsIHN0cmluZyBt\nZXRob2ROYW1lLCBwYXJhbXMgb2JqZWN0W10gYXJncykKICAgICAgICB7CiAg\nICAgICAgICAgIHJldHVybiBAb2JqZWN0LkdldFR5cGUoKS5JbnZva2VNZW1i\nZXIobWV0aG9kTmFtZSwgQmluZGluZ0ZsYWdzLkludm9rZU1ldGhvZCwgbnVs\nbCwgQG9iamVjdCwgYXJncyk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMg\nc3RhdGljIFQgQ2FzdDxUPih0aGlzIG9iamVjdCBAb2JqZWN0KQogICAgICAg\nIHsKICAgICAgICAgICAgcmV0dXJuIChUKUBvYmplY3QuQ2FzdCh0eXBlb2Yo\nVCkpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBvYmplY3Qg\nQ2FzdCh0aGlzIG9iamVjdCBAb2JqZWN0LCBUeXBlIGNhc3RUeXBlKQogICAg\nICAgIHsKICAgICAgICAgICAgLy9yZXR1cm4gbnVsbCBmb3IgREJOdWxsIHZh\nbHVlcwogICAgICAgICAgICBpZiAoQG9iamVjdCA9PSBudWxsIHx8IEBvYmpl\nY3QuR2V0VHlwZSgpID09IHR5cGVvZihEQk51bGwpIHx8IEBvYmplY3QuVG9T\ndHJpbmcoKSA9PSAibnVsbCIpCiAgICAgICAgICAgICAgICByZXR1cm4gbnVs\nbDsKCiAgICAgICAgICAgIC8vY2hlY2tpbmcgZm9yIG51bGxhYmxlIHR5cGVz\nCiAgICAgICAgICAgIGlmIChjYXN0VHlwZS5Jc0dlbmVyaWNUeXBlICYmCiAg\nICAgICAgICAgICAgICBjYXN0VHlwZS5HZXRHZW5lcmljVHlwZURlZmluaXRp\nb24oKS5FcXVhbHModHlwZW9mKE51bGxhYmxlPD4pKSkKICAgICAgICAgICAg\newogICAgICAgICAgICAgICAgY2FzdFR5cGUgPSBOdWxsYWJsZS5HZXRVbmRl\ncmx5aW5nVHlwZShjYXN0VHlwZSk7CiAgICAgICAgICAgIH0KICAgICAgICAg\nICAgcmV0dXJuIENvbnZlcnQuQ2hhbmdlVHlwZShAb2JqZWN0LCBjYXN0VHlw\nZSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJh\nYmxlPFRSZXN1bHQ+IENhc3Q8VFJlc3VsdD4odGhpcyBJRW51bWVyYWJsZTxv\nYmplY3Q+IGxpc3QsIEZ1bmM8b2JqZWN0LCBUUmVzdWx0PiBjYXN0ZXIpCiAg\nICAgICAgewogICAgICAgICAgICB2YXIgcmVzdWx0cyA9IG5ldyBMaXN0PFRS\nZXN1bHQ+KCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBpdGVtIGluIGxp\nc3QpCiAgICAgICAgICAgICAgICByZXN1bHRzLkFkZChjYXN0ZXIoaXRlbSkp\nOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0czsKICAgICAgICB9CgogICAg\nICAgIHB1YmxpYyBzdGF0aWMgSUVudW1lcmFibGU8VFJlc3VsdD4gQ2FzdDxU\nUmVzdWx0Pih0aGlzIElFbnVtZXJhYmxlPG9iamVjdD4gbGlzdCkKICAgICAg\nICB7CiAgICAgICAgICAgIHZhciBmdW5jID0gbmV3IEZ1bmM8b2JqZWN0LCBU\nUmVzdWx0PigoaXRlbSkgPT4KICAgICAgICAgICAgICAgIChUUmVzdWx0KUNv\nbnZlcnQuQ2hhbmdlVHlwZShpdGVtLCB0eXBlb2YoVFJlc3VsdCkpKTsKICAg\nICAgICAgICAgcmV0dXJuIGxpc3QuQ2FzdDxUUmVzdWx0PihmdW5jKTsKICAg\nICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgc3RyaW5nW10gVG9BcnJh\neSh0aGlzIElDb2xsZWN0aW9uPHN0cmluZz4gY29sbGVjdGlvbikKICAgICAg\nICB7CiAgICAgICAgICAgIHZhciBsaXN0ID0gbmV3IExpc3Q8c3RyaW5nPigp\nOwogICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiBjb2xsZWN0aW9u\nKQogICAgICAgICAgICAgICAgbGlzdC5BZGQoaXRlbSk7CiAgICAgICAgICAg\nIHJldHVybiBsaXN0LlRvQXJyYXkoKTsKICAgICAgICB9CgogICAgICAgIHB1\nYmxpYyBzdGF0aWMgYm9vbCBJc051bWJlcih0aGlzIHN0cmluZyB2YWx1ZSkK\nICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBSZWdleC5NYXRjaCh2YWx1\nZSwgQCJeXGQrJCIpLlN1Y2Nlc3M7CiAgICAgICAgfQoKICAgICAgICBwdWJs\naWMgc3RhdGljIGJvb2wgSXNOdWxsVmFsdWUodGhpcyBFeHByZXNzaW9uIGV4\ncCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjb25zdGFudEV4cHJlc3Np\nb24gPSBleHAgYXMgQ29uc3RhbnRFeHByZXNzaW9uOwogICAgICAgICAgICBy\nZXR1cm4gY29uc3RhbnRFeHByZXNzaW9uICE9IG51bGwgJiYgY29uc3RhbnRF\neHByZXNzaW9uLlZhbHVlID09IG51bGw7CiAgICAgICAgfQoKICAgICAgICBw\ndWJsaWMgc3RhdGljIHN0cmluZyBSZWdleFJlcGxhY2UodGhpcyBzdHJpbmcg\nc291cmNlLCBzdHJpbmcgcmVnZXgsIHN0cmluZyByZXBsYWNlbWVudCkKICAg\nICAgICB7CiAgICAgICAgICAgIHJldHVybiBSZWdleC5SZXBsYWNlKHNvdXJj\nZSwgcmVnZXgsIHJlcGxhY2VtZW50KTsKICAgICAgICB9CiAgICB9Cn0K\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/achvaicer/LinqToExcel/contents/src/LinqToExcel/Extensions/CommonExtensions.cs?ref=master",
+        "git": "https://api.github.com/repos/achvaicer/LinqToExcel/git/blobs/4f747928b52896e3da5229cf1422ff7af3e6366c",
+        "html": "https://github.com/achvaicer/LinqToExcel/blob/master/src/LinqToExcel/Extensions/CommonExtensions.cs"
+    }
+}
+
+
+Requisição Download
+https://raw.githubusercontent.com/achvaicer/LinqToExcel/master/src/LinqToExcel/Extensions/CommonExtensions.cs
+
+using System;
+using System.Collections.Generic;
+using System.Reflection;
+using System.Collections;
+using System.Text.RegularExpressions;
+using System.Linq.Expressions;
+
+namespace LinqToExcel.Extensions
+{
+    public static class CommonExtensions
+    {
+        /// <summary>
+        /// Sets the value of a property
+        /// </summary>
+        /// <param name="propertyName">Name of the property</param>
+        /// <param name="value">Value to set the property to</param>
+        public static void SetProperty(this object @object, string propertyName, object value)
+        {
+            @object.GetType().InvokeMember(propertyName, BindingFlags.SetProperty, null, @object, new object[] { value });
+        }
+
+        /// <summary>
+        /// Calls a method
+        /// </summary>
+        /// <param name="methodName">Name of the method</param>
+        /// <param name="args">Method arguments</param>
+        /// <returns>Return value of the method</returns>
+        public static object CallMethod(this object @object, string methodName, params object[] args)
+        {
+            return @object.GetType().InvokeMember(methodName, BindingFlags.InvokeMethod, null, @object, args);
+        }
+
+        public static T Cast<T>(this object @object)
+        {
+            return (T)@object.Cast(typeof(T));
+        }
+
+        public static object Cast(this object @object, Type castType)
+        {
+            //return null for DBNull values
+            if (@object == null || @object.GetType() == typeof(DBNull) || @object.ToString() == "null")
+                return null;
+
+            //checking for nullable types
+            if (castType.IsGenericType &&
+                castType.GetGenericTypeDefinition().Equals(typeof(Nullable<>)))
+            {
+                castType = Nullable.GetUnderlyingType(castType);
+            }
+            return Convert.ChangeType(@object, castType);
+        }
+
+        public static IEnumerable<TResult> Cast<TResult>(this IEnumerable<object> list, Func<object, TResult> caster)
+        {
+            var results = new List<TResult>();
+            foreach (var item in list)
+                results.Add(caster(item));
+            return results;
+        }
+
+        public static IEnumerable<TResult> Cast<TResult>(this IEnumerable<object> list)
+        {
+            var func = new Func<object, TResult>((item) =>
+                (TResult)Convert.ChangeType(item, typeof(TResult)));
+            return list.Cast<TResult>(func);
+        }
+
+        public static string[] ToArray(this ICollection<string> collection)
+        {
+            var list = new List<string>();
+            foreach (var item in collection)
+                list.Add(item);
+            return list.ToArray();
+        }
+
+        public static bool IsNumber(this string value)
+        {
+            return Regex.Match(value, @"^\d+$").Success;
+        }
+
+        public static bool IsNullValue(this Expression exp)
+        {
+            var constantExpression = exp as ConstantExpression;
+            return constantExpression != null && constantExpression.Value == null;
+        }
+
+        public static string RegexReplace(this string source, string regex, string replacement)
+        {
+            return Regex.Replace(source, regex, replacement);
+        }
+    }
+}
+

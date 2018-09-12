@@ -1,0 +1,164 @@
+{
+    "name": "CommandLineOptions.cs",
+    "path": "src/dotnet-serve/CommandLineOptions.cs",
+    "sha": "fb6c8329e1cf3191d7db16c9ae053482446c4501",
+    "size": 5521,
+    "url": "https://api.github.com/repos/natemcmaster/dotnet-serve/contents/src/dotnet-serve/CommandLineOptions.cs?ref=master",
+    "html_url": "https://github.com/natemcmaster/dotnet-serve/blob/master/src/dotnet-serve/CommandLineOptions.cs",
+    "git_url": "https://api.github.com/repos/natemcmaster/dotnet-serve/git/blobs/fb6c8329e1cf3191d7db16c9ae053482446c4501",
+    "download_url": "https://raw.githubusercontent.com/natemcmaster/dotnet-serve/master/src/dotnet-serve/CommandLineOptions.cs",
+    "type": "file",
+    "content": "77u/Ly8gQ29weXJpZ2h0IChjKSBOYXRlIE1jTWFzdGVyLgovLyBMaWNlbnNl\nZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wLiBTZWUg\nTGljZW5zZS50eHQgaW4gdGhlIHByb2plY3Qgcm9vdCBmb3IgbGljZW5zZSBp\nbmZvcm1hdGlvbi4KCnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmlj\nOwp1c2luZyBTeXN0ZW0uQ29tcG9uZW50TW9kZWwuRGF0YUFubm90YXRpb25z\nOwp1c2luZyBTeXN0ZW0uTGlucTsKdXNpbmcgU3lzdGVtLk5ldDsKdXNpbmcg\nU3lzdGVtLlJlZmxlY3Rpb247CnVzaW5nIE1jTWFzdGVyLkV4dGVuc2lvbnMu\nQ29tbWFuZExpbmVVdGlsczsKdXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMu\nTG9nZ2luZzsKCm5hbWVzcGFjZSBNY01hc3Rlci5Eb3ROZXQuU2VydmUKewog\nICAgW0NvbW1hbmQoCiAgICAgICAgTmFtZSA9ICJkb3RuZXQgc2VydmUiLAog\nICAgICAgIEZ1bGxOYW1lID0gImRvdG5ldC1zZXJ2ZSIsCiAgICAgICAgRGVz\nY3JpcHRpb24gPSAiQSBzaW1wbGUgY29tbWFuZC1saW5lIEhUVFAgc2VydmVy\nIildCiAgICBbVmVyc2lvbk9wdGlvbkZyb21NZW1iZXIoTWVtYmVyTmFtZSA9\nIG5hbWVvZihHZXRWZXJzaW9uKSldCiAgICBjbGFzcyBDb21tYW5kTGluZU9w\ndGlvbnMKICAgIHsKICAgICAgICBwcml2YXRlIExvZ0xldmVsPyBfbG9nTGV2\nZWw7CiAgICAgICAgcHJpdmF0ZSBib29sPyBfdXNlVGxzOwoKICAgICAgICBb\nT3B0aW9uKCItZHwtLWRpcmVjdG9yeSA8RElSPiIsIERlc2NyaXB0aW9uID0g\nIlRoZSByb290IGRpcmVjdG9yeSB0byBzZXJ2ZS4gW0N1cnJlbnQgZGlyZWN0\nb3J5XSIpXQogICAgICAgIFtEaXJlY3RvcnlFeGlzdHNdCiAgICAgICAgcHVi\nbGljIHN0cmluZyBEaXJlY3RvcnkgeyBnZXQ7IH0KCiAgICAgICAgW09wdGlv\nbihEZXNjcmlwdGlvbiA9ICJPcGVuIGEgd2ViIGJyb3dzZXIgd2hlbiB0aGUg\nc2VydmVyIHN0YXJ0cy4gW2ZhbHNlXSIpXQogICAgICAgIHB1YmxpYyBib29s\nIE9wZW5Ccm93c2VyIHsgZ2V0OyB9CgogICAgICAgIFtPcHRpb24oRGVzY3Jp\ncHRpb24gPSAiUG9ydCB0byB1c2UgWzgwODBdLiBVc2UgMCBmb3IgYSBkeW5h\nbWljIHBvcnQuIildCiAgICAgICAgW1JhbmdlKDAsIDY1NTM1LCBFcnJvck1l\nc3NhZ2UgPSAiSW52YWxpZCBwb3J0LiBQb3J0cyBtdXN0IGJlIGluIHRoZSBy\nYW5nZSBvZiAwIHRvIDY1NTM1LiIpXQogICAgICAgIHB1YmxpYyBpbnQgUG9y\ndCB7IGdldDsgfSA9IDgwODA7CgogICAgICAgIFtPcHRpb24oIi1hfC0tYWRk\ncmVzcyA8QUREUkVTUz4iLCBEZXNjcmlwdGlvbiA9ICJBZGRyZXNzIHRvIHVz\nZSBbMTI3LjAuMC4xXSIpXQogICAgICAgIHB1YmxpYyBJUEFkZHJlc3NbXSBB\nZGRyZXNzZXMgeyBnZXQ7IH0KCiAgICAgICAgW09wdGlvbigiLS1wYXRoLWJh\nc2UgPFBBVEg+IiwgRGVzY3JpcHRpb24gPSAiVGhlIGJhc2UgVVJMIHBhdGgg\nb2YgcG9zdHBlbmRlZCB0byB0aGUgc2l0ZSB1cmwuIildCiAgICAgICAgcHJp\ndmF0ZSBzdHJpbmcgUGF0aEJhc2UgeyBnZXQ7IH0KCiAgICAgICAgW09wdGlv\nbigiLS1kZWZhdWx0LWV4dGVuc2lvbnM6PEVYVEVOU0lPTlM+IiwgQ29tbWFu\nZE9wdGlvblR5cGUuU2luZ2xlT3JOb1ZhbHVlLCBEZXNjcmlwdGlvbiA9ICJB\nIGNvbW1hLWRlbGltaXRlZCBsaXN0IG9mIGV4dGVuc2lvbnMgdG8gdXNlIHdo\nZW4gbm8gZXh0ZW5zaW9uIGlzIHByb3ZpZGVkIGluIHRoZSBVUkwuIFsuaHRt\nbCwuaHRtXSIpXQogICAgICAgIHB1YmxpYyAoYm9vbCBIYXNWYWx1ZSwgc3Ry\naW5nIEV4dGVuc2lvbnMpIERlZmF1bHRFeHRlbnNpb25zIHsgZ2V0OyB9Cgog\nICAgICAgIFtPcHRpb24oRGVzY3JpcHRpb24gPSAiU2hvdyBsZXNzIGNvbnNv\nbGUgb3V0cHV0LiIpXQogICAgICAgIHB1YmxpYyBib29sIFF1aWV0IHsgZ2V0\nOyB9CgogICAgICAgIFtPcHRpb24oRGVzY3JpcHRpb24gPSAiU2hvdyBtb3Jl\nIGNvbnNvbGUgb3V0cHV0LiIpXQogICAgICAgIHB1YmxpYyBib29sIFZlcmJv\nc2UgeyBnZXQ7IH0KCiAgICAgICAgW09wdGlvbigiLS1sb2cgPExFVkVMPiIs\nIERlc2NyaXB0aW9uID0gIkZvciBhZHZhbmNlZCBkaWFnbm9zdGljcy4iLCBT\naG93SW5IZWxwVGV4dCA9IGZhbHNlKV0KICAgICAgICBwdWJsaWMgTG9nTGV2\nZWwgTWluTG9nTGV2ZWwKICAgICAgICB7CiAgICAgICAgICAgIGdldAogICAg\nICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoX2xvZ0xldmVsLkhhc1Zh\nbHVlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJl\ndHVybiBfbG9nTGV2ZWwuVmFsdWU7CiAgICAgICAgICAgICAgICB9CgogICAg\nICAgICAgICAgICAgaWYgKFF1aWV0KQogICAgICAgICAgICAgICAgewogICAg\nICAgICAgICAgICAgICAgIHJldHVybiBMb2dMZXZlbC5FcnJvcjsKICAgICAg\nICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBpZiAoVmVyYm9zZSkKICAg\nICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gTG9n\nTGV2ZWwuRGVidWc7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAg\nICAgcmV0dXJuIExvZ0xldmVsLkluZm9ybWF0aW9uOwogICAgICAgICAgICB9\nCiAgICAgICAgICAgIHByaXZhdGUgc2V0ID0+IF9sb2dMZXZlbCA9IHZhbHVl\nOwogICAgICAgIH0KCiAgICAgICAgW09wdGlvbigiLVN8LS10bHMiLCBEZXNj\ncmlwdGlvbiA9ICJFbmFibGUgVExTIChIVFRQUykiKV0KICAgICAgICBwdWJs\naWMgdmlydHVhbCBib29sIFVzZVRscwogICAgICAgIHsKICAgICAgICAgICAg\nZ2V0CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmIChfdXNlVGxz\nLkhhc1ZhbHVlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAg\nICAgIHJldHVybiBfdXNlVGxzLlZhbHVlOwogICAgICAgICAgICAgICAgfQoK\nICAgICAgICAgICAgICAgIHJldHVybiAhc3RyaW5nLklzTnVsbE9yRW1wdHko\nQ2VydFBmeFBhdGgpIHx8ICFzdHJpbmcuSXNOdWxsT3JFbXB0eShDZXJ0UGVt\nUGF0aCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHJpdmF0ZSBzZXQg\nPT4gX3VzZVRscyA9IHZhbHVlOwogICAgICAgIH0KCiAgICAgICAgW09wdGlv\nbigiLS1jZXJ0IiwgRGVzY3JpcHRpb24gPSAiQSBQRU0gZW5jb2RlZCBjZXJ0\naWZpY2F0ZSBmaWxlIHRvIHVzZSBmb3IgSFRUUFMgY29ubmVjdGlvbnMuXG5E\nZWZhdWx0cyB0byBmaWxlIGluIGN1cnJlbnQgZGlyZWN0b3J5IG5hbWVkICci\nICsgQ2VydGlmaWNhdGVMb2FkZXIuRGVmYXVsdENlcnRQZW1GaWxlTmFtZSAr\nICInIildCiAgICAgICAgW0ZpbGVFeGlzdHNdCiAgICAgICAgcHVibGljIHN0\ncmluZyBDZXJ0UGVtUGF0aCB7IGdldDsgfQoKICAgICAgICBbT3B0aW9uKCIt\nLWtleSIsIERlc2NyaXB0aW9uID0gIkEgUEVNIGVuY29kZWQgcHJpdmF0ZSBr\nZXkgdG8gdXNlIGZvciBIVFRQUyBjb25uZWN0aW9ucy5cbkRlZmF1bHRzIHRv\nIGZpbGUgaW4gY3VycmVudCBkaXJlY3RvcnkgbmFtZWQgJyIgKyBDZXJ0aWZp\nY2F0ZUxvYWRlci5EZWZhdWx0UHJpdmF0ZUtleUZpbGVOYW1lICsgIiciKV0K\nICAgICAgICBbRmlsZUV4aXN0c10KICAgICAgICBwdWJsaWMgc3RyaW5nIFBy\naXZhdGVLZXlQYXRoIHsgZ2V0OyB9CgogICAgICAgIFtPcHRpb24oIi0tcGZ4\nIiwgRGVzY3JpcHRpb24gPSAiQSBQS0NTIzEyIGNlcnRpZmljYXRlIGZpbGUg\ndG8gdXNlIGZvciBIVFRQUyBjb25uZWN0aW9ucy5cbkRlZmF1bHRzIHRvIGZp\nbGUgaW4gY3VycmVudCBkaXJlY3RvcnkgbmFtZWQgJyIgKyBDZXJ0aWZpY2F0\nZUxvYWRlci5EZWZhdWx0Q2VydFBmeEZpbGVOYW1lICsgIiciKV0KICAgICAg\nICBbRmlsZUV4aXN0c10KICAgICAgICBwdWJsaWMgc3RyaW5nIENlcnRQZnhQ\nYXRoIHsgZ2V0OyB9CgogICAgICAgIFtPcHRpb24oIi0tcGZ4LXB3ZCIsIERl\nc2NyaXB0aW9uID0gIlRoZSBwYXNzd29yZCB0byBvcGVuIHRoZSBjZXJ0aWZp\nY2F0ZSBmaWxlLiAoT3B0aW9uYWwpIildCiAgICAgICAgcHVibGljIHZpcnR1\nYWwgc3RyaW5nIENlcnRpZmljYXRlUGFzc3dvcmQgeyBnZXQ7IH0KCiAgICAg\nICAgW09wdGlvbigiLS1yYXpvciIsIERlc2NyaXB0aW9uID0gIkVuYWJsZSBS\nYXpvciBQYWdlcyBzdXBwb3J0IChFeHBlcmltZW50YWwpIildCiAgICAgICAg\ncHVibGljIGJvb2wgRW5hYmxlUmF6b3IgeyBnZXQ7IH0KCiAgICAgICAgLy8g\nSW50ZXJuYWwsIGV4cGVyaW1lbnRhbCBmbGFnLiBJZiB5b3UgZm91bmQgdGhp\ncywgaXQgbWF5IGJyZWFrIGluIHRoZSBmdXR1cmUuCiAgICAgICAgLy8gSSdt\nIG5vdCBzdXBwb3J0aW5nIGl0IHlldCBiZWN1YXNlIHRoZXNlIGZpbGVzIHdp\nbGwgc3RpbGwgd2hvIHVwIGRpcmVjdG9yeSBicm93c2VyLgogICAgICAgIFtP\ncHRpb24oIi0tZXhjbHVkZS1maWxlIiwgRGVzY3JpcHRpb24gPSAiQSBmaWxl\nIHRvIHByZXZlbnQgZnJvbSBiZWluZyBzZXJ2ZWQuIiwgU2hvd0luSGVscFRl\neHQgPSBmYWxzZSldCiAgICAgICAgcHVibGljIExpc3Q8c3RyaW5nPiBFeGNs\ndWRlZEZpbGVzIHsgZ2V0OyB9ID0gbmV3IExpc3Q8c3RyaW5nPigpOwoKICAg\nICAgICBwdWJsaWMgc3RyaW5nIEdldFBhdGhCYXNlKCkKICAgICAgICB7CiAg\nICAgICAgICAgIGlmIChzdHJpbmcuSXNOdWxsT3JFbXB0eShQYXRoQmFzZSkp\nCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBQYXRoQmFz\nZTsKICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgcGF0aEJhc2UgPSBQ\nYXRoQmFzZS5SZXBsYWNlKCdcXCcsICcvJykuVHJpbUVuZCgnLycpOwogICAg\nICAgICAgICByZXR1cm4gcGF0aEJhc2VbMF0gIT0gJy8nID8gIi8iICsgcGF0\naEJhc2UgOiBwYXRoQmFzZTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBi\nb29sIFNob3VsZFVzZUxvY2FsaG9zdCgpCiAgICAgICAgICAgID0+IEFkZHJl\nc3NlcyA9PSBudWxsCiAgICAgICAgICAgIHx8IEFkZHJlc3Nlcy5MZW5ndGgg\nPT0gMAogICAgICAgICAgICB8fCAoQWRkcmVzc2VzLkxlbmd0aCA9PSAxICYm\nIElQQWRkcmVzcy5Jc0xvb3BiYWNrKEFkZHJlc3Nlc1swXSkpOwoKICAgICAg\nICBwdWJsaWMgc3RyaW5nW10gR2V0RGVmYXVsdEV4dGVuc2lvbnMoKSA9Pgog\nICAgICAgICAgICBEZWZhdWx0RXh0ZW5zaW9ucy5IYXNWYWx1ZQogICAgICAg\nICAgICAgICAgPyBzdHJpbmcuSXNOdWxsT3JFbXB0eShEZWZhdWx0RXh0ZW5z\naW9ucy5FeHRlbnNpb25zKQogICAgICAgICAgICAgICAgICAgID8gbmV3W10g\neyAiLmh0bWwiLCAiLmh0bSIgfQogICAgICAgICAgICAgICAgICAgIDogRGVm\nYXVsdEV4dGVuc2lvbnMuRXh0ZW5zaW9ucy5TcGxpdCgnLCcpLlNlbGVjdCh4\nID0+IHguU3RhcnRzV2l0aCgnLicpID8geCA6ICIuIiArIHgpLlRvQXJyYXko\nKQogICAgICAgICAgICAgICAgOiBudWxsOwoKICAgICAgICBwcml2YXRlIHN0\nYXRpYyBzdHJpbmcgR2V0VmVyc2lvbigpCiAgICAgICAgICAgID0+IHR5cGVv\nZihDb21tYW5kTGluZU9wdGlvbnMpLkFzc2VtYmx5LkdldEN1c3RvbUF0dHJp\nYnV0ZTxBc3NlbWJseUluZm9ybWF0aW9uYWxWZXJzaW9uQXR0cmlidXRlPigp\nLkluZm9ybWF0aW9uYWxWZXJzaW9uOwogICAgfQp9Cg==\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/natemcmaster/dotnet-serve/contents/src/dotnet-serve/CommandLineOptions.cs?ref=master",
+        "git": "https://api.github.com/repos/natemcmaster/dotnet-serve/git/blobs/fb6c8329e1cf3191d7db16c9ae053482446c4501",
+        "html": "https://github.com/natemcmaster/dotnet-serve/blob/master/src/dotnet-serve/CommandLineOptions.cs"
+    }
+}
+
+request: https://api.github.com/repos/natemcmaster/dotnet-serve/contents/src/dotnet-serve/CommandLineOptions.cs
+
+request download: https://raw.githubusercontent.com/natemcmaster/dotnet-serve/master/src/dotnet-serve/CommandLineOptions.cs
+
+
+-----------------------------------------------------------------------------------
+
+// Copyright (c) Nate McMaster.
+// Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
+
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Net;
+using System.Reflection;
+using McMaster.Extensions.CommandLineUtils;
+using Microsoft.Extensions.Logging;
+
+namespace McMaster.DotNet.Serve
+{
+    [Command(
+        Name = "dotnet serve",
+        FullName = "dotnet-serve",
+        Description = "A simple command-line HTTP server")]
+    [VersionOptionFromMember(MemberName = nameof(GetVersion))]
+    class CommandLineOptions
+    {
+        private LogLevel? _logLevel;
+        private bool? _useTls;
+
+        [Option("-d|--directory <DIR>", Description = "The root directory to serve. [Current directory]")]
+        [DirectoryExists]
+        public string Directory { get; }
+
+        [Option(Description = "Open a web browser when the server starts. [false]")]
+        public bool OpenBrowser { get; }
+
+        [Option(Description = "Port to use [8080]. Use 0 for a dynamic port.")]
+        [Range(0, 65535, ErrorMessage = "Invalid port. Ports must be in the range of 0 to 65535.")]
+        public int Port { get; } = 8080;
+
+        [Option("-a|--address <ADDRESS>", Description = "Address to use [127.0.0.1]")]
+        public IPAddress[] Addresses { get; }
+
+        [Option("--path-base <PATH>", Description = "The base URL path of postpended to the site url.")]
+        private string PathBase { get; }
+
+        [Option("--default-extensions:<EXTENSIONS>", CommandOptionType.SingleOrNoValue, Description = "A comma-delimited list of extensions to use when no extension is provided in the URL. [.html,.htm]")]
+        public (bool HasValue, string Extensions) DefaultExtensions { get; }
+
+        [Option(Description = "Show less console output.")]
+        public bool Quiet { get; }
+
+        [Option(Description = "Show more console output.")]
+        public bool Verbose { get; }
+
+        [Option("--log <LEVEL>", Description = "For advanced diagnostics.", ShowInHelpText = false)]
+        public LogLevel MinLogLevel
+        {
+            get
+            {
+                if (_logLevel.HasValue)
+                {
+                    return _logLevel.Value;
+                }
+
+                if (Quiet)
+                {
+                    return LogLevel.Error;
+                }
+
+                if (Verbose)
+                {
+                    return LogLevel.Debug;
+                }
+
+                return LogLevel.Information;
+            }
+            private set => _logLevel = value;
+        }
+
+        [Option("-S|--tls", Description = "Enable TLS (HTTPS)")]
+        public virtual bool UseTls
+        {
+            get
+            {
+                if (_useTls.HasValue)
+                {
+                    return _useTls.Value;
+                }
+
+                return !string.IsNullOrEmpty(CertPfxPath) || !string.IsNullOrEmpty(CertPemPath);
+            }
+            private set => _useTls = value;
+        }
+
+        [Option("--cert", Description = "A PEM encoded certificate file to use for HTTPS connections.\nDefaults to file in current directory named '" + CertificateLoader.DefaultCertPemFileName + "'")]
+        [FileExists]
+        public string CertPemPath { get; }
+
+        [Option("--key", Description = "A PEM encoded private key to use for HTTPS connections.\nDefaults to file in current directory named '" + CertificateLoader.DefaultPrivateKeyFileName + "'")]
+        [FileExists]
+        public string PrivateKeyPath { get; }
+
+        [Option("--pfx", Description = "A PKCS#12 certificate file to use for HTTPS connections.\nDefaults to file in current directory named '" + CertificateLoader.DefaultCertPfxFileName + "'")]
+        [FileExists]
+        public string CertPfxPath { get; }
+
+        [Option("--pfx-pwd", Description = "The password to open the certificate file. (Optional)")]
+        public virtual string CertificatePassword { get; }
+
+        [Option("--razor", Description = "Enable Razor Pages support (Experimental)")]
+        public bool EnableRazor { get; }
+
+        // Internal, experimental flag. If you found this, it may break in the future.
+        // I'm not supporting it yet becuase these files will still who up directory browser.
+        [Option("--exclude-file", Description = "A file to prevent from being served.", ShowInHelpText = false)]
+        public List<string> ExcludedFiles { get; } = new List<string>();
+
+        public string GetPathBase()
+        {
+            if (string.IsNullOrEmpty(PathBase))
+            {
+                return PathBase;
+            }
+            var pathBase = PathBase.Replace('\\', '/').TrimEnd('/');
+            return pathBase[0] != '/' ? "/" + pathBase : pathBase;
+        }
+
+        public bool ShouldUseLocalhost()
+            => Addresses == null
+            || Addresses.Length == 0
+            || (Addresses.Length == 1 && IPAddress.IsLoopback(Addresses[0]));
+
+        public string[] GetDefaultExtensions() =>
+            DefaultExtensions.HasValue
+                ? string.IsNullOrEmpty(DefaultExtensions.Extensions)
+                    ? new[] { ".html", ".htm" }
+                    : DefaultExtensions.Extensions.Split(',').Select(x => x.StartsWith('.') ? x : "." + x).ToArray()
+                : null;
+
+        private static string GetVersion()
+            => typeof(CommandLineOptions).Assembly.GetCustomAttribute<AssemblyInformationalVersionAttribute>().InformationalVersion;
+    }
+}

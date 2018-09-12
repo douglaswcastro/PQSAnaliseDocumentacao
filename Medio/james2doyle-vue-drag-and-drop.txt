@@ -1,0 +1,119 @@
+{
+    "name": "vue.drag-and-drop.js",
+    "path": "vue.drag-and-drop.js",
+    "sha": "f56f7e059f1581129733fcdf3ec59089b802f49e",
+    "size": 3314,
+    "url": "https://api.github.com/repos/james2doyle/vue-drag-and-drop/contents/vue.drag-and-drop.js?ref=master",
+    "html_url": "https://github.com/james2doyle/vue-drag-and-drop/blob/master/vue.drag-and-drop.js",
+    "git_url": "https://api.github.com/repos/james2doyle/vue-drag-and-drop/git/blobs/f56f7e059f1581129733fcdf3ec59089b802f49e",
+    "download_url": "https://raw.githubusercontent.com/james2doyle/vue-drag-and-drop/master/vue.drag-and-drop.js",
+    "type": "file",
+    "content": "LyogZ2xvYmFscyBWdWUgKi8KKGZ1bmN0aW9uICgpIHsKICB2YXIgRHJhZ0Fu\nZERyb3AgPSB7CiAgICBpbnN0YWxsOiBmdW5jdGlvbiAoVnVlKSB7CiAgICAg\nIFZ1ZS5kaXJlY3RpdmUoJ2RyYWctYW5kLWRyb3AnLCB7CiAgICAgICAgYmlu\nZDogZnVuY3Rpb24gKGVsLCBiaW5kaW5nLCB2bm9kZSkgewogICAgICAgICAg\ndGhpcy5oYW5kbGVEcmFnU3RhcnQgPSBmdW5jdGlvbiAoZSkgewogICAgICAg\nICAgICBlLnRhcmdldC5jbGFzc0xpc3QuYWRkKCdkcmFnZ2luZycpOwogICAg\nICAgICAgICBlLmRhdGFUcmFuc2Zlci5lZmZlY3RBbGxvd2VkID0gJ21vdmUn\nOwogICAgICAgICAgICAvLyBOZWVkIHRvIHNldCB0byBzb21ldGhpbmcgb3Ig\nZWxzZSBkcmFnIGRvZXNuJ3Qgc3RhcnQKICAgICAgICAgICAgZS5kYXRhVHJh\nbnNmZXIuc2V0RGF0YSgndGV4dCcsICcqJyk7CiAgICAgICAgICAgIHZub2Rl\nLmNvbnRleHQuJGVtaXQoJ2RyYWctc3RhcnQnKTsKICAgICAgICAgIH0uYmlu\nZCh0aGlzKTsKCiAgICAgICAgICB0aGlzLmhhbmRsZURyYWdPdmVyID0gZnVu\nY3Rpb24gKGUpIHsKICAgICAgICAgICAgaWYgKGUucHJldmVudERlZmF1bHQp\nIHsKICAgICAgICAgICAgICAvLyBhbGxvd3MgZHJvcHBpbmcKICAgICAgICAg\nICAgICBlLnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgIH0KCiAgICAg\nICAgICAgIGUuZGF0YVRyYW5zZmVyLmRyb3BFZmZlY3QgPSAnbW92ZSc7CiAg\nICAgICAgICAgIGUudGFyZ2V0LmNsYXNzTGlzdC5hZGQoJ2RyYWctb3Zlcicp\nOwogICAgICAgICAgICB2bm9kZS5jb250ZXh0LiRlbWl0KCdkcmFnLW92ZXIn\nKTsKCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgIH0uYmlu\nZCh0aGlzKTsKCiAgICAgICAgICB0aGlzLmhhbmRsZURyYWdFbnRlciA9IGZ1\nbmN0aW9uIChlKSB7CiAgICAgICAgICAgIHZub2RlLmNvbnRleHQuJGVtaXQo\nJ2RyYWctZW50ZXInKTsKICAgICAgICAgICAgZS50YXJnZXQuY2xhc3NMaXN0\nLmFkZCgnZHJhZy1lbnRlcicpOwogICAgICAgICAgfS5iaW5kKHRoaXMpOwoK\nICAgICAgICAgIHRoaXMuaGFuZGxlRHJhZ0xlYXZlID0gZnVuY3Rpb24gKGUp\nIHsKICAgICAgICAgICAgdm5vZGUuY29udGV4dC4kZW1pdCgnZHJhZy1sZWF2\nZScpOwogICAgICAgICAgICBlLnRhcmdldC5jbGFzc0xpc3QucmVtb3ZlKCdk\ncmFnLWVudGVyJywgJ2RyYWctb3ZlcicpOwogICAgICAgICAgfS5iaW5kKHRo\naXMpOwoKICAgICAgICAgIHRoaXMuaGFuZGxlRHJhZyA9IGZ1bmN0aW9uICgp\nIHsKICAgICAgICAgICAgdm5vZGUuY29udGV4dC4kZW1pdCgnZHJhZycpOwog\nICAgICAgICAgfS5iaW5kKHRoaXMpOwoKICAgICAgICAgIHRoaXMuaGFuZGxl\nRHJhZ0VuZCA9IGZ1bmN0aW9uIChlKSB7CiAgICAgICAgICAgIGUudGFyZ2V0\nLmNsYXNzTGlzdC5yZW1vdmUoJ2RyYWdnaW5nJywgJ2RyYWctb3ZlcicsICdk\ncmFnLWVudGVyJyk7CiAgICAgICAgICAgIHZub2RlLmNvbnRleHQuJGVtaXQo\nJ2RyYWctZW5kJyk7CiAgICAgICAgICB9LmJpbmQodGhpcyk7CgogICAgICAg\nICAgdGhpcy5oYW5kbGVEcm9wID0gZnVuY3Rpb24gKGUpIHsKICAgICAgICAg\nICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICAgICAgICBpZiAoZS5zdG9w\nUHJvcGFnYXRpb24pIHsKICAgICAgICAgICAgICAvLyBzdG9wcyB0aGUgYnJv\nd3NlciBmcm9tIHJlZGlyZWN0aW5nLgogICAgICAgICAgICAgIGUuc3RvcFBy\nb3BhZ2F0aW9uKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIERv\nbid0IGRvIGFueXRoaW5nIGlmIGRyb3BwaW5nIHRoZSBzYW1lIGNvbHVtbiB3\nZSdyZSBkcmFnZ2luZy4KICAgICAgICAgICAgdm5vZGUuY29udGV4dC4kZW1p\ndCgnZHJvcCcpOwoKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAg\nICAgfS5iaW5kKHRoaXMpOwoKICAgICAgICAgIC8vIHNldHVwIHRoZSBsaXN0\nZW5lcnMKICAgICAgICAgIGVsLnNldEF0dHJpYnV0ZSgnZHJhZ2dhYmxlJywg\nJ3RydWUnKTsKICAgICAgICAgIGVsLmFkZEV2ZW50TGlzdGVuZXIoJ2RyYWdz\ndGFydCcsIHRoaXMuaGFuZGxlRHJhZ1N0YXJ0LCBmYWxzZSk7CiAgICAgICAg\nICBlbC5hZGRFdmVudExpc3RlbmVyKCdkcmFnZW50ZXInLCB0aGlzLmhhbmRs\nZURyYWdFbnRlciwgZmFsc2UpOwogICAgICAgICAgZWwuYWRkRXZlbnRMaXN0\nZW5lcignZHJhZ292ZXInLCB0aGlzLmhhbmRsZURyYWdPdmVyLCBmYWxzZSk7\nCiAgICAgICAgICBlbC5hZGRFdmVudExpc3RlbmVyKCdkcmFnJywgdGhpcy5o\nYW5kbGVEcmFnLCBmYWxzZSk7CiAgICAgICAgICBlbC5hZGRFdmVudExpc3Rl\nbmVyKCdkcmFnbGVhdmUnLCB0aGlzLmhhbmRsZURyYWdMZWF2ZSwgZmFsc2Up\nOwogICAgICAgICAgZWwuYWRkRXZlbnRMaXN0ZW5lcignZHJhZ2VuZCcsIHRo\naXMuaGFuZGxlRHJhZ0VuZCwgZmFsc2UpOwogICAgICAgICAgZWwuYWRkRXZl\nbnRMaXN0ZW5lcignZHJvcCcsIHRoaXMuaGFuZGxlRHJvcCwgZmFsc2UpOwog\nICAgICAgIH0sCiAgICAgICAgdW5iaW5kOiBmdW5jdGlvbiAoZWwpIHsKICAg\nICAgICAgIC8vIHNodXQgZXInIGRvd24KICAgICAgICAgIGVsLmNsYXNzTGlz\ndC5yZW1vdmUoJ2RyYWdnaW5nJywgJ2RyYWctb3ZlcicsICdkcmFnLWVudGVy\nJyk7CiAgICAgICAgICBlbC5yZW1vdmVBdHRyaWJ1dGUoJ2RyYWdnYWJsZScp\nOwogICAgICAgICAgZWwucmVtb3ZlRXZlbnRMaXN0ZW5lcignZHJhZ3N0YXJ0\nJywgdGhpcy5oYW5kbGVEcmFnU3RhcnQpOwogICAgICAgICAgZWwucmVtb3Zl\nRXZlbnRMaXN0ZW5lcignZHJhZ2VudGVyJywgdGhpcy5oYW5kbGVEcmFnRW50\nZXIpOwogICAgICAgICAgZWwucmVtb3ZlRXZlbnRMaXN0ZW5lcignZHJhZ292\nZXInLCB0aGlzLmhhbmRsZURyYWdPdmVyKTsKICAgICAgICAgIGVsLnJlbW92\nZUV2ZW50TGlzdGVuZXIoJ2RyYWdsZWF2ZScsIHRoaXMuaGFuZGxlRHJhZ0xl\nYXZlKTsKICAgICAgICAgIGVsLnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2RyYWcn\nLCB0aGlzLmhhbmRsZURyYWcpOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9\nCiAgfTsKCiAgaWYgKHR5cGVvZiBleHBvcnRzID09ICdvYmplY3QnKSB7CiAg\nICBtb2R1bGUuZXhwb3J0cyA9IERyYWdBbmREcm9wOwogIH0gZWxzZSBpZiAo\ndHlwZW9mIGRlZmluZSA9PSAnZnVuY3Rpb24nICYmIGRlZmluZS5hbWQpIHsK\nICAgIGRlZmluZShbXSwgZnVuY3Rpb24gKCkgewogICAgICByZXR1cm4gRHJh\nZ0FuZERyb3A7CiAgICB9KTsKICB9IGVsc2UgaWYgKHdpbmRvdy5WdWUpIHsK\nICAgIHdpbmRvdy5EcmFnQW5kRHJvcCA9IERyYWdBbmREcm9wOwogICAgVnVl\nLnVzZShEcmFnQW5kRHJvcCk7CiAgfQp9KSgpOwo=\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/james2doyle/vue-drag-and-drop/contents/vue.drag-and-drop.js?ref=master",
+        "git": "https://api.github.com/repos/james2doyle/vue-drag-and-drop/git/blobs/f56f7e059f1581129733fcdf3ec59089b802f49e",
+        "html": "https://github.com/james2doyle/vue-drag-and-drop/blob/master/vue.drag-and-drop.js"
+    }
+}
+
+request: http://api.github.com/repos/james2doyle/vue-drag-and-drop/contents/vue.drag-and-drop.js
+
+request download: https://raw.githubusercontent.com/james2doyle/vue-drag-and-drop/master/vue.drag-and-drop.js
+
+------------------------------------------------------------------------------------------------
+
+/* globals Vue */
+(function () {
+  var DragAndDrop = {
+    install: function (Vue) {
+      Vue.directive('drag-and-drop', {
+        bind: function (el, binding, vnode) {
+          this.handleDragStart = function (e) {
+            e.target.classList.add('dragging');
+            e.dataTransfer.effectAllowed = 'move';
+            // Need to set to something or else drag doesn't start
+            e.dataTransfer.setData('text', '*');
+            vnode.context.$emit('drag-start');
+          }.bind(this);
+
+          this.handleDragOver = function (e) {
+            if (e.preventDefault) {
+              // allows dropping
+              e.preventDefault();
+            }
+
+            e.dataTransfer.dropEffect = 'move';
+            e.target.classList.add('drag-over');
+            vnode.context.$emit('drag-over');
+
+            return false;
+          }.bind(this);
+
+          this.handleDragEnter = function (e) {
+            vnode.context.$emit('drag-enter');
+            e.target.classList.add('drag-enter');
+          }.bind(this);
+
+          this.handleDragLeave = function (e) {
+            vnode.context.$emit('drag-leave');
+            e.target.classList.remove('drag-enter', 'drag-over');
+          }.bind(this);
+
+          this.handleDrag = function () {
+            vnode.context.$emit('drag');
+          }.bind(this);
+
+          this.handleDragEnd = function (e) {
+            e.target.classList.remove('dragging', 'drag-over', 'drag-enter');
+            vnode.context.$emit('drag-end');
+          }.bind(this);
+
+          this.handleDrop = function (e) {
+            e.preventDefault();
+            if (e.stopPropagation) {
+              // stops the browser from redirecting.
+              e.stopPropagation();
+            }
+
+            // Don't do anything if dropping the same column we're dragging.
+            vnode.context.$emit('drop');
+
+            return false;
+          }.bind(this);
+
+          // setup the listeners
+          el.setAttribute('draggable', 'true');
+          el.addEventListener('dragstart', this.handleDragStart, false);
+          el.addEventListener('dragenter', this.handleDragEnter, false);
+          el.addEventListener('dragover', this.handleDragOver, false);
+          el.addEventListener('drag', this.handleDrag, false);
+          el.addEventListener('dragleave', this.handleDragLeave, false);
+          el.addEventListener('dragend', this.handleDragEnd, false);
+          el.addEventListener('drop', this.handleDrop, false);
+        },
+        unbind: function (el) {
+          // shut er' down
+          el.classList.remove('dragging', 'drag-over', 'drag-enter');
+          el.removeAttribute('draggable');
+          el.removeEventListener('dragstart', this.handleDragStart);
+          el.removeEventListener('dragenter', this.handleDragEnter);
+          el.removeEventListener('dragover', this.handleDragOver);
+          el.removeEventListener('dragleave', this.handleDragLeave);
+          el.removeEventListener('drag', this.handleDrag);
+        }
+      });
+    }
+  };
+
+  if (typeof exports == 'object') {
+    module.exports = DragAndDrop;
+  } else if (typeof define == 'function' && define.amd) {
+    define([], function () {
+      return DragAndDrop;
+    });
+  } else if (window.Vue) {
+    window.DragAndDrop = DragAndDrop;
+    Vue.use(DragAndDrop);
+  }
+})();

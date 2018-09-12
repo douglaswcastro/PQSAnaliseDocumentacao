@@ -1,0 +1,152 @@
+Google / google-api-dotnet-client-samples
+
+Requisição
+http://api.github.com/repos/google/google-api-dotnet-client-samples/contents/UrlShortener.ShortenURL/Program.cs
+
+{
+    "name": "Program.cs",
+    "path": "UrlShortener.ShortenURL/Program.cs",
+    "sha": "27e6ad8f6fb4825351eca028243e3e552572077d",
+    "size": 3822,
+    "url": "https://api.github.com/repos/google/google-api-dotnet-client-samples/contents/UrlShortener.ShortenURL/Program.cs?ref=master",
+    "html_url": "https://github.com/google/google-api-dotnet-client-samples/blob/master/UrlShortener.ShortenURL/Program.cs",
+    "git_url": "https://api.github.com/repos/google/google-api-dotnet-client-samples/git/blobs/27e6ad8f6fb4825351eca028243e3e552572077d",
+    "download_url": "https://raw.githubusercontent.com/google/google-api-dotnet-client-samples/master/UrlShortener.ShortenURL/Program.cs",
+    "type": "file",
+    "content": "77u/LyoKQ29weXJpZ2h0IDIwMTEgR29vZ2xlIEluYwoKTGljZW5zZWQgdW5k\nZXIgdGhlIEFwYWNoZSBMaWNlbnNlLCBWZXJzaW9uIDIuMCh0aGUgIkxpY2Vu\nc2UiKTsKeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29t\ncGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgpZb3UgbWF5IG9idGFpbiBhIGNv\ncHkgb2YgdGhlIExpY2Vuc2UgYXQKCiAgICBodHRwOi8vd3d3LmFwYWNoZS5v\ncmcvbGljZW5zZXMvTElDRU5TRS0yLjAKClVubGVzcyByZXF1aXJlZCBieSBh\ncHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdh\ncmUKZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0\nZWQgb24gYW4gIkFTIElTIiBCQVNJUywKV0lUSE9VVCBXQVJSQU5USUVTIE9S\nIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGlt\ncGxpZWQuClNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1\nYWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKbGltaXRhdGlvbnMgdW5k\nZXIgdGhlIExpY2Vuc2UuCiovCgp1c2luZyBTeXN0ZW07CnVzaW5nIFN5c3Rl\nbS5UaHJlYWRpbmcuVGFza3M7Cgp1c2luZyBHb29nbGUuQXBpcy5VcmxzaG9y\ndGVuZXIudjE7CnVzaW5nIEdvb2dsZS5BcGlzLlVybHNob3J0ZW5lci52MS5E\nYXRhOwp1c2luZyBHb29nbGUuQXBpcy5TZXJ2aWNlczsKCm5hbWVzcGFjZSBH\nb29nbGUuQXBpcy5TYW1wbGVzLkNtZFVybFNob3J0ZW5lcgp7CiAgICAvLy8g\nPHN1bW1hcnk+CiAgICAvLy8gVGhpcyBleGFtcGxlIHNob3dzIHlvdSBob3cg\ndG8gdXNlIGEgQ29kZUdlbmVyYXRlZCBsaWJyYXJ5IHRvIGFjY2VzcyBHb29n\nbGUgQVBJcy4gCiAgICAvLy8gSW4gdGhpcyBjYXNlIHRoZSBVUkxTaG9ydGVu\nZXIgc2VydmljZSBpcyB1c2VkIHRvIGV4ZWN1dGUgc2ltcGxlIHJlc29sdmUg\nJiBnZXQgcmVxdWVzdHMuCiAgICAvLy8gPC9zdW1tYXJ5PgogICAgaW50ZXJu\nYWwgY2xhc3MgUHJvZ3JhbQogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9u\nbHkgVXJsc2hvcnRlbmVyU2VydmljZSBzZXJ2aWNlOwoKICAgICAgICBpbnRl\ncm5hbCBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFyZ3MpCiAgICAgICAg\newogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiVVJMIFNob3J0ZW5l\nciBTYW1wbGUiKTsKICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIj09\nPT09PT09PT09PT09PT09PT09Iik7CgogICAgICAgICAgICB0cnkKICAgICAg\nICAgICAgewogICAgICAgICAgICAgICAgbmV3IFByb2dyYW0oKS5SdW4oKS5X\nYWl0KCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEFnZ3Jl\nZ2F0ZUV4Y2VwdGlvbiBleCkKICAgICAgICAgICAgewogICAgICAgICAgICAg\nICAgZm9yZWFjaCAodmFyIGUgaW4gZXguSW5uZXJFeGNlcHRpb25zKQogICAg\nICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3Jp\ndGVMaW5lKCJFUlJPUjogIiArIGUuTWVzc2FnZSk7CiAgICAgICAgICAgICAg\nICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVM\naW5lKCJQcmVzcyBhbnkga2V5IHRvIGNvbnRpbnVlLi4uIik7CiAgICAgICAg\nICAgIENvbnNvbGUuUmVhZEtleSgpOwogICAgICAgIH0KCiAgICAgICAgcHVi\nbGljIFByb2dyYW0oKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZSA9\nIG5ldyBVcmxzaG9ydGVuZXJTZXJ2aWNlKG5ldyBCYXNlQ2xpZW50U2Vydmlj\nZS5Jbml0aWFsaXplcgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAg\nICAgICAgIEFwcGxpY2F0aW9uTmFtZSA9ICJVcmxTaG9ydGVuZXIuU2hvcnRl\nblVSTCBzYW1wbGUiLAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfQoK\nICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sgUnVuKCkKICAgICAgICB7CiAg\nICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJXaGF0IGRvIHlvdSB3YW50\nIHRvIGRvPyIpOwogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgiUHJl\nc3MgMSB0byBjcmVhdGUgYSBzaG9ydCBVUkwiKTsKICAgICAgICAgICAgQ29u\nc29sZS5Xcml0ZUxpbmUoIlByZXNzIDIgdG8gcmVzb2x2ZSBhIHNob3J0IFVS\nTCIpOwoKICAgICAgICAgICAgdmFyIGlucHV0ID0gQ29uc29sZS5SZWFkTGlu\nZSgpOwogICAgICAgICAgICBpZiAoaW5wdXQgPT0gIjEiKQogICAgICAgICAg\nICB7CiAgICAgICAgICAgICAgICBhd2FpdCBDcmVhdGVTaG9ydFVSTCgpOwog\nICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UgaWYgKGlucHV0ID09ICIy\nIikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYXdhaXQgUmVzb2x2\nZVNob3J0VVJMKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQog\nICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGlu\nZSgiSW52YWxpZCBvcHRpb24hIik7CiAgICAgICAgICAgIH0KICAgICAgICB9\nCgogICAgICAgIHByaXZhdGUgYXN5bmMgVGFzayBSZXNvbHZlU2hvcnRVUkwo\nKQogICAgICAgIHsKICAgICAgICAgICAgLy8gUmVxdWVzdCBpbnB1dAogICAg\nICAgICAgICBzdHJpbmcgdXJsVG9SZXNvbHZlID0gImh0dHA6Ly9nb28uZ2wv\naGNFZzciOwogICAgICAgICAgICBDb25zb2xlLldyaXRlKCJcdEVudGVyIGEg\nVVJMIHRvIHJlc29sdmUgW3swfV06ICIsIHVybFRvUmVzb2x2ZSk7CiAgICAg\nICAgICAgIHZhciBpbnB1dCA9IENvbnNvbGUuUmVhZExpbmUoKTsKICAgICAg\nICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JFbXB0eShpbnB1dCkpCiAgICAg\nICAgICAgIHsKICAgICAgICAgICAgICAgIHVybFRvUmVzb2x2ZSA9IGlucHV0\nOwogICAgICAgICAgICB9CiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5l\nKCk7CgogICAgICAgICAgICAvLyBSZXNvbHZlIFVSTAogICAgICAgICAgICBV\ncmwgcmVzcG9uc2UgPSBhd2FpdCBzZXJ2aWNlLlVybC5HZXQodXJsVG9SZXNv\nbHZlKS5FeGVjdXRlQXN5bmMoKTsKCiAgICAgICAgICAgIC8vIERpc3BsYXkg\ncmVzcG9uc2UKICAgICAgICAgICAgQ29uc29sZS5Xcml0ZUxpbmUoIlx0U3Rh\ndHVzOiAgezB9IiwgcmVzcG9uc2UuU3RhdHVzKTsKICAgICAgICAgICAgQ29u\nc29sZS5Xcml0ZUxpbmUoIlx0TG9uZyBVUkw6ezB9IiwgcmVzcG9uc2UuTG9u\nZ1VybCk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2sg\nQ3JlYXRlU2hvcnRVUkwoKQogICAgICAgIHsKICAgICAgICAgICAgLy8gUmVx\ndWVzdCBpbnB1dAogICAgICAgICAgICBzdHJpbmcgdXJsVG9TaG9ydGVuID0g\nImh0dHA6Ly9tYXBzLmdvb2dsZS5jb20vIjsKICAgICAgICAgICAgQ29uc29s\nZS5Xcml0ZSgiXHRFbnRlciBhIFVSTCB0byBzaG9ydGVuW3swfV06ICIsIHVy\nbFRvU2hvcnRlbik7CiAgICAgICAgICAgIHZhciBpbnB1dCA9IENvbnNvbGUu\nUmVhZExpbmUoKTsKICAgICAgICAgICAgaWYgKCFzdHJpbmcuSXNOdWxsT3JF\nbXB0eShpbnB1dCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHVy\nbFRvU2hvcnRlbiA9IGlucHV0OwogICAgICAgICAgICB9CiAgICAgICAgICAg\nIENvbnNvbGUuV3JpdGVMaW5lKCk7CgogICAgICAgICAgICAvLyBTaG9ydGVu\nIFVSTAogICAgICAgICAgICBVcmwgcmVzcG9uc2UgPSBhd2FpdCBzZXJ2aWNl\nLlVybC5JbnNlcnQobmV3IFVybCB7IExvbmdVcmwgPSB1cmxUb1Nob3J0ZW4g\nfSkuRXhlY3V0ZUFzeW5jKCk7CgogICAgICAgICAgICAvLyBEaXNwbGF5IHJl\nc3BvbnNlCiAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKCJcdFNob3J0\nIFVSTDp7MH0iLCByZXNwb25zZS5JZCk7CiAgICAgICAgfQogICAgfQp9\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/google/google-api-dotnet-client-samples/contents/UrlShortener.ShortenURL/Program.cs?ref=master",
+        "git": "https://api.github.com/repos/google/google-api-dotnet-client-samples/git/blobs/27e6ad8f6fb4825351eca028243e3e552572077d",
+        "html": "https://github.com/google/google-api-dotnet-client-samples/blob/master/UrlShortener.ShortenURL/Program.cs"
+    }
+}
+
+Requisição Download
+https://raw.githubusercontent.com/google/google-api-dotnet-client-samples/master/UrlShortener.ShortenURL/Program.cs
+
+arquivo
+
+/*
+Copyright 2011 Google Inc
+
+Licensed under the Apache License, Version 2.0(the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+using System;
+using System.Threading.Tasks;
+
+using Google.Apis.Urlshortener.v1;
+using Google.Apis.Urlshortener.v1.Data;
+using Google.Apis.Services;
+
+namespace Google.Apis.Samples.CmdUrlShortener
+{
+    /// <summary>
+    /// This example shows you how to use a CodeGenerated library to access Google APIs. 
+    /// In this case the URLShortener service is used to execute simple resolve & get requests.
+    /// </summary>
+    internal class Program
+    {
+        private readonly UrlshortenerService service;
+
+        internal static void Main(string[] args)
+        {
+            Console.WriteLine("URL Shortener Sample");
+            Console.WriteLine("====================");
+
+            try
+            {
+                new Program().Run().Wait();
+            }
+            catch (AggregateException ex)
+            {
+                foreach (var e in ex.InnerExceptions)
+                {
+                    Console.WriteLine("ERROR: " + e.Message);
+                }
+            }
+
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+        }
+
+        public Program()
+        {
+            service = new UrlshortenerService(new BaseClientService.Initializer
+                {
+                    ApplicationName = "UrlShortener.ShortenURL sample",
+                });
+        }
+
+        private async Task Run()
+        {
+            Console.WriteLine("What do you want to do?");
+            Console.WriteLine("Press 1 to create a short URL");
+            Console.WriteLine("Press 2 to resolve a short URL");
+
+            var input = Console.ReadLine();
+            if (input == "1")
+            {
+                await CreateShortURL();
+            }
+            else if (input == "2")
+            {
+                await ResolveShortURL();
+            }
+            else
+            {
+                Console.WriteLine("Invalid option!");
+            }
+        }
+
+        private async Task ResolveShortURL()
+        {
+            // Request input
+            string urlToResolve = "http://goo.gl/hcEg7";
+            Console.Write("\tEnter a URL to resolve [{0}]: ", urlToResolve);
+            var input = Console.ReadLine();
+            if (!string.IsNullOrEmpty(input))
+            {
+                urlToResolve = input;
+            }
+            Console.WriteLine();
+
+            // Resolve URL
+            Url response = await service.Url.Get(urlToResolve).ExecuteAsync();
+
+            // Display response
+            Console.WriteLine("\tStatus:  {0}", response.Status);
+            Console.WriteLine("\tLong URL:{0}", response.LongUrl);
+        }
+
+        private async Task CreateShortURL()
+        {
+            // Request input
+            string urlToShorten = "http://maps.google.com/";
+            Console.Write("\tEnter a URL to shorten[{0}]: ", urlToShorten);
+            var input = Console.ReadLine();
+            if (!string.IsNullOrEmpty(input))
+            {
+                urlToShorten = input;
+            }
+            Console.WriteLine();
+
+            // Shorten URL
+            Url response = await service.Url.Insert(new Url { LongUrl = urlToShorten }).ExecuteAsync();
+
+            // Display response
+            Console.WriteLine("\tShort URL:{0}", response.Id);
+        }
+    }
+}

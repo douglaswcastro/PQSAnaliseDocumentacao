@@ -1,0 +1,91 @@
+
+api endpoint: http://api.github.com/repos/Microsoft/botbuilder-dotnet/contents/samples-final/1.Console-EchoBot-With-State/Program.cs
+download link: https://raw.githubusercontent.com/Microsoft/botbuilder-dotnet/master/samples-final/1.Console-EchoBot-With-State/Program.cs
+
+{
+    "name": "Program.cs",
+    "path": "samples-final/1.Console-EchoBot-With-State/Program.cs",
+    "sha": "ffb3c29fca2d8ec5d597dc02c36d991b790e8e30",
+    "size": 2342,
+    "url": "https://api.github.com/repos/Microsoft/botbuilder-dotnet/contents/samples-final/1.Console-EchoBot-With-State/Program.cs?ref=master",
+    "html_url": "https://github.com/Microsoft/botbuilder-dotnet/blob/master/samples-final/1.Console-EchoBot-With-State/Program.cs",
+    "git_url": "https://api.github.com/repos/Microsoft/botbuilder-dotnet/git/blobs/ffb3c29fca2d8ec5d597dc02c36d991b790e8e30",
+    "download_url": "https://raw.githubusercontent.com/Microsoft/botbuilder-dotnet/master/samples-final/1.Console-EchoBot-With-State/Program.cs",
+    "type": "file",
+    "content": "77u/Ly8gQ29weXJpZ2h0IChjKSBNaWNyb3NvZnQgQ29ycG9yYXRpb24uIEFs\nbCByaWdodHMgcmVzZXJ2ZWQuCi8vIExpY2Vuc2VkIHVuZGVyIHRoZSBNSVQg\nTGljZW5zZS4KCnVzaW5nIFN5c3RlbTsKdXNpbmcgU3lzdGVtLlRocmVhZGlu\nZy5UYXNrczsKdXNpbmcgTWljcm9zb2Z0LkJvdDsKdXNpbmcgTWljcm9zb2Z0\nLkJvdC5CdWlsZGVyOwp1c2luZyBNaWNyb3NvZnQuQm90LkJ1aWxkZXIuQWRh\ncHRlcnM7CnVzaW5nIE1pY3Jvc29mdC5Cb3QuQnVpbGRlci5Db3JlLkV4dGVu\nc2lvbnM7CnVzaW5nIE1pY3Jvc29mdC5Cb3QuU2NoZW1hOwoKbmFtZXNwYWNl\nIENvbnNvbGVfRWNob0JvdF9XaXRoX1N0YXRlCnsKICAgIGNsYXNzIFByb2dy\nYW0KICAgIHsKICAgICAgICBzdGF0aWMgdm9pZCBNYWluKHN0cmluZ1tdIGFy\nZ3MpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSgi\nV2VsY29tZSB0byB0aGUgRWNob0JvdC4gVHlwZSBzb21ldGhpbmcgdG8gZ2V0\nIHN0YXJ0ZWQuIik7CgogICAgICAgICAgICAvLyBDcmVhdGUgdGhlIENvbnNv\nbGUgQWRhcHRlciwgYW5kIGFkZCBDb252ZXJzYXRpb24gU3RhdGUgCiAgICAg\nICAgICAgIC8vIHRvIHRoZSBCb3QuIFRoZSBDb252ZXJzYXRpb24gU3RhdGUg\nd2lsbCBiZSBzdG9yZWQgaW4gbWVtb3J5LiAKICAgICAgICAgICAgdmFyIGFk\nYXB0ZXIgPSBuZXcgQ29uc29sZUFkYXB0ZXIoKQogICAgICAgICAgICAgICAg\nLlVzZShuZXcgQ29udmVyc2F0aW9uU3RhdGU8RWNob1N0YXRlPihuZXcgTWVt\nb3J5U3RvcmFnZSgpKSk7CgogICAgICAgICAgICAvLyBDcmVhdGUgdGhlIGlu\nc3RhbmNlIG9mIG91ciBCb3QuCiAgICAgICAgICAgIHZhciBlY2hvQm90ID0g\nbmV3IEVjaG9Cb3QoKTsKCiAgICAgICAgICAgIC8vIENvbm5lY3QgdGhlIENv\nbnNvbGUgQWRhcHRlciB0byB0aGUgQm90LiAKICAgICAgICAgICAgYWRhcHRl\nci5Qcm9jZXNzQWN0aXZpdHkoCiAgICAgICAgICAgICAgICBhc3luYyAoY29u\ndGV4dCkgPT4gYXdhaXQgZWNob0JvdC5PblR1cm4oY29udGV4dCkpLldhaXQo\nKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIGNsYXNzIEVjaG9Cb3Qg\nOiBJQm90CiAgICB7CiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8v\nLyBFdmVyeSBDb252ZXJzYXRpb24gdHVybiBmb3Igb3VyIEVjaG9Cb3Qgd2ls\nbCBjYWxsIHRoaXMgbWV0aG9kLiBJbiBoZXJlCiAgICAgICAgLy8vIHRoZSBi\nb3QgY2hlY2tzIHRoZSBBY3RpdnR5IHR5cGUgdG8gdmVyaWZ5IGl0J3MgYSBt\nZXNzYWdlLCBidW1wcyB0aGUgCiAgICAgICAgLy8vIHR1cm4gY29udmVyc2F0\naW9uICdUdXJuJyBjb3VudCwgYW5kIHRoZW4gZWNob2VzIHRoZSB1c2VycyB0\neXBpbmcKICAgICAgICAvLy8gYmFjayB0byB0aGVtLiAKICAgICAgICAvLy8g\nPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iY29udGV4dCI+\nVHVybiBzY29wZWQgY29udGV4dCBjb250YWluaW5nIGFsbCB0aGUgZGF0YSBu\nZWVkZWQKICAgICAgICAvLy8gZm9yIHByb2Nlc3NpbmcgdGhpcyBjb252ZXJz\nYXRpb24gdHVybi4gPC9wYXJhbT4gICAgICAgIAogICAgICAgIHB1YmxpYyBh\nc3luYyBUYXNrIE9uVHVybihJVHVybkNvbnRleHQgY29udGV4dCkKICAgICAg\nICB7CiAgICAgICAgICAgIC8vIFRoaXMgYm90IGlzIG9ubHkgaGFuZGxpbmcg\nTWVzc2FnZXMKICAgICAgICAgICAgaWYgKGNvbnRleHQuQWN0aXZpdHkuVHlw\nZSA9PSBBY3Rpdml0eVR5cGVzLk1lc3NhZ2UpCiAgICAgICAgICAgIHsKICAg\nICAgICAgICAgICAgIC8vIEdldCB0aGUgY29udmVyc2F0aW9uIHN0YXRlIGZy\nb20gdGhlIHR1cm4gY29udGV4dAogICAgICAgICAgICAgICAgdmFyIHN0YXRl\nID0gY29udGV4dC5HZXRDb252ZXJzYXRpb25TdGF0ZTxFY2hvU3RhdGU+KCk7\nCgogICAgICAgICAgICAgICAgLy8gQnVtcCB0aGUgdHVybiBjb3VudC4gCiAg\nICAgICAgICAgICAgICBzdGF0ZS5UdXJuQ291bnQrKzsKCiAgICAgICAgICAg\nICAgICAvLyBFY2hvIGJhY2sgdG8gdGhlIHVzZXIgd2hhdGV2ZXIgdGhleSB0\neXBlZC4KICAgICAgICAgICAgICAgIGF3YWl0IGNvbnRleHQuU2VuZEFjdGl2\naXR5KCQiVHVybiB7c3RhdGUuVHVybkNvdW50fTogWW91IHNlbnQgJ3tjb250\nZXh0LkFjdGl2aXR5LlRleHR9JyIpOwogICAgICAgICAgICB9CiAgICAgICAg\nfQogICAgfQoKICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBDbGFzcyBmb3Ig\nc3RvcmluZyBjb252ZXJzYXRpb24gc3RhdGUuIAogICAgLy8vIDwvc3VtbWFy\neT4KICAgIHB1YmxpYyBjbGFzcyBFY2hvU3RhdGUKICAgIHsKICAgICAgICBw\ndWJsaWMgaW50IFR1cm5Db3VudCB7IGdldDsgc2V0OyB9ID0gMDsKICAgIH0K\nfQo=\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/Microsoft/botbuilder-dotnet/contents/samples-final/1.Console-EchoBot-With-State/Program.cs?ref=master",
+        "git": "https://api.github.com/repos/Microsoft/botbuilder-dotnet/git/blobs/ffb3c29fca2d8ec5d597dc02c36d991b790e8e30",
+        "html": "https://github.com/Microsoft/botbuilder-dotnet/blob/master/samples-final/1.Console-EchoBot-With-State/Program.cs"
+    }
+}
+----------------------------------------------------------------------------
+// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License.
+
+using System;
+using System.Threading.Tasks;
+using Microsoft.Bot;
+using Microsoft.Bot.Builder;
+using Microsoft.Bot.Builder.Adapters;
+using Microsoft.Bot.Builder.Core.Extensions;
+using Microsoft.Bot.Schema;
+
+namespace Console_EchoBot_With_State
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to the EchoBot. Type something to get started.");
+
+            // Create the Console Adapter, and add Conversation State 
+            // to the Bot. The Conversation State will be stored in memory. 
+            var adapter = new ConsoleAdapter()
+                .Use(new ConversationState<EchoState>(new MemoryStorage()));
+
+            // Create the instance of our Bot.
+            var echoBot = new EchoBot();
+
+            // Connect the Console Adapter to the Bot. 
+            adapter.ProcessActivity(
+                async (context) => await echoBot.OnTurn(context)).Wait();
+        }
+    }
+
+    public class EchoBot : IBot
+    {
+        /// <summary>
+        /// Every Conversation turn for our EchoBot will call this method. In here
+        /// the bot checks the Activty type to verify it's a message, bumps the 
+        /// turn conversation 'Turn' count, and then echoes the users typing
+        /// back to them. 
+        /// </summary>
+        /// <param name="context">Turn scoped context containing all the data needed
+        /// for processing this conversation turn. </param>        
+        public async Task OnTurn(ITurnContext context)
+        {
+            // This bot is only handling Messages
+            if (context.Activity.Type == ActivityTypes.Message)
+            {
+                // Get the conversation state from the turn context
+                var state = context.GetConversationState<EchoState>();
+
+                // Bump the turn count. 
+                state.TurnCount++;
+
+                // Echo back to the user whatever they typed.
+                await context.SendActivity($"Turn {state.TurnCount}: You sent '{context.Activity.Text}'");
+            }
+        }
+    }
+
+    /// <summary>
+    /// Class for storing conversation state. 
+    /// </summary>
+    public class EchoState
+    {
+        public int TurnCount { get; set; } = 0;
+    }
+}

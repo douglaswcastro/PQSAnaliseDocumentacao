@@ -1,0 +1,419 @@
+Azure / azure-sdk-for-net
+
+Requisição
+http://api.github.com/repos/Azure/azure-sdk-for-net/contents/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs
+
+{
+    "name": "Operations.cs",
+    "path": "src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs",
+    "sha": "8814e6951d4a5849feab2ab32c33a812d5d1b817",
+    "size": 16849,
+    "url": "https://api.github.com/repos/Azure/azure-sdk-for-net/contents/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs?ref=psSdkJson6",
+    "html_url": "https://github.com/Azure/azure-sdk-for-net/blob/psSdkJson6/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs",
+    "git_url": "https://api.github.com/repos/Azure/azure-sdk-for-net/git/blobs/8814e6951d4a5849feab2ab32c33a812d5d1b817",
+    "download_url": "https://raw.githubusercontent.com/Azure/azure-sdk-for-net/psSdkJson6/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs",
+    "type": "file",
+    "content": "Ly8gPGF1dG8tZ2VuZXJhdGVkPgovLyBDb3B5cmlnaHQgKGMpIE1pY3Jvc29m\ndCBDb3Jwb3JhdGlvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KLy8gTGljZW5z\nZWQgdW5kZXIgdGhlIE1JVCBMaWNlbnNlLiBTZWUgTGljZW5zZS50eHQgaW4g\ndGhlIHByb2plY3Qgcm9vdCBmb3IKLy8gbGljZW5zZSBpbmZvcm1hdGlvbi4K\nLy8KLy8gQ29kZSBnZW5lcmF0ZWQgYnkgTWljcm9zb2Z0IChSKSBBdXRvUmVz\ndCBDb2RlIEdlbmVyYXRvci4KLy8gQ2hhbmdlcyBtYXkgY2F1c2UgaW5jb3Jy\nZWN0IGJlaGF2aW9yIGFuZCB3aWxsIGJlIGxvc3QgaWYgdGhlIGNvZGUgaXMK\nLy8gcmVnZW5lcmF0ZWQuCi8vIDwvYXV0by1nZW5lcmF0ZWQ+CgpuYW1lc3Bh\nY2UgTWljcm9zb2Z0LkF6dXJlLk1hbmFnZW1lbnQuQW5hbHlzaXMKewogICAg\ndXNpbmcgTWljcm9zb2Z0LlJlc3Q7CiAgICB1c2luZyBNaWNyb3NvZnQuUmVz\ndC5BenVyZTsKICAgIHVzaW5nIE1vZGVsczsKICAgIHVzaW5nIE5ld3RvbnNv\nZnQuSnNvbjsKICAgIHVzaW5nIFN5c3RlbS5Db2xsZWN0aW9uczsKICAgIHVz\naW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljOwogICAgdXNpbmcgU3lz\ndGVtLkxpbnE7CiAgICB1c2luZyBTeXN0ZW0uTmV0OwogICAgdXNpbmcgU3lz\ndGVtLk5ldC5IdHRwOwogICAgdXNpbmcgU3lzdGVtLlRocmVhZGluZzsKICAg\nIHVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7CgogICAgLy8vIDxzdW1t\nYXJ5PgogICAgLy8vIE9wZXJhdGlvbnMgb3BlcmF0aW9ucy4KICAgIC8vLyA8\nL3N1bW1hcnk+CiAgICBpbnRlcm5hbCBwYXJ0aWFsIGNsYXNzIE9wZXJhdGlv\nbnMgOiBJU2VydmljZU9wZXJhdGlvbnM8QW5hbHlzaXNTZXJ2aWNlc01hbmFn\nZW1lbnRDbGllbnQ+LCBJT3BlcmF0aW9ucwogICAgewogICAgICAgIC8vLyA8\nc3VtbWFyeT4KICAgICAgICAvLy8gSW5pdGlhbGl6ZXMgYSBuZXcgaW5zdGFu\nY2Ugb2YgdGhlIE9wZXJhdGlvbnMgY2xhc3MuCiAgICAgICAgLy8vIDwvc3Vt\nbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9J2NsaWVudCc+CiAgICAg\nICAgLy8vIFJlZmVyZW5jZSB0byB0aGUgc2VydmljZSBjbGllbnQuCiAgICAg\nICAgLy8vIDwvcGFyYW0+CiAgICAgICAgLy8vIDxleGNlcHRpb24gY3JlZj0i\nU3lzdGVtLkFyZ3VtZW50TnVsbEV4Y2VwdGlvbiI+CiAgICAgICAgLy8vIFRo\ncm93biB3aGVuIGEgcmVxdWlyZWQgcGFyYW1ldGVyIGlzIG51bGwKICAgICAg\nICAvLy8gPC9leGNlcHRpb24+CiAgICAgICAgaW50ZXJuYWwgT3BlcmF0aW9u\ncyhBbmFseXNpc1NlcnZpY2VzTWFuYWdlbWVudENsaWVudCBjbGllbnQpCiAg\nICAgICAgewogICAgICAgICAgICBpZiAoY2xpZW50ID09IG51bGwpCiAgICAg\nICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBTeXN0ZW0uQXJn\ndW1lbnROdWxsRXhjZXB0aW9uKCJjbGllbnQiKTsKICAgICAgICAgICAgfQog\nICAgICAgICAgICBDbGllbnQgPSBjbGllbnQ7CiAgICAgICAgfQoKICAgICAg\nICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEdldHMgYSByZWZlcmVuY2Ug\ndG8gdGhlIEFuYWx5c2lzU2VydmljZXNNYW5hZ2VtZW50Q2xpZW50CiAgICAg\nICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgQW5hbHlzaXNTZXJ2\naWNlc01hbmFnZW1lbnRDbGllbnQgQ2xpZW50IHsgZ2V0OyBwcml2YXRlIHNl\ndDsgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIExpc3Rz\nIGFsbCBvZiB0aGUgYXZhaWxhYmxlIGNvbnN1bXB0aW9uIFJFU1QgQVBJIG9w\nZXJhdGlvbnMuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8g\nPHBhcmFtIG5hbWU9J2N1c3RvbUhlYWRlcnMnPgogICAgICAgIC8vLyBIZWFk\nZXJzIHRoYXQgd2lsbCBiZSBhZGRlZCB0byByZXF1ZXN0LgogICAgICAgIC8v\nLyA8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0nY2FuY2VsbGF0\naW9uVG9rZW4nPgogICAgICAgIC8vLyBUaGUgY2FuY2VsbGF0aW9uIHRva2Vu\nLgogICAgICAgIC8vLyA8L3BhcmFtPgogICAgICAgIC8vLyA8ZXhjZXB0aW9u\nIGNyZWY9IkVycm9yUmVzcG9uc2VFeGNlcHRpb24iPgogICAgICAgIC8vLyBU\naHJvd24gd2hlbiB0aGUgb3BlcmF0aW9uIHJldHVybmVkIGFuIGludmFsaWQg\nc3RhdHVzIGNvZGUKICAgICAgICAvLy8gPC9leGNlcHRpb24+CiAgICAgICAg\nLy8vIDxleGNlcHRpb24gY3JlZj0iU2VyaWFsaXphdGlvbkV4Y2VwdGlvbiI+\nCiAgICAgICAgLy8vIFRocm93biB3aGVuIHVuYWJsZSB0byBkZXNlcmlhbGl6\nZSB0aGUgcmVzcG9uc2UKICAgICAgICAvLy8gPC9leGNlcHRpb24+CiAgICAg\nICAgLy8vIDxleGNlcHRpb24gY3JlZj0iVmFsaWRhdGlvbkV4Y2VwdGlvbiI+\nCiAgICAgICAgLy8vIFRocm93biB3aGVuIGEgcmVxdWlyZWQgcGFyYW1ldGVy\nIGlzIG51bGwKICAgICAgICAvLy8gPC9leGNlcHRpb24+CiAgICAgICAgLy8v\nIDxleGNlcHRpb24gY3JlZj0iU3lzdGVtLkFyZ3VtZW50TnVsbEV4Y2VwdGlv\nbiI+CiAgICAgICAgLy8vIFRocm93biB3aGVuIGEgcmVxdWlyZWQgcGFyYW1l\ndGVyIGlzIG51bGwKICAgICAgICAvLy8gPC9leGNlcHRpb24+CiAgICAgICAg\nLy8vIDxyZXR1cm4+CiAgICAgICAgLy8vIEEgcmVzcG9uc2Ugb2JqZWN0IGNv\nbnRhaW5pbmcgdGhlIHJlc3BvbnNlIGJvZHkgYW5kIHJlc3BvbnNlIGhlYWRl\ncnMuCiAgICAgICAgLy8vIDwvcmV0dXJuPgogICAgICAgIHB1YmxpYyBhc3lu\nYyBUYXNrPEF6dXJlT3BlcmF0aW9uUmVzcG9uc2U8SVBhZ2U8T3BlcmF0aW9u\nPj4+IExpc3RXaXRoSHR0cE1lc3NhZ2VzQXN5bmMoRGljdGlvbmFyeTxzdHJp\nbmcsIExpc3Q8c3RyaW5nPj4gY3VzdG9tSGVhZGVycyA9IG51bGwsIENhbmNl\nbGxhdGlvblRva2VuIGNhbmNlbGxhdGlvblRva2VuID0gZGVmYXVsdChDYW5j\nZWxsYXRpb25Ub2tlbikpCiAgICAgICAgewogICAgICAgICAgICBpZiAoQ2xp\nZW50LkFwaVZlcnNpb24gPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAg\nICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oVmFsaWRh\ndGlvblJ1bGVzLkNhbm5vdEJlTnVsbCwgInRoaXMuQ2xpZW50LkFwaVZlcnNp\nb24iKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyBUcmFjaW5nCiAg\nICAgICAgICAgIGJvb2wgX3Nob3VsZFRyYWNlID0gU2VydmljZUNsaWVudFRy\nYWNpbmcuSXNFbmFibGVkOwogICAgICAgICAgICBzdHJpbmcgX2ludm9jYXRp\nb25JZCA9IG51bGw7CiAgICAgICAgICAgIGlmIChfc2hvdWxkVHJhY2UpCiAg\nICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9pbnZvY2F0aW9uSWQgPSBT\nZXJ2aWNlQ2xpZW50VHJhY2luZy5OZXh0SW52b2NhdGlvbklkLlRvU3RyaW5n\nKCk7CiAgICAgICAgICAgICAgICBEaWN0aW9uYXJ5PHN0cmluZywgb2JqZWN0\nPiB0cmFjaW5nUGFyYW1ldGVycyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywg\nb2JqZWN0PigpOwogICAgICAgICAgICAgICAgdHJhY2luZ1BhcmFtZXRlcnMu\nQWRkKCJjYW5jZWxsYXRpb25Ub2tlbiIsIGNhbmNlbGxhdGlvblRva2VuKTsK\nICAgICAgICAgICAgICAgIFNlcnZpY2VDbGllbnRUcmFjaW5nLkVudGVyKF9p\nbnZvY2F0aW9uSWQsIHRoaXMsICJMaXN0IiwgdHJhY2luZ1BhcmFtZXRlcnMp\nOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vIENvbnN0cnVjdCBVUkwK\nICAgICAgICAgICAgdmFyIF9iYXNlVXJsID0gQ2xpZW50LkJhc2VVcmkuQWJz\nb2x1dGVVcmk7CiAgICAgICAgICAgIHZhciBfdXJsID0gbmV3IFN5c3RlbS5V\ncmkobmV3IFN5c3RlbS5VcmkoX2Jhc2VVcmwgKyAoX2Jhc2VVcmwuRW5kc1dp\ndGgoIi8iKSA/ICIiIDogIi8iKSksICJwcm92aWRlcnMvTWljcm9zb2Z0LkFu\nYWx5c2lzU2VydmljZXMvb3BlcmF0aW9ucyIpLlRvU3RyaW5nKCk7CiAgICAg\nICAgICAgIExpc3Q8c3RyaW5nPiBfcXVlcnlQYXJhbWV0ZXJzID0gbmV3IExp\nc3Q8c3RyaW5nPigpOwogICAgICAgICAgICBpZiAoQ2xpZW50LkFwaVZlcnNp\nb24gIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3F1\nZXJ5UGFyYW1ldGVycy5BZGQoc3RyaW5nLkZvcm1hdCgiYXBpLXZlcnNpb249\nezB9IiwgU3lzdGVtLlVyaS5Fc2NhcGVEYXRhU3RyaW5nKENsaWVudC5BcGlW\nZXJzaW9uKSkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChfcXVl\ncnlQYXJhbWV0ZXJzLkNvdW50ID4gMCkKICAgICAgICAgICAgewogICAgICAg\nICAgICAgICAgX3VybCArPSAoX3VybC5Db250YWlucygiPyIpID8gIiYiIDog\nIj8iKSArIHN0cmluZy5Kb2luKCImIiwgX3F1ZXJ5UGFyYW1ldGVycyk7CiAg\nICAgICAgICAgIH0KICAgICAgICAgICAgLy8gQ3JlYXRlIEhUVFAgdHJhbnNw\nb3J0IG9iamVjdHMKICAgICAgICAgICAgdmFyIF9odHRwUmVxdWVzdCA9IG5l\ndyBIdHRwUmVxdWVzdE1lc3NhZ2UoKTsKICAgICAgICAgICAgSHR0cFJlc3Bv\nbnNlTWVzc2FnZSBfaHR0cFJlc3BvbnNlID0gbnVsbDsKICAgICAgICAgICAg\nX2h0dHBSZXF1ZXN0Lk1ldGhvZCA9IG5ldyBIdHRwTWV0aG9kKCJHRVQiKTsK\nICAgICAgICAgICAgX2h0dHBSZXF1ZXN0LlJlcXVlc3RVcmkgPSBuZXcgU3lz\ndGVtLlVyaShfdXJsKTsKICAgICAgICAgICAgLy8gU2V0IEhlYWRlcnMKICAg\nICAgICAgICAgaWYgKENsaWVudC5HZW5lcmF0ZUNsaWVudFJlcXVlc3RJZCAh\nPSBudWxsICYmIENsaWVudC5HZW5lcmF0ZUNsaWVudFJlcXVlc3RJZC5WYWx1\nZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX2h0dHBSZXF1ZXN0\nLkhlYWRlcnMuVHJ5QWRkV2l0aG91dFZhbGlkYXRpb24oIngtbXMtY2xpZW50\nLXJlcXVlc3QtaWQiLCBTeXN0ZW0uR3VpZC5OZXdHdWlkKCkuVG9TdHJpbmco\nKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKENsaWVudC5BY2Nl\ncHRMYW5ndWFnZSAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAg\nICAgICBpZiAoX2h0dHBSZXF1ZXN0LkhlYWRlcnMuQ29udGFpbnMoImFjY2Vw\ndC1sYW5ndWFnZSIpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAg\nICAgICAgIF9odHRwUmVxdWVzdC5IZWFkZXJzLlJlbW92ZSgiYWNjZXB0LWxh\nbmd1YWdlIik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBf\naHR0cFJlcXVlc3QuSGVhZGVycy5UcnlBZGRXaXRob3V0VmFsaWRhdGlvbigi\nYWNjZXB0LWxhbmd1YWdlIiwgQ2xpZW50LkFjY2VwdExhbmd1YWdlKTsKICAg\nICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmIChjdXN0b21IZWFkZXJzICE9\nIG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGZvcmVhY2go\ndmFyIF9oZWFkZXIgaW4gY3VzdG9tSGVhZGVycykKICAgICAgICAgICAgICAg\nIHsKICAgICAgICAgICAgICAgICAgICBpZiAoX2h0dHBSZXF1ZXN0LkhlYWRl\ncnMuQ29udGFpbnMoX2hlYWRlci5LZXkpKQogICAgICAgICAgICAgICAgICAg\nIHsKICAgICAgICAgICAgICAgICAgICAgICAgX2h0dHBSZXF1ZXN0LkhlYWRl\ncnMuUmVtb3ZlKF9oZWFkZXIuS2V5KTsKICAgICAgICAgICAgICAgICAgICB9\nCiAgICAgICAgICAgICAgICAgICAgX2h0dHBSZXF1ZXN0LkhlYWRlcnMuVHJ5\nQWRkV2l0aG91dFZhbGlkYXRpb24oX2hlYWRlci5LZXksIF9oZWFkZXIuVmFs\ndWUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAg\nICAgICAvLyBTZXJpYWxpemUgUmVxdWVzdAogICAgICAgICAgICBzdHJpbmcg\nX3JlcXVlc3RDb250ZW50ID0gbnVsbDsKICAgICAgICAgICAgLy8gU2V0IENy\nZWRlbnRpYWxzCiAgICAgICAgICAgIGlmIChDbGllbnQuQ3JlZGVudGlhbHMg\nIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2FuY2Vs\nbGF0aW9uVG9rZW4uVGhyb3dJZkNhbmNlbGxhdGlvblJlcXVlc3RlZCgpOwog\nICAgICAgICAgICAgICAgYXdhaXQgQ2xpZW50LkNyZWRlbnRpYWxzLlByb2Nl\nc3NIdHRwUmVxdWVzdEFzeW5jKF9odHRwUmVxdWVzdCwgY2FuY2VsbGF0aW9u\nVG9rZW4pLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgfQog\nICAgICAgICAgICAvLyBTZW5kIFJlcXVlc3QKICAgICAgICAgICAgaWYgKF9z\naG91bGRUcmFjZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2Vy\ndmljZUNsaWVudFRyYWNpbmcuU2VuZFJlcXVlc3QoX2ludm9jYXRpb25JZCwg\nX2h0dHBSZXF1ZXN0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBjYW5j\nZWxsYXRpb25Ub2tlbi5UaHJvd0lmQ2FuY2VsbGF0aW9uUmVxdWVzdGVkKCk7\nCiAgICAgICAgICAgIF9odHRwUmVzcG9uc2UgPSBhd2FpdCBDbGllbnQuSHR0\ncENsaWVudC5TZW5kQXN5bmMoX2h0dHBSZXF1ZXN0LCBjYW5jZWxsYXRpb25U\nb2tlbikuQ29uZmlndXJlQXdhaXQoZmFsc2UpOwogICAgICAgICAgICBpZiAo\nX3Nob3VsZFRyYWNlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBT\nZXJ2aWNlQ2xpZW50VHJhY2luZy5SZWNlaXZlUmVzcG9uc2UoX2ludm9jYXRp\nb25JZCwgX2h0dHBSZXNwb25zZSk7CiAgICAgICAgICAgIH0KICAgICAgICAg\nICAgSHR0cFN0YXR1c0NvZGUgX3N0YXR1c0NvZGUgPSBfaHR0cFJlc3BvbnNl\nLlN0YXR1c0NvZGU7CiAgICAgICAgICAgIGNhbmNlbGxhdGlvblRva2VuLlRo\ncm93SWZDYW5jZWxsYXRpb25SZXF1ZXN0ZWQoKTsKICAgICAgICAgICAgc3Ry\naW5nIF9yZXNwb25zZUNvbnRlbnQgPSBudWxsOwogICAgICAgICAgICBpZiAo\nKGludClfc3RhdHVzQ29kZSAhPSAyMDApCiAgICAgICAgICAgIHsKICAgICAg\nICAgICAgICAgIHZhciBleCA9IG5ldyBFcnJvclJlc3BvbnNlRXhjZXB0aW9u\nKHN0cmluZy5Gb3JtYXQoIk9wZXJhdGlvbiByZXR1cm5lZCBhbiBpbnZhbGlk\nIHN0YXR1cyBjb2RlICd7MH0nIiwgX3N0YXR1c0NvZGUpKTsKICAgICAgICAg\nICAgICAgIHRyeQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAg\nICAgIF9yZXNwb25zZUNvbnRlbnQgPSBhd2FpdCBfaHR0cFJlc3BvbnNlLkNv\nbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKS5Db25maWd1cmVBd2FpdChmYWxz\nZSk7CiAgICAgICAgICAgICAgICAgICAgRXJyb3JSZXNwb25zZSBfZXJyb3JC\nb2R5ID0gIFJlc3QuU2VyaWFsaXphdGlvbi5TYWZlSnNvbkNvbnZlcnQuRGVz\nZXJpYWxpemVPYmplY3Q8RXJyb3JSZXNwb25zZT4oX3Jlc3BvbnNlQ29udGVu\ndCwgQ2xpZW50LkRlc2VyaWFsaXphdGlvblNldHRpbmdzKTsKICAgICAgICAg\nICAgICAgICAgICBpZiAoX2Vycm9yQm9keSAhPSBudWxsKQogICAgICAgICAg\nICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgZXguQm9keSA9\nIF9lcnJvckJvZHk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAg\nICAgICAgfQogICAgICAgICAgICAgICAgY2F0Y2ggKEpzb25FeGNlcHRpb24p\nCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gSWdu\nb3JlIHRoZSBleGNlcHRpb24KICAgICAgICAgICAgICAgIH0KICAgICAgICAg\nICAgICAgIGV4LlJlcXVlc3QgPSBuZXcgSHR0cFJlcXVlc3RNZXNzYWdlV3Jh\ncHBlcihfaHR0cFJlcXVlc3QsIF9yZXF1ZXN0Q29udGVudCk7CiAgICAgICAg\nICAgICAgICBleC5SZXNwb25zZSA9IG5ldyBIdHRwUmVzcG9uc2VNZXNzYWdl\nV3JhcHBlcihfaHR0cFJlc3BvbnNlLCBfcmVzcG9uc2VDb250ZW50KTsKICAg\nICAgICAgICAgICAgIGlmIChfc2hvdWxkVHJhY2UpCiAgICAgICAgICAgICAg\nICB7CiAgICAgICAgICAgICAgICAgICAgU2VydmljZUNsaWVudFRyYWNpbmcu\nRXJyb3IoX2ludm9jYXRpb25JZCwgZXgpOwogICAgICAgICAgICAgICAgfQog\nICAgICAgICAgICAgICAgX2h0dHBSZXF1ZXN0LkRpc3Bvc2UoKTsKICAgICAg\nICAgICAgICAgIGlmIChfaHR0cFJlc3BvbnNlICE9IG51bGwpCiAgICAgICAg\nICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgX2h0dHBSZXNwb25zZS5E\naXNwb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0\naHJvdyBleDsKICAgICAgICAgICAgfQogICAgICAgICAgICAvLyBDcmVhdGUg\nUmVzdWx0CiAgICAgICAgICAgIHZhciBfcmVzdWx0ID0gbmV3IEF6dXJlT3Bl\ncmF0aW9uUmVzcG9uc2U8SVBhZ2U8T3BlcmF0aW9uPj4oKTsKICAgICAgICAg\nICAgX3Jlc3VsdC5SZXF1ZXN0ID0gX2h0dHBSZXF1ZXN0OwogICAgICAgICAg\nICBfcmVzdWx0LlJlc3BvbnNlID0gX2h0dHBSZXNwb25zZTsKICAgICAgICAg\nICAgaWYgKF9odHRwUmVzcG9uc2UuSGVhZGVycy5Db250YWlucygieC1tcy1y\nZXF1ZXN0LWlkIikpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9y\nZXN1bHQuUmVxdWVzdElkID0gX2h0dHBSZXNwb25zZS5IZWFkZXJzLkdldFZh\nbHVlcygieC1tcy1yZXF1ZXN0LWlkIikuRmlyc3RPckRlZmF1bHQoKTsKICAg\nICAgICAgICAgfQogICAgICAgICAgICAvLyBEZXNlcmlhbGl6ZSBSZXNwb25z\nZQogICAgICAgICAgICBpZiAoKGludClfc3RhdHVzQ29kZSA9PSAyMDApCiAg\nICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9yZXNwb25zZUNvbnRlbnQg\nPSBhd2FpdCBfaHR0cFJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5\nbmMoKS5Db25maWd1cmVBd2FpdChmYWxzZSk7CiAgICAgICAgICAgICAgICB0\ncnkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBfcmVz\ndWx0LkJvZHkgPSBSZXN0LlNlcmlhbGl6YXRpb24uU2FmZUpzb25Db252ZXJ0\nLkRlc2VyaWFsaXplT2JqZWN0PFBhZ2UxPE9wZXJhdGlvbj4+KF9yZXNwb25z\nZUNvbnRlbnQsIENsaWVudC5EZXNlcmlhbGl6YXRpb25TZXR0aW5ncyk7CiAg\nICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYXRjaCAoSnNvbkV4\nY2VwdGlvbiBleCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAg\nICAgICBfaHR0cFJlcXVlc3QuRGlzcG9zZSgpOwogICAgICAgICAgICAgICAg\nICAgIGlmIChfaHR0cFJlc3BvbnNlICE9IG51bGwpCiAgICAgICAgICAgICAg\nICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBfaHR0cFJlc3BvbnNl\nLkRpc3Bvc2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAg\nICAgICAgICAgdGhyb3cgbmV3IFNlcmlhbGl6YXRpb25FeGNlcHRpb24oIlVu\nYWJsZSB0byBkZXNlcmlhbGl6ZSB0aGUgcmVzcG9uc2UuIiwgX3Jlc3BvbnNl\nQ29udGVudCwgZXgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9\nCiAgICAgICAgICAgIGlmIChfc2hvdWxkVHJhY2UpCiAgICAgICAgICAgIHsK\nICAgICAgICAgICAgICAgIFNlcnZpY2VDbGllbnRUcmFjaW5nLkV4aXQoX2lu\ndm9jYXRpb25JZCwgX3Jlc3VsdCk7CiAgICAgICAgICAgIH0KICAgICAgICAg\nICAgcmV0dXJuIF9yZXN1bHQ7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1\nbW1hcnk+CiAgICAgICAgLy8vIExpc3RzIGFsbCBvZiB0aGUgYXZhaWxhYmxl\nIGNvbnN1bXB0aW9uIFJFU1QgQVBJIG9wZXJhdGlvbnMuCiAgICAgICAgLy8v\nIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9J25leHRQYWdl\nTGluayc+CiAgICAgICAgLy8vIFRoZSBOZXh0TGluayBmcm9tIHRoZSBwcmV2\naW91cyBzdWNjZXNzZnVsIGNhbGwgdG8gTGlzdCBvcGVyYXRpb24uCiAgICAg\nICAgLy8vIDwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSdjdXN0\nb21IZWFkZXJzJz4KICAgICAgICAvLy8gSGVhZGVycyB0aGF0IHdpbGwgYmUg\nYWRkZWQgdG8gcmVxdWVzdC4KICAgICAgICAvLy8gPC9wYXJhbT4KICAgICAg\nICAvLy8gPHBhcmFtIG5hbWU9J2NhbmNlbGxhdGlvblRva2VuJz4KICAgICAg\nICAvLy8gVGhlIGNhbmNlbGxhdGlvbiB0b2tlbi4KICAgICAgICAvLy8gPC9w\nYXJhbT4KICAgICAgICAvLy8gPGV4Y2VwdGlvbiBjcmVmPSJFcnJvclJlc3Bv\nbnNlRXhjZXB0aW9uIj4KICAgICAgICAvLy8gVGhyb3duIHdoZW4gdGhlIG9w\nZXJhdGlvbiByZXR1cm5lZCBhbiBpbnZhbGlkIHN0YXR1cyBjb2RlCiAgICAg\nICAgLy8vIDwvZXhjZXB0aW9uPgogICAgICAgIC8vLyA8ZXhjZXB0aW9uIGNy\nZWY9IlNlcmlhbGl6YXRpb25FeGNlcHRpb24iPgogICAgICAgIC8vLyBUaHJv\nd24gd2hlbiB1bmFibGUgdG8gZGVzZXJpYWxpemUgdGhlIHJlc3BvbnNlCiAg\nICAgICAgLy8vIDwvZXhjZXB0aW9uPgogICAgICAgIC8vLyA8ZXhjZXB0aW9u\nIGNyZWY9IlZhbGlkYXRpb25FeGNlcHRpb24iPgogICAgICAgIC8vLyBUaHJv\nd24gd2hlbiBhIHJlcXVpcmVkIHBhcmFtZXRlciBpcyBudWxsCiAgICAgICAg\nLy8vIDwvZXhjZXB0aW9uPgogICAgICAgIC8vLyA8ZXhjZXB0aW9uIGNyZWY9\nIlN5c3RlbS5Bcmd1bWVudE51bGxFeGNlcHRpb24iPgogICAgICAgIC8vLyBU\naHJvd24gd2hlbiBhIHJlcXVpcmVkIHBhcmFtZXRlciBpcyBudWxsCiAgICAg\nICAgLy8vIDwvZXhjZXB0aW9uPgogICAgICAgIC8vLyA8cmV0dXJuPgogICAg\nICAgIC8vLyBBIHJlc3BvbnNlIG9iamVjdCBjb250YWluaW5nIHRoZSByZXNw\nb25zZSBib2R5IGFuZCByZXNwb25zZSBoZWFkZXJzLgogICAgICAgIC8vLyA8\nL3JldHVybj4KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxBenVyZU9wZXJh\ndGlvblJlc3BvbnNlPElQYWdlPE9wZXJhdGlvbj4+PiBMaXN0TmV4dFdpdGhI\ndHRwTWVzc2FnZXNBc3luYyhzdHJpbmcgbmV4dFBhZ2VMaW5rLCBEaWN0aW9u\nYXJ5PHN0cmluZywgTGlzdDxzdHJpbmc+PiBjdXN0b21IZWFkZXJzID0gbnVs\nbCwgQ2FuY2VsbGF0aW9uVG9rZW4gY2FuY2VsbGF0aW9uVG9rZW4gPSBkZWZh\ndWx0KENhbmNlbGxhdGlvblRva2VuKSkKICAgICAgICB7CiAgICAgICAgICAg\nIGlmIChuZXh0UGFnZUxpbmsgPT0gbnVsbCkKICAgICAgICAgICAgewogICAg\nICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oVmFs\naWRhdGlvblJ1bGVzLkNhbm5vdEJlTnVsbCwgIm5leHRQYWdlTGluayIpOwog\nICAgICAgICAgICB9CiAgICAgICAgICAgIC8vIFRyYWNpbmcKICAgICAgICAg\nICAgYm9vbCBfc2hvdWxkVHJhY2UgPSBTZXJ2aWNlQ2xpZW50VHJhY2luZy5J\nc0VuYWJsZWQ7CiAgICAgICAgICAgIHN0cmluZyBfaW52b2NhdGlvbklkID0g\nbnVsbDsKICAgICAgICAgICAgaWYgKF9zaG91bGRUcmFjZSkKICAgICAgICAg\nICAgewogICAgICAgICAgICAgICAgX2ludm9jYXRpb25JZCA9IFNlcnZpY2VD\nbGllbnRUcmFjaW5nLk5leHRJbnZvY2F0aW9uSWQuVG9TdHJpbmcoKTsKICAg\nICAgICAgICAgICAgIERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+IHRyYWNp\nbmdQYXJhbWV0ZXJzID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+\nKCk7CiAgICAgICAgICAgICAgICB0cmFjaW5nUGFyYW1ldGVycy5BZGQoIm5l\neHRQYWdlTGluayIsIG5leHRQYWdlTGluayk7CiAgICAgICAgICAgICAgICB0\ncmFjaW5nUGFyYW1ldGVycy5BZGQoImNhbmNlbGxhdGlvblRva2VuIiwgY2Fu\nY2VsbGF0aW9uVG9rZW4pOwogICAgICAgICAgICAgICAgU2VydmljZUNsaWVu\ndFRyYWNpbmcuRW50ZXIoX2ludm9jYXRpb25JZCwgdGhpcywgIkxpc3ROZXh0\nIiwgdHJhY2luZ1BhcmFtZXRlcnMpOwogICAgICAgICAgICB9CiAgICAgICAg\nICAgIC8vIENvbnN0cnVjdCBVUkwKICAgICAgICAgICAgc3RyaW5nIF91cmwg\nPSAie25leHRMaW5rfSI7CiAgICAgICAgICAgIF91cmwgPSBfdXJsLlJlcGxh\nY2UoIntuZXh0TGlua30iLCBuZXh0UGFnZUxpbmspOwogICAgICAgICAgICBM\naXN0PHN0cmluZz4gX3F1ZXJ5UGFyYW1ldGVycyA9IG5ldyBMaXN0PHN0cmlu\nZz4oKTsKICAgICAgICAgICAgaWYgKF9xdWVyeVBhcmFtZXRlcnMuQ291bnQg\nPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfdXJsICs9IChf\ndXJsLkNvbnRhaW5zKCI/IikgPyAiJiIgOiAiPyIpICsgc3RyaW5nLkpvaW4o\nIiYiLCBfcXVlcnlQYXJhbWV0ZXJzKTsKICAgICAgICAgICAgfQogICAgICAg\nICAgICAvLyBDcmVhdGUgSFRUUCB0cmFuc3BvcnQgb2JqZWN0cwogICAgICAg\nICAgICB2YXIgX2h0dHBSZXF1ZXN0ID0gbmV3IEh0dHBSZXF1ZXN0TWVzc2Fn\nZSgpOwogICAgICAgICAgICBIdHRwUmVzcG9uc2VNZXNzYWdlIF9odHRwUmVz\ncG9uc2UgPSBudWxsOwogICAgICAgICAgICBfaHR0cFJlcXVlc3QuTWV0aG9k\nID0gbmV3IEh0dHBNZXRob2QoIkdFVCIpOwogICAgICAgICAgICBfaHR0cFJl\ncXVlc3QuUmVxdWVzdFVyaSA9IG5ldyBTeXN0ZW0uVXJpKF91cmwpOwogICAg\nICAgICAgICAvLyBTZXQgSGVhZGVycwogICAgICAgICAgICBpZiAoQ2xpZW50\nLkdlbmVyYXRlQ2xpZW50UmVxdWVzdElkICE9IG51bGwgJiYgQ2xpZW50Lkdl\nbmVyYXRlQ2xpZW50UmVxdWVzdElkLlZhbHVlKQogICAgICAgICAgICB7CiAg\nICAgICAgICAgICAgICBfaHR0cFJlcXVlc3QuSGVhZGVycy5UcnlBZGRXaXRo\nb3V0VmFsaWRhdGlvbigieC1tcy1jbGllbnQtcmVxdWVzdC1pZCIsIFN5c3Rl\nbS5HdWlkLk5ld0d1aWQoKS5Ub1N0cmluZygpKTsKICAgICAgICAgICAgfQog\nICAgICAgICAgICBpZiAoQ2xpZW50LkFjY2VwdExhbmd1YWdlICE9IG51bGwp\nCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmIChfaHR0cFJlcXVl\nc3QuSGVhZGVycy5Db250YWlucygiYWNjZXB0LWxhbmd1YWdlIikpCiAgICAg\nICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgX2h0dHBSZXF1ZXN0\nLkhlYWRlcnMuUmVtb3ZlKCJhY2NlcHQtbGFuZ3VhZ2UiKTsKICAgICAgICAg\nICAgICAgIH0KICAgICAgICAgICAgICAgIF9odHRwUmVxdWVzdC5IZWFkZXJz\nLlRyeUFkZFdpdGhvdXRWYWxpZGF0aW9uKCJhY2NlcHQtbGFuZ3VhZ2UiLCBD\nbGllbnQuQWNjZXB0TGFuZ3VhZ2UpOwogICAgICAgICAgICB9CgoKICAgICAg\nICAgICAgaWYgKGN1c3RvbUhlYWRlcnMgIT0gbnVsbCkKICAgICAgICAgICAg\newogICAgICAgICAgICAgICAgZm9yZWFjaCh2YXIgX2hlYWRlciBpbiBjdXN0\nb21IZWFkZXJzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAg\nICAgIGlmIChfaHR0cFJlcXVlc3QuSGVhZGVycy5Db250YWlucyhfaGVhZGVy\nLktleSkpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAg\nICAgICAgICBfaHR0cFJlcXVlc3QuSGVhZGVycy5SZW1vdmUoX2hlYWRlci5L\nZXkpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAg\nICBfaHR0cFJlcXVlc3QuSGVhZGVycy5UcnlBZGRXaXRob3V0VmFsaWRhdGlv\nbihfaGVhZGVyLktleSwgX2hlYWRlci5WYWx1ZSk7CiAgICAgICAgICAgICAg\nICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIFNlcmlhbGl6ZSBS\nZXF1ZXN0CiAgICAgICAgICAgIHN0cmluZyBfcmVxdWVzdENvbnRlbnQgPSBu\ndWxsOwogICAgICAgICAgICAvLyBTZXQgQ3JlZGVudGlhbHMKICAgICAgICAg\nICAgaWYgKENsaWVudC5DcmVkZW50aWFscyAhPSBudWxsKQogICAgICAgICAg\nICB7CiAgICAgICAgICAgICAgICBjYW5jZWxsYXRpb25Ub2tlbi5UaHJvd0lm\nQ2FuY2VsbGF0aW9uUmVxdWVzdGVkKCk7CiAgICAgICAgICAgICAgICBhd2Fp\ndCBDbGllbnQuQ3JlZGVudGlhbHMuUHJvY2Vzc0h0dHBSZXF1ZXN0QXN5bmMo\nX2h0dHBSZXF1ZXN0LCBjYW5jZWxsYXRpb25Ub2tlbikuQ29uZmlndXJlQXdh\naXQoZmFsc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vIFNlbmQg\nUmVxdWVzdAogICAgICAgICAgICBpZiAoX3Nob3VsZFRyYWNlKQogICAgICAg\nICAgICB7CiAgICAgICAgICAgICAgICBTZXJ2aWNlQ2xpZW50VHJhY2luZy5T\nZW5kUmVxdWVzdChfaW52b2NhdGlvbklkLCBfaHR0cFJlcXVlc3QpOwogICAg\nICAgICAgICB9CiAgICAgICAgICAgIGNhbmNlbGxhdGlvblRva2VuLlRocm93\nSWZDYW5jZWxsYXRpb25SZXF1ZXN0ZWQoKTsKICAgICAgICAgICAgX2h0dHBS\nZXNwb25zZSA9IGF3YWl0IENsaWVudC5IdHRwQ2xpZW50LlNlbmRBc3luYyhf\naHR0cFJlcXVlc3QsIGNhbmNlbGxhdGlvblRva2VuKS5Db25maWd1cmVBd2Fp\ndChmYWxzZSk7CiAgICAgICAgICAgIGlmIChfc2hvdWxkVHJhY2UpCiAgICAg\nICAgICAgIHsKICAgICAgICAgICAgICAgIFNlcnZpY2VDbGllbnRUcmFjaW5n\nLlJlY2VpdmVSZXNwb25zZShfaW52b2NhdGlvbklkLCBfaHR0cFJlc3BvbnNl\nKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBIdHRwU3RhdHVzQ29kZSBf\nc3RhdHVzQ29kZSA9IF9odHRwUmVzcG9uc2UuU3RhdHVzQ29kZTsKICAgICAg\nICAgICAgY2FuY2VsbGF0aW9uVG9rZW4uVGhyb3dJZkNhbmNlbGxhdGlvblJl\ncXVlc3RlZCgpOwogICAgICAgICAgICBzdHJpbmcgX3Jlc3BvbnNlQ29udGVu\ndCA9IG51bGw7CiAgICAgICAgICAgIGlmICgoaW50KV9zdGF0dXNDb2RlICE9\nIDIwMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGV4ID0g\nbmV3IEVycm9yUmVzcG9uc2VFeGNlcHRpb24oc3RyaW5nLkZvcm1hdCgiT3Bl\ncmF0aW9uIHJldHVybmVkIGFuIGludmFsaWQgc3RhdHVzIGNvZGUgJ3swfSci\nLCBfc3RhdHVzQ29kZSkpOwogICAgICAgICAgICAgICAgdHJ5CiAgICAgICAg\nICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgX3Jlc3BvbnNlQ29udGVu\ndCA9IGF3YWl0IF9odHRwUmVzcG9uc2UuQ29udGVudC5SZWFkQXNTdHJpbmdB\nc3luYygpLkNvbmZpZ3VyZUF3YWl0KGZhbHNlKTsKICAgICAgICAgICAgICAg\nICAgICBFcnJvclJlc3BvbnNlIF9lcnJvckJvZHkgPSAgUmVzdC5TZXJpYWxp\nemF0aW9uLlNhZmVKc29uQ29udmVydC5EZXNlcmlhbGl6ZU9iamVjdDxFcnJv\nclJlc3BvbnNlPihfcmVzcG9uc2VDb250ZW50LCBDbGllbnQuRGVzZXJpYWxp\nemF0aW9uU2V0dGluZ3MpOwogICAgICAgICAgICAgICAgICAgIGlmIChfZXJy\nb3JCb2R5ICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAg\nICAgICAgICAgICAgICAgICBleC5Cb2R5ID0gX2Vycm9yQm9keTsKICAgICAg\nICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAg\nICAgICBjYXRjaCAoSnNvbkV4Y2VwdGlvbikKICAgICAgICAgICAgICAgIHsK\nICAgICAgICAgICAgICAgICAgICAvLyBJZ25vcmUgdGhlIGV4Y2VwdGlvbgog\nICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZXguUmVxdWVzdCA9\nIG5ldyBIdHRwUmVxdWVzdE1lc3NhZ2VXcmFwcGVyKF9odHRwUmVxdWVzdCwg\nX3JlcXVlc3RDb250ZW50KTsKICAgICAgICAgICAgICAgIGV4LlJlc3BvbnNl\nID0gbmV3IEh0dHBSZXNwb25zZU1lc3NhZ2VXcmFwcGVyKF9odHRwUmVzcG9u\nc2UsIF9yZXNwb25zZUNvbnRlbnQpOwogICAgICAgICAgICAgICAgaWYgKF9z\naG91bGRUcmFjZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAg\nICAgICBTZXJ2aWNlQ2xpZW50VHJhY2luZy5FcnJvcihfaW52b2NhdGlvbklk\nLCBleCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfaHR0\ncFJlcXVlc3QuRGlzcG9zZSgpOwogICAgICAgICAgICAgICAgaWYgKF9odHRw\nUmVzcG9uc2UgIT0gbnVsbCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAg\nICAgICAgICAgICBfaHR0cFJlc3BvbnNlLkRpc3Bvc2UoKTsKICAgICAgICAg\nICAgICAgIH0KICAgICAgICAgICAgICAgIHRocm93IGV4OwogICAgICAgICAg\nICB9CiAgICAgICAgICAgIC8vIENyZWF0ZSBSZXN1bHQKICAgICAgICAgICAg\ndmFyIF9yZXN1bHQgPSBuZXcgQXp1cmVPcGVyYXRpb25SZXNwb25zZTxJUGFn\nZTxPcGVyYXRpb24+PigpOwogICAgICAgICAgICBfcmVzdWx0LlJlcXVlc3Qg\nPSBfaHR0cFJlcXVlc3Q7CiAgICAgICAgICAgIF9yZXN1bHQuUmVzcG9uc2Ug\nPSBfaHR0cFJlc3BvbnNlOwogICAgICAgICAgICBpZiAoX2h0dHBSZXNwb25z\nZS5IZWFkZXJzLkNvbnRhaW5zKCJ4LW1zLXJlcXVlc3QtaWQiKSkKICAgICAg\nICAgICAgewogICAgICAgICAgICAgICAgX3Jlc3VsdC5SZXF1ZXN0SWQgPSBf\naHR0cFJlc3BvbnNlLkhlYWRlcnMuR2V0VmFsdWVzKCJ4LW1zLXJlcXVlc3Qt\naWQiKS5GaXJzdE9yRGVmYXVsdCgpOwogICAgICAgICAgICB9CiAgICAgICAg\nICAgIC8vIERlc2VyaWFsaXplIFJlc3BvbnNlCiAgICAgICAgICAgIGlmICgo\naW50KV9zdGF0dXNDb2RlID09IDIwMCkKICAgICAgICAgICAgewogICAgICAg\nICAgICAgICAgX3Jlc3BvbnNlQ29udGVudCA9IGF3YWl0IF9odHRwUmVzcG9u\nc2UuQ29udGVudC5SZWFkQXNTdHJpbmdBc3luYygpLkNvbmZpZ3VyZUF3YWl0\nKGZhbHNlKTsKICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAg\newogICAgICAgICAgICAgICAgICAgIF9yZXN1bHQuQm9keSA9IFJlc3QuU2Vy\naWFsaXphdGlvbi5TYWZlSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8\nUGFnZTE8T3BlcmF0aW9uPj4oX3Jlc3BvbnNlQ29udGVudCwgQ2xpZW50LkRl\nc2VyaWFsaXphdGlvblNldHRpbmdzKTsKICAgICAgICAgICAgICAgIH0KICAg\nICAgICAgICAgICAgIGNhdGNoIChKc29uRXhjZXB0aW9uIGV4KQogICAgICAg\nICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIF9odHRwUmVxdWVzdC5E\naXNwb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKF9odHRwUmVzcG9u\nc2UgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAg\nICAgICAgICAgICAgIF9odHRwUmVzcG9uc2UuRGlzcG9zZSgpOwogICAgICAg\nICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcg\nU2VyaWFsaXphdGlvbkV4Y2VwdGlvbigiVW5hYmxlIHRvIGRlc2VyaWFsaXpl\nIHRoZSByZXNwb25zZS4iLCBfcmVzcG9uc2VDb250ZW50LCBleCk7CiAgICAg\nICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKF9z\naG91bGRUcmFjZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2Vy\ndmljZUNsaWVudFRyYWNpbmcuRXhpdChfaW52b2NhdGlvbklkLCBfcmVzdWx0\nKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gX3Jlc3VsdDsK\nICAgICAgICB9CgogICAgfQp9Cg==\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/Azure/azure-sdk-for-net/contents/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs?ref=psSdkJson6",
+        "git": "https://api.github.com/repos/Azure/azure-sdk-for-net/git/blobs/8814e6951d4a5849feab2ab32c33a812d5d1b817",
+        "html": "https://github.com/Azure/azure-sdk-for-net/blob/psSdkJson6/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs"
+    }
+}
+
+
+Requisição Download
+https://raw.githubusercontent.com/Azure/azure-sdk-for-net/psSdkJson6/src/SDKs/AnalysisServices/Management.Analysis/Generated/Operations.cs
+
+
+// <auto-generated>
+// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License. See License.txt in the project root for
+// license information.
+//
+// Code generated by Microsoft (R) AutoRest Code Generator.
+// Changes may cause incorrect behavior and will be lost if the code is
+// regenerated.
+// </auto-generated>
+
+namespace Microsoft.Azure.Management.Analysis
+{
+    using Microsoft.Rest;
+    using Microsoft.Rest.Azure;
+    using Models;
+    using Newtonsoft.Json;
+    using System.Collections;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Net;
+    using System.Net.Http;
+    using System.Threading;
+    using System.Threading.Tasks;
+
+    /// <summary>
+    /// Operations operations.
+    /// </summary>
+    internal partial class Operations : IServiceOperations<AnalysisServicesManagementClient>, IOperations
+    {
+        /// <summary>
+        /// Initializes a new instance of the Operations class.
+        /// </summary>
+        /// <param name='client'>
+        /// Reference to the service client.
+        /// </param>
+        /// <exception cref="System.ArgumentNullException">
+        /// Thrown when a required parameter is null
+        /// </exception>
+        internal Operations(AnalysisServicesManagementClient client)
+        {
+            if (client == null)
+            {
+                throw new System.ArgumentNullException("client");
+            }
+            Client = client;
+        }
+
+        /// <summary>
+        /// Gets a reference to the AnalysisServicesManagementClient
+        /// </summary>
+        public AnalysisServicesManagementClient Client { get; private set; }
+
+        /// <summary>
+        /// Lists all of the available consumption REST API operations.
+        /// </summary>
+        /// <param name='customHeaders'>
+        /// Headers that will be added to request.
+        /// </param>
+        /// <param name='cancellationToken'>
+        /// The cancellation token.
+        /// </param>
+        /// <exception cref="ErrorResponseException">
+        /// Thrown when the operation returned an invalid status code
+        /// </exception>
+        /// <exception cref="SerializationException">
+        /// Thrown when unable to deserialize the response
+        /// </exception>
+        /// <exception cref="ValidationException">
+        /// Thrown when a required parameter is null
+        /// </exception>
+        /// <exception cref="System.ArgumentNullException">
+        /// Thrown when a required parameter is null
+        /// </exception>
+        /// <return>
+        /// A response object containing the response body and response headers.
+        /// </return>
+        public async Task<AzureOperationResponse<IPage<Operation>>> ListWithHttpMessagesAsync(Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken))
+        {
+            if (Client.ApiVersion == null)
+            {
+                throw new ValidationException(ValidationRules.CannotBeNull, "this.Client.ApiVersion");
+            }
+            // Tracing
+            bool _shouldTrace = ServiceClientTracing.IsEnabled;
+            string _invocationId = null;
+            if (_shouldTrace)
+            {
+                _invocationId = ServiceClientTracing.NextInvocationId.ToString();
+                Dictionary<string, object> tracingParameters = new Dictionary<string, object>();
+                tracingParameters.Add("cancellationToken", cancellationToken);
+                ServiceClientTracing.Enter(_invocationId, this, "List", tracingParameters);
+            }
+            // Construct URL
+            var _baseUrl = Client.BaseUri.AbsoluteUri;
+            var _url = new System.Uri(new System.Uri(_baseUrl + (_baseUrl.EndsWith("/") ? "" : "/")), "providers/Microsoft.AnalysisServices/operations").ToString();
+            List<string> _queryParameters = new List<string>();
+            if (Client.ApiVersion != null)
+            {
+                _queryParameters.Add(string.Format("api-version={0}", System.Uri.EscapeDataString(Client.ApiVersion)));
+            }
+            if (_queryParameters.Count > 0)
+            {
+                _url += (_url.Contains("?") ? "&" : "?") + string.Join("&", _queryParameters);
+            }
+            // Create HTTP transport objects
+            var _httpRequest = new HttpRequestMessage();
+            HttpResponseMessage _httpResponse = null;
+            _httpRequest.Method = new HttpMethod("GET");
+            _httpRequest.RequestUri = new System.Uri(_url);
+            // Set Headers
+            if (Client.GenerateClientRequestId != null && Client.GenerateClientRequestId.Value)
+            {
+                _httpRequest.Headers.TryAddWithoutValidation("x-ms-client-request-id", System.Guid.NewGuid().ToString());
+            }
+            if (Client.AcceptLanguage != null)
+            {
+                if (_httpRequest.Headers.Contains("accept-language"))
+                {
+                    _httpRequest.Headers.Remove("accept-language");
+                }
+                _httpRequest.Headers.TryAddWithoutValidation("accept-language", Client.AcceptLanguage);
+            }
+
+
+            if (customHeaders != null)
+            {
+                foreach(var _header in customHeaders)
+                {
+                    if (_httpRequest.Headers.Contains(_header.Key))
+                    {
+                        _httpRequest.Headers.Remove(_header.Key);
+                    }
+                    _httpRequest.Headers.TryAddWithoutValidation(_header.Key, _header.Value);
+                }
+            }
+
+            // Serialize Request
+            string _requestContent = null;
+            // Set Credentials
+            if (Client.Credentials != null)
+            {
+                cancellationToken.ThrowIfCancellationRequested();
+                await Client.Credentials.ProcessHttpRequestAsync(_httpRequest, cancellationToken).ConfigureAwait(false);
+            }
+            // Send Request
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.SendRequest(_invocationId, _httpRequest);
+            }
+            cancellationToken.ThrowIfCancellationRequested();
+            _httpResponse = await Client.HttpClient.SendAsync(_httpRequest, cancellationToken).ConfigureAwait(false);
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.ReceiveResponse(_invocationId, _httpResponse);
+            }
+            HttpStatusCode _statusCode = _httpResponse.StatusCode;
+            cancellationToken.ThrowIfCancellationRequested();
+            string _responseContent = null;
+            if ((int)_statusCode != 200)
+            {
+                var ex = new ErrorResponseException(string.Format("Operation returned an invalid status code '{0}'", _statusCode));
+                try
+                {
+                    _responseContent = await _httpResponse.Content.ReadAsStringAsync().ConfigureAwait(false);
+                    ErrorResponse _errorBody =  Rest.Serialization.SafeJsonConvert.DeserializeObject<ErrorResponse>(_responseContent, Client.DeserializationSettings);
+                    if (_errorBody != null)
+                    {
+                        ex.Body = _errorBody;
+                    }
+                }
+                catch (JsonException)
+                {
+                    // Ignore the exception
+                }
+                ex.Request = new HttpRequestMessageWrapper(_httpRequest, _requestContent);
+                ex.Response = new HttpResponseMessageWrapper(_httpResponse, _responseContent);
+                if (_shouldTrace)
+                {
+                    ServiceClientTracing.Error(_invocationId, ex);
+                }
+                _httpRequest.Dispose();
+                if (_httpResponse != null)
+                {
+                    _httpResponse.Dispose();
+                }
+                throw ex;
+            }
+            // Create Result
+            var _result = new AzureOperationResponse<IPage<Operation>>();
+            _result.Request = _httpRequest;
+            _result.Response = _httpResponse;
+            if (_httpResponse.Headers.Contains("x-ms-request-id"))
+            {
+                _result.RequestId = _httpResponse.Headers.GetValues("x-ms-request-id").FirstOrDefault();
+            }
+            // Deserialize Response
+            if ((int)_statusCode == 200)
+            {
+                _responseContent = await _httpResponse.Content.ReadAsStringAsync().ConfigureAwait(false);
+                try
+                {
+                    _result.Body = Rest.Serialization.SafeJsonConvert.DeserializeObject<Page1<Operation>>(_responseContent, Client.DeserializationSettings);
+                }
+                catch (JsonException ex)
+                {
+                    _httpRequest.Dispose();
+                    if (_httpResponse != null)
+                    {
+                        _httpResponse.Dispose();
+                    }
+                    throw new SerializationException("Unable to deserialize the response.", _responseContent, ex);
+                }
+            }
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.Exit(_invocationId, _result);
+            }
+            return _result;
+        }
+
+        /// <summary>
+        /// Lists all of the available consumption REST API operations.
+        /// </summary>
+        /// <param name='nextPageLink'>
+        /// The NextLink from the previous successful call to List operation.
+        /// </param>
+        /// <param name='customHeaders'>
+        /// Headers that will be added to request.
+        /// </param>
+        /// <param name='cancellationToken'>
+        /// The cancellation token.
+        /// </param>
+        /// <exception cref="ErrorResponseException">
+        /// Thrown when the operation returned an invalid status code
+        /// </exception>
+        /// <exception cref="SerializationException">
+        /// Thrown when unable to deserialize the response
+        /// </exception>
+        /// <exception cref="ValidationException">
+        /// Thrown when a required parameter is null
+        /// </exception>
+        /// <exception cref="System.ArgumentNullException">
+        /// Thrown when a required parameter is null
+        /// </exception>
+        /// <return>
+        /// A response object containing the response body and response headers.
+        /// </return>
+        public async Task<AzureOperationResponse<IPage<Operation>>> ListNextWithHttpMessagesAsync(string nextPageLink, Dictionary<string, List<string>> customHeaders = null, CancellationToken cancellationToken = default(CancellationToken))
+        {
+            if (nextPageLink == null)
+            {
+                throw new ValidationException(ValidationRules.CannotBeNull, "nextPageLink");
+            }
+            // Tracing
+            bool _shouldTrace = ServiceClientTracing.IsEnabled;
+            string _invocationId = null;
+            if (_shouldTrace)
+            {
+                _invocationId = ServiceClientTracing.NextInvocationId.ToString();
+                Dictionary<string, object> tracingParameters = new Dictionary<string, object>();
+                tracingParameters.Add("nextPageLink", nextPageLink);
+                tracingParameters.Add("cancellationToken", cancellationToken);
+                ServiceClientTracing.Enter(_invocationId, this, "ListNext", tracingParameters);
+            }
+            // Construct URL
+            string _url = "{nextLink}";
+            _url = _url.Replace("{nextLink}", nextPageLink);
+            List<string> _queryParameters = new List<string>();
+            if (_queryParameters.Count > 0)
+            {
+                _url += (_url.Contains("?") ? "&" : "?") + string.Join("&", _queryParameters);
+            }
+            // Create HTTP transport objects
+            var _httpRequest = new HttpRequestMessage();
+            HttpResponseMessage _httpResponse = null;
+            _httpRequest.Method = new HttpMethod("GET");
+            _httpRequest.RequestUri = new System.Uri(_url);
+            // Set Headers
+            if (Client.GenerateClientRequestId != null && Client.GenerateClientRequestId.Value)
+            {
+                _httpRequest.Headers.TryAddWithoutValidation("x-ms-client-request-id", System.Guid.NewGuid().ToString());
+            }
+            if (Client.AcceptLanguage != null)
+            {
+                if (_httpRequest.Headers.Contains("accept-language"))
+                {
+                    _httpRequest.Headers.Remove("accept-language");
+                }
+                _httpRequest.Headers.TryAddWithoutValidation("accept-language", Client.AcceptLanguage);
+            }
+
+
+            if (customHeaders != null)
+            {
+                foreach(var _header in customHeaders)
+                {
+                    if (_httpRequest.Headers.Contains(_header.Key))
+                    {
+                        _httpRequest.Headers.Remove(_header.Key);
+                    }
+                    _httpRequest.Headers.TryAddWithoutValidation(_header.Key, _header.Value);
+                }
+            }
+
+            // Serialize Request
+            string _requestContent = null;
+            // Set Credentials
+            if (Client.Credentials != null)
+            {
+                cancellationToken.ThrowIfCancellationRequested();
+                await Client.Credentials.ProcessHttpRequestAsync(_httpRequest, cancellationToken).ConfigureAwait(false);
+            }
+            // Send Request
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.SendRequest(_invocationId, _httpRequest);
+            }
+            cancellationToken.ThrowIfCancellationRequested();
+            _httpResponse = await Client.HttpClient.SendAsync(_httpRequest, cancellationToken).ConfigureAwait(false);
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.ReceiveResponse(_invocationId, _httpResponse);
+            }
+            HttpStatusCode _statusCode = _httpResponse.StatusCode;
+            cancellationToken.ThrowIfCancellationRequested();
+            string _responseContent = null;
+            if ((int)_statusCode != 200)
+            {
+                var ex = new ErrorResponseException(string.Format("Operation returned an invalid status code '{0}'", _statusCode));
+                try
+                {
+                    _responseContent = await _httpResponse.Content.ReadAsStringAsync().ConfigureAwait(false);
+                    ErrorResponse _errorBody =  Rest.Serialization.SafeJsonConvert.DeserializeObject<ErrorResponse>(_responseContent, Client.DeserializationSettings);
+                    if (_errorBody != null)
+                    {
+                        ex.Body = _errorBody;
+                    }
+                }
+                catch (JsonException)
+                {
+                    // Ignore the exception
+                }
+                ex.Request = new HttpRequestMessageWrapper(_httpRequest, _requestContent);
+                ex.Response = new HttpResponseMessageWrapper(_httpResponse, _responseContent);
+                if (_shouldTrace)
+                {
+                    ServiceClientTracing.Error(_invocationId, ex);
+                }
+                _httpRequest.Dispose();
+                if (_httpResponse != null)
+                {
+                    _httpResponse.Dispose();
+                }
+                throw ex;
+            }
+            // Create Result
+            var _result = new AzureOperationResponse<IPage<Operation>>();
+            _result.Request = _httpRequest;
+            _result.Response = _httpResponse;
+            if (_httpResponse.Headers.Contains("x-ms-request-id"))
+            {
+                _result.RequestId = _httpResponse.Headers.GetValues("x-ms-request-id").FirstOrDefault();
+            }
+            // Deserialize Response
+            if ((int)_statusCode == 200)
+            {
+                _responseContent = await _httpResponse.Content.ReadAsStringAsync().ConfigureAwait(false);
+                try
+                {
+                    _result.Body = Rest.Serialization.SafeJsonConvert.DeserializeObject<Page1<Operation>>(_responseContent, Client.DeserializationSettings);
+                }
+                catch (JsonException ex)
+                {
+                    _httpRequest.Dispose();
+                    if (_httpResponse != null)
+                    {
+                        _httpResponse.Dispose();
+                    }
+                    throw new SerializationException("Unable to deserialize the response.", _responseContent, ex);
+                }
+            }
+            if (_shouldTrace)
+            {
+                ServiceClientTracing.Exit(_invocationId, _result);
+            }
+            return _result;
+        }
+
+    }
+}

@@ -1,0 +1,262 @@
+ValeriaNiceria- ProjetoCodeigniter
+
+Requisição
+http://api.github.com/repos/ValeriaNiceria/ProjetoCodeigniter/contents/application/controllers/Produto.php
+
+{
+    "name": "Produto.php",
+    "path": "application/controllers/Produto.php",
+    "sha": "fec9b14fc62c4c646e5133440636def33808209e",
+    "size": 6229,
+    "url": "https://api.github.com/repos/ValeriaNiceria/ProjetoCodeigniter/contents/application/controllers/Produto.php?ref=master",
+    "html_url": "https://github.com/ValeriaNiceria/ProjetoCodeigniter/blob/master/application/controllers/Produto.php",
+    "git_url": "https://api.github.com/repos/ValeriaNiceria/ProjetoCodeigniter/git/blobs/fec9b14fc62c4c646e5133440636def33808209e",
+    "download_url": "https://raw.githubusercontent.com/ValeriaNiceria/ProjetoCodeigniter/master/application/controllers/Produto.php",
+    "type": "file",
+    "content": "PD9waHAKZGVmaW5lZCgnQkFTRVBBVEgnKSBPUiBleGl0KCdObyBkaXJlY3Qg\nc2NyaXB0IGFjY2VzcyBhbGxvd2VkJyk7CgpjbGFzcyBQcm9kdXRvIGV4dGVu\nZHMgQ0lfQ29udHJvbGxlciB7CgoJZnVuY3Rpb24gX19jb25zdHJ1Y3QoKQoJ\newoJCXBhcmVudDo6X19jb25zdHJ1Y3QoKTsKCQkkdGhpcy0+bG9hZC0+bW9k\nZWwoJ1Byb2R1dG9fbW9kZWwnKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIHZl\ncmlmaWNhcl9zZXNzYW8oKQoJewoJCWlmICgkdGhpcy0+c2Vzc2lvbi0+dXNl\ncmRhdGEoJ2xvZ2FkbycpID09IGZhbHNlKQoJCXsKCQkJcmVkaXJlY3QoJ2xv\nZ2luJyk7CgkJfQoJfQoKCXB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCgl7CQoJ\nCS8vdmVyaWZpY2Egc2UgbyB1c3XDoXJpbyBlc3TDoSBsb2dhZG8KCQkkdGhp\ncy0+dmVyaWZpY2FyX3Nlc3NhbygpOwoKCQkkcG9yX3BhZ2luYSA9IDQ7IC8v\nbsO6bWVybyBkZSByZWdpc3Ryb3MgcG9yIHDDoWdpbmEKCQkkaW5pY2lvID0g\nKCR0aGlzLT51cmktPnNlZ21lbnQoMikpID8gJHRoaXMtPnVyaS0+c2VnbWVu\ndCgyKSA6ICcnOyAvL0VzdMOhIHBlZ2FuZG8gbyBzZWd1bmRvIGNhbXBvIGRh\nIHVybAoKCQkkdGFiZWxhID0gInByb2R1dG9zIjsKCQkkZGFkb3NbJ3Byb2R1\ndG9zJ10gPSAkdGhpcy0+UHJvZHV0b19tb2RlbC0+ZmluZFBhZ2luYXRpb24o\nJHRhYmVsYSwgJHBvcl9wYWdpbmEsICRpbmljaW8pOwoKCgkJLy8gKiogRGFk\nb3MgcGFyYSBwYWdpbmHDp8OjbyAqKiAKCQkkdGhpcy0+bG9hZC0+bGlicmFy\neSgncGFnaW5hdGlvbicpOwoJCQoJCSRjb25maWdbJ2Jhc2VfdXJsJ10gPSBi\nYXNlX3VybCgpIC4gJ3BhZ2UvJzsKCQkkY29uZmlnWydwZXJfcGFnZSddID0g\nJHBvcl9wYWdpbmE7IAoJCSRjb25maWdbJ3RvdGFsX3Jvd3MnXSA9ICR0aGlz\nLT5Qcm9kdXRvX21vZGVsLT5udW1fcm93cygkdGFiZWxhKTsKCQkkY29uZmln\nWydudW1fbGlua3MnXSA9IDU7CgkJJGNvbmZpZ1snZmlyc3RfdXJsJ10gPSAn\nMCc7CgkJJGNvbmZpZ1sndXJpX3NlZ21lbnQnXSA9IDI7CgkJLy8qKiBJbmlj\naWFsaXphciBhIHBhZ2luYcOnw6NvICoqCgkJJHRoaXMtPnBhZ2luYXRpb24t\nPmluaXRpYWxpemUoJGNvbmZpZyk7CgkJLy8qKiBDcmlhciBsaW5rcyBkYSBw\nYWdpbmHDp8OjbyAqKiAKCQkkZGFkb3NbJ3BhZ2luYWNhb19wcm9kdXRvcydd\nID0gJHRoaXMtPnBhZ2luYXRpb24tPmNyZWF0ZV9saW5rcygpOyAKCgoJCS8q\nQ2FycmVnYW5kbyBhIHDDoWdpbmFzKi8KCQkkdGhpcy0+bG9hZC0+dmlldygn\naW5jbHVkZXMvaHRtbF9oZWFkZXInKTsKCQkkdGhpcy0+bG9hZC0+dmlldygn\naW5jbHVkZXMvbWVudScpOwoJCSR0aGlzLT5sb2FkLT52aWV3KCdsaXN0YV9w\ncm9kdXRvcycsICRkYWRvcyk7CgkJJHRoaXMtPmxvYWQtPnZpZXcoJ2luY2x1\nZGVzL2h0bWxfZm9vdGVyJyk7Cgl9CgoKCXB1YmxpYyBmdW5jdGlvbiBtZXVz\nX3Byb2R1dG9zKCkKCXsJCgkJLy92ZXJpZmljYSBzZSBvIHVzdcOhcmlvIGVz\ndMOhIGxvZ2FkbwoJCSR0aGlzLT52ZXJpZmljYXJfc2Vzc2FvKCk7CgoJCSRw\nb3JfcGFnaW5hID0gNDsgLy9uw7ptZXJvIGRlIHJlZ2lzdHJvcyBwb3IgcMOh\nZ2luYQoJCSRpbmljaW8gPSAoJHRoaXMtPnVyaS0+c2VnbWVudCgzKSkgPyAk\ndGhpcy0+dXJpLT5zZWdtZW50KDMpIDogJyc7IC8vRXN0w6EgcGVnYW5kbyBv\nIHNlZ3VuZG8gY2FtcG8gZGEgdXJsCgoJCSR0YWJlbGEgPSAicHJvZHV0b3Mi\nOwoJCSRpZCA9ICR0aGlzLT5zZXNzaW9uLT51c2VyZGF0YSgnaWQnKTsKCQkk\nZGFkb3NbJ3Byb2R1dG9zJ10gPSAkdGhpcy0+UHJvZHV0b19tb2RlbC0+Zmlu\nZE1ldXNQYWdpbmF0aW9uKCRpZCwgJHRhYmVsYSwgJHBvcl9wYWdpbmEsICRp\nbmljaW8pOwoKCgkJLy8gKiogRGFkb3MgcGFyYSBwYWdpbmHDp8OjbyAqKiAK\nCQkkdGhpcy0+bG9hZC0+bGlicmFyeSgncGFnaW5hdGlvbicpOwoJCQoJCSRj\nb25maWdbJ2Jhc2VfdXJsJ10gPSBiYXNlX3VybCgpIC4gJ21ldXNfcHJvZHV0\nb3MvcGFnZS8nOwoJCSRjb25maWdbJ3Blcl9wYWdlJ10gPSAkcG9yX3BhZ2lu\nYTsgCgkJJGNvbmZpZ1sndG90YWxfcm93cyddID0gJHRoaXMtPlByb2R1dG9f\nbW9kZWwtPm51bV9yb3dzKCR0YWJlbGEpOwoJCSRjb25maWdbJ251bV9saW5r\ncyddID0gNTsKCQkkY29uZmlnWydmaXJzdF91cmwnXSA9ICcwJzsKCQkkY29u\nZmlnWyd1cmlfc2VnbWVudCddID0gMzsKCQkvLyoqIEluaWNpYWxpemFyIGEg\ncGFnaW5hw6fDo28gKioKCQkkdGhpcy0+cGFnaW5hdGlvbi0+aW5pdGlhbGl6\nZSgkY29uZmlnKTsKCQkvLyoqIENyaWFyIGxpbmtzIGRhIHBhZ2luYcOnw6Nv\nICoqIAoJCSRkYWRvc1sncGFnaW5hY2FvX3Byb2R1dG9zJ10gPSAkdGhpcy0+\ncGFnaW5hdGlvbi0+Y3JlYXRlX2xpbmtzKCk7IAoKCgkJLypDYXJyZWdhbmRv\nIGEgcMOhZ2luYXMqLwoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9o\ndG1sX2hlYWRlcicpOwoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9t\nZW51Jyk7CgkJJHRoaXMtPmxvYWQtPnZpZXcoJ2xpc3RhX21ldXNfcHJvZHV0\nb3MnLCAkZGFkb3MpOwoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9o\ndG1sX2Zvb3RlcicpOwoJfQoKCglwdWJsaWMgZnVuY3Rpb24gY2FkYXN0cm8o\nKQoJewoJCS8vdmVyZmljYSBzZSBvIHVzdcOhcmlvIGVzdMOhIGxvZ2FkbwoJ\nCSR0aGlzLT52ZXJpZmljYXJfc2Vzc2FvKCk7CgoJCSR0aGlzLT5sb2FkLT52\naWV3KCdpbmNsdWRlcy9odG1sX2hlYWRlcicpOwoJCSR0aGlzLT5sb2FkLT52\naWV3KCdpbmNsdWRlcy9tZW51Jyk7CgkJJHRoaXMtPmxvYWQtPnZpZXcoJ2Nh\nZGFzdHJvX3Byb2R1dG8nKTsKCQkkdGhpcy0+bG9hZC0+dmlldygnaW5jbHVk\nZXMvaHRtbF9mb290ZXInKTsKCX0KCgoJcHVibGljIGZ1bmN0aW9uIGNhZGFz\ndHJhcigpCgl7CgkJLy92ZXJpZmljYXIgc2UgbyB1c3XDoXJpbyBlc3TDoSBs\nb2dhZG8KCQkkdGhpcy0+dmVyaWZpY2FyX3Nlc3NhbygpOwoKCQkvKlBlZ2Eg\nZGFkb3MgZG9zIGNhbXBvcyBlIGNvbG9jYSBlbSB2YXJpw6F2ZWlzKi8KCQkk\naWRfdXN1YXJpbyA9ICR0aGlzLT5zZXNzaW9uLT51c2VyZGF0YSgnaWQnKTsK\nCQkkbm9tZSA9ICR0aGlzLT5pbnB1dC0+cG9zdCgnbm9tZScpOwoJCSRkZXNj\ncmljYW8gPSAkdGhpcy0+aW5wdXQtPnBvc3QoJ2Rlc2NyaWNhbycpOwoJCSRw\ncmVjbyA9ICR0aGlzLT5pbnB1dC0+cG9zdCgncHJlY28nKTsKCQkkZGF0YSA9\nIGRhdGUoJ1ktbS1kIEg6aTpzJyk7CgoJCSRkYWRvcyA9IGFycmF5KAoJCQkn\ncHJvZHV0b19ub21lJyA9PiAkbm9tZSwKCQkJJ2Rlc2NyaWNhbycgPT4gJGRl\nc2NyaWNhbywKCQkJJ3ByZWNvJyA9PiAkcHJlY28sCgkJCSd2ZW5kZWRvcl9p\nZCcgPT4gJGlkX3VzdWFyaW8sCgkJCSd2ZW5kaWRvJyA9PiAwLAoJCQknZGF0\nYScgPT4gJGRhdGEKCQkpOwoJCSR0YWJlbGEgPSAicHJvZHV0b3MiOwoKCQlp\nZiAoJHRoaXMtPlByb2R1dG9fbW9kZWwtPmNhZGFzdHJhcigkdGFiZWxhLCAk\nZGFkb3MpKQoJCXsKCQkJJHRoaXMtPnNlc3Npb24tPnNldF9mbGFzaGRhdGEo\nJ3N1Y2Nlc3MnLCAnUHJvZHV0byBjYWRhc3RyYWRvIGNvbSBzdWNlc3NvLicp\nOwoJCQlyZWRpcmVjdCgncHJvZHV0by9tZXVzX3Byb2R1dG9zJyk7CgkJfSBl\nbHNlCgkJewoJCQkkdGhpcy0+c2Vzc2lvbi0+c2V0X2ZsYXNoZGF0YSgnZXJy\nb3InLCAnTsOjbyBmb2kgcG9zc8OtdmVsIGNhZGFzdHJhciBvIHByb2R1dG8u\nJyk7CgkJCXJlZGlyZWN0KCdwcm9kdXRvL21ldXNfcHJvZHV0b3MnKTsKCQl9\nCgl9CgoKCglwdWJsaWMgZnVuY3Rpb24gZXhjbHVpcigpCgl7CgkJLy92ZXJp\nZmljYXIgc2UgbyB1c3XDoXJpbyBlc3TDoSBsb2dhZG8KCQkkdGhpcy0+dmVy\naWZpY2FyX3Nlc3NhbygpOwoKCQkkaWQgPSAkdGhpcy0+dXJpLT5zZWdtZW50\nKDMpOwoJCSR0YWJlbGEgPSAicHJvZHV0b3MiOwoKCQlpZiAoJHRoaXMtPlBy\nb2R1dG9fbW9kZWwtPmV4Y2x1aXIoJGlkLCAkdGFiZWxhKSkKCQl7CgkJCSR0\naGlzLT5zZXNzaW9uLT5zZXRfZmxhc2hkYXRhKCdzdWNjZXNzJywgJ1Byb2R1\ndG8gZXhjbHXDrWRvIGNvbSBzdWNlc3NvLicpOwoJCQlyZWRpcmVjdCgncHJv\nZHV0by9tZXVzX3Byb2R1dG9zJyk7CgkJfWVsc2UKCQl7CgkJCSR0aGlzLT5z\nZXNzaW9uLT5zZXRfZmxhc2hkYXRhKCdlcnJvcicsICdOw6NvIGZvaSBwb3Nz\nw612ZWwgZXhjbHVpciBvIHByb2R1dG8uJyk7CgkJCXJlZGlyZWN0KCdwcm9k\ndXRvL21ldXNfcHJvZHV0b3MnKTsKCQl9Cgl9CgoKCXB1YmxpYyBmdW5jdGlv\nbiBhdHVhbGl6YXIoKQoJewoJCS8vdmVyaWZpY2FyIHNlIG8gdXN1w6FyaW8g\nZXN0w6EgbG9nYWRvCgkJJHRoaXMtPnZlcmlmaWNhcl9zZXNzYW8oKTsKCgkJ\nJGlkID0gJHRoaXMtPnVyaS0+c2VnbWVudCgzKTsKCQkkdGFiZWxhID0gInBy\nb2R1dG9zIjsKCgkJJGRhZG9zWydwcm9kdXRvJ10gPSAkdGhpcy0+UHJvZHV0\nb19tb2RlbC0+Z2V0QnlJZCgkaWQsICR0YWJlbGEpOwoKCQkkdGhpcy0+bG9h\nZC0+dmlldygnaW5jbHVkZXMvaHRtbF9oZWFkZXInKTsKCQkkdGhpcy0+bG9h\nZC0+dmlldygnaW5jbHVkZXMvbWVudScpOwoJCSR0aGlzLT5sb2FkLT52aWV3\nKCdlZGl0YXJfcHJvZHV0bycsICRkYWRvcyk7CgkJJHRoaXMtPmxvYWQtPnZp\nZXcoJ2luY2x1ZGVzL2h0bWxfZm9vdGVyJyk7CgoJCWlmICgkX1BPU1QpCgkJ\newoJCQkkbm9tZSA9ICR0aGlzLT5pbnB1dC0+cG9zdCgnbm9tZScpOwoJCQkk\nZGVzY3JpY2FvID0gJHRoaXMtPmlucHV0LT5wb3N0KCdkZXNjcmljYW8nKTsK\nCQkJJHByZWNvID0gJHRoaXMtPmlucHV0LT5wb3N0KCdwcmVjbycpOwoJCQkk\naWQgPSAkdGhpcy0+aW5wdXQtPnBvc3QoJ2lkJyk7CgoJCQkkdGFiZWxhID0g\nInByb2R1dG9zIjsKCgkJCSRkYWRvcyA9IGFycmF5KAoJCQkJJ3Byb2R1dG9f\nbm9tZScgPT4gJG5vbWUsCgkJCQknZGVzY3JpY2FvJyA9PiAkZGVzY3JpY2Fv\nLAoJCQkJJ3ByZWNvJyA9PiAkcHJlY28KCQkJKTsKCgkJCWlmICgkdGhpcy0+\nUHJvZHV0b19tb2RlbC0+YXR1YWxpemFyKCRpZCwgJHRhYmVsYSwgJGRhZG9z\nKSkKCQkJewoJCQkJJHRoaXMtPnNlc3Npb24tPnNldF9mbGFzaGRhdGEoJ3N1\nY2Nlc3MnLCAnUHJvZHV0byBhdHVhbGl6YWRvIGNvbSBzdWNlc3NvLicpOwoJ\nCQkJcmVkaXJlY3QoJ3Byb2R1dG8vbWV1c19wcm9kdXRvcycpOwoJCQl9IGVs\nc2UKCQkJewoJCQkJJHRoaXMtPnNlc3Npb24tPnNldF9mbGFzaGRhdGEoJ2Vy\ncm9yJywgJ07Do28gZm9pIHBvc3PDrXZlbCBhdHVhbGl6YXIgbyBwcm9kdXRv\nJyk7CgkJCQlyZWRpcmVjdCgncHJvZHV0by9tZXVzX3Byb2R1dG9zJyk7CgkJ\nCX0KCQl9Cgl9CgoKCXB1YmxpYyBmdW5jdGlvbiBwZXNxdWlzYXIoKQoJewoJ\nCS8vdmVyaWZpY2Egc2UgbyB1c3XDoXJpbyBlc3TDoSBsb2dhZG8KCQkkdGhp\ncy0+dmVyaWZpY2FyX3Nlc3NhbygpOwoKCQkkcGVzcXVpc2EgPSAkdGhpcy0+\naW5wdXQtPnBvc3QoJ3Blc3F1aXNhcicpOwoJCSR0YWJlbGEgPSAicHJvZHV0\nb3MiOwoJCSRkYWRvc1sncHJvZHV0b3MnXSA9ICR0aGlzLT5Qcm9kdXRvX21v\nZGVsLT5wZXNxdWlzYXIoJHBlc3F1aXNhLCAkdGFiZWxhKTsKCgkJJHRoaXMt\nPmxvYWQtPnZpZXcoJ2luY2x1ZGVzL2h0bWxfaGVhZGVyJyk7CgkJJHRoaXMt\nPmxvYWQtPnZpZXcoJ2luY2x1ZGVzL21lbnUnKTsKCQkkdGhpcy0+bG9hZC0+\ndmlldygnbGlzdGFfcHJvZHV0b3MnLCAkZGFkb3MpOwoJCSR0aGlzLT5sb2Fk\nLT52aWV3KCdpbmNsdWRlcy9odG1sX2Zvb3RlcicpOwkKCX0KCgoJcHVibGlj\nIGZ1bmN0aW9uIG1ldXNfcGVzcXVpc2FyKCkKCXsKCQkvL3ZlcmlmaWNhIHNl\nIG8gdXN1w6FyaW8gZXN0w6EgbG9nYWRvCgkJJHRoaXMtPnZlcmlmaWNhcl9z\nZXNzYW8oKTsKCgkJJHBlc3F1aXNhID0gJHRoaXMtPmlucHV0LT5wb3N0KCdw\nZXNxdWlzYXInKTsKCQkkdGFiZWxhID0gInByb2R1dG9zIjsKCQkkaWQgPSAk\ndGhpcy0+c2Vzc2lvbi0+dXNlcmRhdGEoJ2lkJyk7CgkJJHRoaXMtPmRiLT53\naGVyZSgndmVuZGVkb3JfaWQnLCAkaWQpOyAKCQkkZGFkb3NbJ3Byb2R1dG9z\nJ10gPSAkdGhpcy0+UHJvZHV0b19tb2RlbC0+cGVzcXVpc2FyKCRwZXNxdWlz\nYSwgJHRhYmVsYSk7CgoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9o\ndG1sX2hlYWRlcicpOwoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9t\nZW51Jyk7CgkJJHRoaXMtPmxvYWQtPnZpZXcoJ2xpc3RhX21ldXNfcHJvZHV0\nb3MnLCAkZGFkb3MpOwoJCSR0aGlzLT5sb2FkLT52aWV3KCdpbmNsdWRlcy9o\ndG1sX2Zvb3RlcicpOwkKCX0KfQ==\n",
+    "encoding": "base64",
+    "_links": {
+        "self": "https://api.github.com/repos/ValeriaNiceria/ProjetoCodeigniter/contents/application/controllers/Produto.php?ref=master",
+        "git": "https://api.github.com/repos/ValeriaNiceria/ProjetoCodeigniter/git/blobs/fec9b14fc62c4c646e5133440636def33808209e",
+        "html": "https://github.com/ValeriaNiceria/ProjetoCodeigniter/blob/master/application/controllers/Produto.php"
+    }
+}
+
+
+Requisição Download
+https://raw.githubusercontent.com/ValeriaNiceria/ProjetoCodeigniter/master/application/controllers/Produto.php
+
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Produto extends CI_Controller {
+
+	function __construct()
+	{
+		parent::__construct();
+		$this->load->model('Produto_model');
+	}
+
+
+	public function verificar_sessao()
+	{
+		if ($this->session->userdata('logado') == false)
+		{
+			redirect('login');
+		}
+	}
+
+	public function index()
+	{	
+		//verifica se o usuário está logado
+		$this->verificar_sessao();
+
+		$por_pagina = 4; //número de registros por página
+		$inicio = ($this->uri->segment(2)) ? $this->uri->segment(2) : ''; //Está pegando o segundo campo da url
+
+		$tabela = "produtos";
+		$dados['produtos'] = $this->Produto_model->findPagination($tabela, $por_pagina, $inicio);
+
+
+		// ** Dados para paginação ** 
+		$this->load->library('pagination');
+		
+		$config['base_url'] = base_url() . 'page/';
+		$config['per_page'] = $por_pagina; 
+		$config['total_rows'] = $this->Produto_model->num_rows($tabela);
+		$config['num_links'] = 5;
+		$config['first_url'] = '0';
+		$config['uri_segment'] = 2;
+		//** Inicializar a paginação **
+		$this->pagination->initialize($config);
+		//** Criar links da paginação ** 
+		$dados['paginacao_produtos'] = $this->pagination->create_links(); 
+
+
+		/*Carregando a páginas*/
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('lista_produtos', $dados);
+		$this->load->view('includes/html_footer');
+	}
+
+
+	public function meus_produtos()
+	{	
+		//verifica se o usuário está logado
+		$this->verificar_sessao();
+
+		$por_pagina = 4; //número de registros por página
+		$inicio = ($this->uri->segment(3)) ? $this->uri->segment(3) : ''; //Está pegando o segundo campo da url
+
+		$tabela = "produtos";
+		$id = $this->session->userdata('id');
+		$dados['produtos'] = $this->Produto_model->findMeusPagination($id, $tabela, $por_pagina, $inicio);
+
+
+		// ** Dados para paginação ** 
+		$this->load->library('pagination');
+		
+		$config['base_url'] = base_url() . 'meus_produtos/page/';
+		$config['per_page'] = $por_pagina; 
+		$config['total_rows'] = $this->Produto_model->num_rows($tabela);
+		$config['num_links'] = 5;
+		$config['first_url'] = '0';
+		$config['uri_segment'] = 3;
+		//** Inicializar a paginação **
+		$this->pagination->initialize($config);
+		//** Criar links da paginação ** 
+		$dados['paginacao_produtos'] = $this->pagination->create_links(); 
+
+
+		/*Carregando a páginas*/
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('lista_meus_produtos', $dados);
+		$this->load->view('includes/html_footer');
+	}
+
+
+	public function cadastro()
+	{
+		//verfica se o usuário está logado
+		$this->verificar_sessao();
+
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('cadastro_produto');
+		$this->load->view('includes/html_footer');
+	}
+
+
+	public function cadastrar()
+	{
+		//verificar se o usuário está logado
+		$this->verificar_sessao();
+
+		/*Pega dados dos campos e coloca em variáveis*/
+		$id_usuario = $this->session->userdata('id');
+		$nome = $this->input->post('nome');
+		$descricao = $this->input->post('descricao');
+		$preco = $this->input->post('preco');
+		$data = date('Y-m-d H:i:s');
+
+		$dados = array(
+			'produto_nome' => $nome,
+			'descricao' => $descricao,
+			'preco' => $preco,
+			'vendedor_id' => $id_usuario,
+			'vendido' => 0,
+			'data' => $data
+		);
+		$tabela = "produtos";
+
+		if ($this->Produto_model->cadastrar($tabela, $dados))
+		{
+			$this->session->set_flashdata('success', 'Produto cadastrado com sucesso.');
+			redirect('produto/meus_produtos');
+		} else
+		{
+			$this->session->set_flashdata('error', 'Não foi possível cadastrar o produto.');
+			redirect('produto/meus_produtos');
+		}
+	}
+
+
+
+	public function excluir()
+	{
+		//verificar se o usuário está logado
+		$this->verificar_sessao();
+
+		$id = $this->uri->segment(3);
+		$tabela = "produtos";
+
+		if ($this->Produto_model->excluir($id, $tabela))
+		{
+			$this->session->set_flashdata('success', 'Produto excluído com sucesso.');
+			redirect('produto/meus_produtos');
+		}else
+		{
+			$this->session->set_flashdata('error', 'Não foi possível excluir o produto.');
+			redirect('produto/meus_produtos');
+		}
+	}
+
+
+	public function atualizar()
+	{
+		//verificar se o usuário está logado
+		$this->verificar_sessao();
+
+		$id = $this->uri->segment(3);
+		$tabela = "produtos";
+
+		$dados['produto'] = $this->Produto_model->getById($id, $tabela);
+
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('editar_produto', $dados);
+		$this->load->view('includes/html_footer');
+
+		if ($_POST)
+		{
+			$nome = $this->input->post('nome');
+			$descricao = $this->input->post('descricao');
+			$preco = $this->input->post('preco');
+			$id = $this->input->post('id');
+
+			$tabela = "produtos";
+
+			$dados = array(
+				'produto_nome' => $nome,
+				'descricao' => $descricao,
+				'preco' => $preco
+			);
+
+			if ($this->Produto_model->atualizar($id, $tabela, $dados))
+			{
+				$this->session->set_flashdata('success', 'Produto atualizado com sucesso.');
+				redirect('produto/meus_produtos');
+			} else
+			{
+				$this->session->set_flashdata('error', 'Não foi possível atualizar o produto');
+				redirect('produto/meus_produtos');
+			}
+		}
+	}
+
+
+	public function pesquisar()
+	{
+		//verifica se o usuário está logado
+		$this->verificar_sessao();
+
+		$pesquisa = $this->input->post('pesquisar');
+		$tabela = "produtos";
+		$dados['produtos'] = $this->Produto_model->pesquisar($pesquisa, $tabela);
+
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('lista_produtos', $dados);
+		$this->load->view('includes/html_footer');	
+	}
+
+
+	public function meus_pesquisar()
+	{
+		//verifica se o usuário está logado
+		$this->verificar_sessao();
+
+		$pesquisa = $this->input->post('pesquisar');
+		$tabela = "produtos";
+		$id = $this->session->userdata('id');
+		$this->db->where('vendedor_id', $id); 
+		$dados['produtos'] = $this->Produto_model->pesquisar($pesquisa, $tabela);
+
+		$this->load->view('includes/html_header');
+		$this->load->view('includes/menu');
+		$this->load->view('lista_meus_produtos', $dados);
+		$this->load->view('includes/html_footer');	
+	}
+}
