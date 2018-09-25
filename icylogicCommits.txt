@@ -1,0 +1,798 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=icylogic
+
+
+{
+        "sha": "a1ae4a60622d993ee2a630e1426934fb5907c055",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTphMWFlNGE2MDYyMmQ5OTNlZTJhNjMwZTE0MjY5MzRmYjU5MDdjMDU1",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T15:19:58Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T15:19:58Z"
+            },
+            "message": "Merge pull request #457 from icylogic/feature/statistics_ui\n\nfeature/statistics ui",
+            "tree": {
+                "sha": "cbb1f6814834c9b2c2307215a7a44c7ddf1878bf",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/cbb1f6814834c9b2c2307215a7a44c7ddf1878bf"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/a1ae4a60622d993ee2a630e1426934fb5907c055",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a1ae4a60622d993ee2a630e1426934fb5907c055",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a1ae4a60622d993ee2a630e1426934fb5907c055",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a1ae4a60622d993ee2a630e1426934fb5907c055/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ea43e2a72dcfea423b2c95adbd030291231b12c1",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ea43e2a72dcfea423b2c95adbd030291231b12c1",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ea43e2a72dcfea423b2c95adbd030291231b12c1"
+            },
+            {
+                "sha": "65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c"
+            }
+        ]
+    },
+    {
+        "sha": "65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo2NWUxMmU0M2M5ZWU5N2U1MzRlYjVlZTM0NzJjZDRjNmVkMDc5ZTJj",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T15:06:21Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T15:06:21Z"
+            },
+            "message": "make hints more friendly.",
+            "tree": {
+                "sha": "cbb1f6814834c9b2c2307215a7a44c7ddf1878bf",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/cbb1f6814834c9b2c2307215a7a44c7ddf1878bf"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/65e12e43c9ee97e534eb5ee3472cd4c6ed079e2c/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "11066b75819fab541237a5cde0c82dc98e1aba34",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/11066b75819fab541237a5cde0c82dc98e1aba34",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/11066b75819fab541237a5cde0c82dc98e1aba34"
+            }
+        ]
+    },
+    {
+        "sha": "11066b75819fab541237a5cde0c82dc98e1aba34",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxMTA2NmI3NTgxOWZhYjU0MTIzN2E1Y2RlMGM4MmRjOThlMWFiYTM0",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T14:43:38Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T14:43:38Z"
+            },
+            "message": "in case of broken configs",
+            "tree": {
+                "sha": "b7cc4c46d70ae7865b7e788681c0bc938c5849de",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/b7cc4c46d70ae7865b7e788681c0bc938c5849de"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/11066b75819fab541237a5cde0c82dc98e1aba34",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/11066b75819fab541237a5cde0c82dc98e1aba34",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/11066b75819fab541237a5cde0c82dc98e1aba34",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/11066b75819fab541237a5cde0c82dc98e1aba34/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3"
+            }
+        ]
+    },
+    {
+        "sha": "8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo4ZjE3NWM0ODFlYmYxYWRiZjdlOWUwNmFmYjEzYzkzYzFiNGM1NGEz",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T14:25:32Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T14:25:32Z"
+            },
+            "message": "filter out meanless data.",
+            "tree": {
+                "sha": "a51d454ea4bbe3c3364dfea5cc183df6ed9e62c2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/a51d454ea4bbe3c3364dfea5cc183df6ed9e62c2"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8f175c481ebf1adbf7e9e06afb13c93c1b4c54a3/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e72822aac0810cc719b10d94aec8059c28e16d91",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e72822aac0810cc719b10d94aec8059c28e16d91",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e72822aac0810cc719b10d94aec8059c28e16d91"
+            }
+        ]
+    },
+    {
+        "sha": "e72822aac0810cc719b10d94aec8059c28e16d91",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTplNzI4MjJhYWMwODEwY2M3MTliMTBkOTRhZWM4MDU5YzI4ZTE2ZDkx",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T13:33:56Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T13:33:56Z"
+            },
+            "message": "turn on optimization",
+            "tree": {
+                "sha": "41ea05f1dacac2a828f42b2eb6192db61a88982d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/41ea05f1dacac2a828f42b2eb6192db61a88982d"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/e72822aac0810cc719b10d94aec8059c28e16d91",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e72822aac0810cc719b10d94aec8059c28e16d91",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e72822aac0810cc719b10d94aec8059c28e16d91",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e72822aac0810cc719b10d94aec8059c28e16d91/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a99fef37d323f1e13910cdf6a989d5cf567eecf6"
+            }
+        ]
+    },
+    {
+        "sha": "a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTphOTlmZWYzN2QzMjNmMWUxMzkxMGNkZjZhOTg5ZDVjZjU2N2VlY2Y2",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T13:32:43Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T13:32:43Z"
+            },
+            "message": "track multiple servers at the same time\n\nCorrect AvailabilityStatistics's behavior under special strategies like \"LoadBalance\", which may switch the server several times in a short period.",
+            "tree": {
+                "sha": "798900fdc288cbc9cb4466e2bb7e084c76e7f509",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/798900fdc288cbc9cb4466e2bb7e084c76e7f509"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a99fef37d323f1e13910cdf6a989d5cf567eecf6",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a99fef37d323f1e13910cdf6a989d5cf567eecf6/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7914d704d911b6966526e02ec6596ab3c98e5de2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7914d704d911b6966526e02ec6596ab3c98e5de2",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7914d704d911b6966526e02ec6596ab3c98e5de2"
+            }
+        ]
+    },
+    {
+        "sha": "7914d704d911b6966526e02ec6596ab3c98e5de2",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3OTE0ZDcwNGQ5MTFiNjk2NjUyNmUwMmVjNjU5NmFiM2M5OGU1ZGUy",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T06:53:57Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T06:53:57Z"
+            },
+            "message": "finish basic calculation",
+            "tree": {
+                "sha": "6850781a777658bfab68862829c24aa3fdd53a05",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/6850781a777658bfab68862829c24aa3fdd53a05"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7914d704d911b6966526e02ec6596ab3c98e5de2",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7914d704d911b6966526e02ec6596ab3c98e5de2",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7914d704d911b6966526e02ec6596ab3c98e5de2",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7914d704d911b6966526e02ec6596ab3c98e5de2/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7a3f9469139323bb41de2133e4e22fc1690a7ab4"
+            }
+        ]
+    },
+    {
+        "sha": "7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3YTNmOTQ2OTEzOTMyM2JiNDFkZTIxMzNlNGUyMmZjMTY5MGE3YWI0",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T03:06:09Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-03-01T03:06:09Z"
+            },
+            "message": "fix databinding",
+            "tree": {
+                "sha": "21a4ce4717087156a69d8ec34e3fc316d532cb7a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/21a4ce4717087156a69d8ec34e3fc316d532cb7a"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7a3f9469139323bb41de2133e4e22fc1690a7ab4",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7a3f9469139323bb41de2133e4e22fc1690a7ab4/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e"
+            }
+        ]
+    },
+    {
+        "sha": "e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTplMGUwZjY0NmIwZmY5YTRkYWEzZWM3YmVkYmQwNjFmNjhlYTE1Yjhl",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-02-29T16:38:43Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-02-29T16:38:43Z"
+            },
+            "message": "fix the chart",
+            "tree": {
+                "sha": "9a3010e4a35729f6e5c4ae5393cd07dc6470e4cf",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/9a3010e4a35729f6e5c4ae5393cd07dc6470e4cf"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e0e0f646b0ff9a4daa3ec7bedbd061f68ea15b8e/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3b7cbf8020f95bac267685fd5354b5ed029410fc",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b7cbf8020f95bac267685fd5354b5ed029410fc",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/3b7cbf8020f95bac267685fd5354b5ed029410fc"
+            }
+        ]
+    },
+    {
+        "sha": "3b7cbf8020f95bac267685fd5354b5ed029410fc",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTozYjdjYmY4MDIwZjk1YmFjMjY3Njg1ZmQ1MzU0YjVlZDAyOTQxMGZj",
+        "commit": {
+            "author": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-02-29T13:36:55Z"
+            },
+            "committer": {
+                "name": "icylogic",
+                "email": "withguohao@gmail.com",
+                "date": "2016-02-29T13:36:55Z"
+            },
+            "message": "fix weird logic for reading files.",
+            "tree": {
+                "sha": "52fc028f66259e803e3530cf931ccd91f944a582",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/52fc028f66259e803e3530cf931ccd91f944a582"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/3b7cbf8020f95bac267685fd5354b5ed029410fc",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b7cbf8020f95bac267685fd5354b5ed029410fc",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/3b7cbf8020f95bac267685fd5354b5ed029410fc",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b7cbf8020f95bac267685fd5354b5ed029410fc/comments",
+        "author": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "icylogic",
+            "id": 2814357,
+            "node_id": "MDQ6VXNlcjI4MTQzNTc=",
+            "avatar_url": "https://avatars1.githubusercontent.com/u/2814357?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/icylogic",
+            "html_url": "https://github.com/icylogic",
+            "followers_url": "https://api.github.com/users/icylogic/followers",
+            "following_url": "https://api.github.com/users/icylogic/following{/other_user}",
+            "gists_url": "https://api.github.com/users/icylogic/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/icylogic/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/icylogic/subscriptions",
+            "organizations_url": "https://api.github.com/users/icylogic/orgs",
+            "repos_url": "https://api.github.com/users/icylogic/repos",
+            "events_url": "https://api.github.com/users/icylogic/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/icylogic/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2086b5900d8d1b53a5277dbfdb41255e61da1b14",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2086b5900d8d1b53a5277dbfdb41255e61da1b14",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2086b5900d8d1b53a5277dbfdb41255e61da1b14"
+            }
+        ]
+    },

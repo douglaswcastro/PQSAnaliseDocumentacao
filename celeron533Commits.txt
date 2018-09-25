@@ -1,0 +1,2410 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=celeron533
+
+[
+    {
+        "sha": "7e21e168cf5fffedec2f9688e5e15e1c4de494ea",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3ZTIxZTE2OGNmNWZmZmVkZWMyZjk2ODhlNWUxNWUxYzRkZTQ5NGVh",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-13T13:40:19Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-13T13:40:19Z"
+            },
+            "message": "Update CHANGES and bump version",
+            "tree": {
+                "sha": "e52f0a8146f9fb47283caf5a6f2b2118bb773fe0",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/e52f0a8146f9fb47283caf5a6f2b2118bb773fe0"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7e21e168cf5fffedec2f9688e5e15e1c4de494ea",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7e21e168cf5fffedec2f9688e5e15e1c4de494ea",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7e21e168cf5fffedec2f9688e5e15e1c4de494ea",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7e21e168cf5fffedec2f9688e5e15e1c4de494ea/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/98538e32c043a8d1c0cb57937c6c9a19c4d2e380"
+            }
+        ]
+    },
+
+    
+    {
+        "sha": "98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo5ODUzOGUzMmMwNDNhOGQxYzBjYjU3OTM3YzZjOWExOWM0ZDJlMzgw",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-06T11:58:28Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-06T11:59:52Z"
+            },
+            "message": "Code cleanup",
+            "tree": {
+                "sha": "3c93f431fb739b76d12b660991ac91b67812928a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3c93f431fb739b76d12b660991ac91b67812928a"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/98538e32c043a8d1c0cb57937c6c9a19c4d2e380",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/98538e32c043a8d1c0cb57937c6c9a19c4d2e380/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f1042cbf655f836ec8b6b4ce73e75ea12fabb771"
+            }
+        ]
+    },
+    {
+        "sha": "f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpmMTA0MmNiZjY1NWY4MzZlYzhiNmI0Y2U3M2U3NWVhMTJmYWJiNzcx",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-06T11:53:13Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-09-06T11:53:13Z"
+            },
+            "message": "Merge pull request #1968 from RajanGrewal/patch-1\n\nSocket.Close calls Socket.Dispose internally",
+            "tree": {
+                "sha": "7c9312c947b30ad020a57eb2c68bd4a1a8610939",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/7c9312c947b30ad020a57eb2c68bd4a1a8610939"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbkRUpCRBK7hj4Ov3rIwAAdHIIAAAsCKhvCd51q/OZ1fZ3pWIh\n2y0IIAFgtOL4TB3nNAUBaL4CBFvMD+Qq3KDogt5AgCv8yz1w0xWNXWydJrMNPez+\nPmikO9wS3Mfpy8yiPs8tWT06FAuOg7+47/8/LD5SvYiQ21kqNAwASp5rHtwEH4Fv\nX085PExMQV/ASKBLaDCwsaotqJRQWOJ9TAw658WKnjjtscCmAFVtVRZyYn/XnpKt\nXYvSABrKSgLW2Qz5/b21JMiX3CBdKPHNgfLjHMXaoEO+7RLdEnHYDIZVuVc3JFZd\nr/ZcVdyBFzFk03O4ftr8qW5fjELXR89J7yE/Gob0C+HOmz/VwlUJqFnEnCzm5uc=\n=LXCj\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 7c9312c947b30ad020a57eb2c68bd4a1a8610939\nparent 547989c62d1aeb7c00edfe8c40a0b439942c099b\nparent ee11e3caccc93675bf4776d594f0de74a7560170\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1536234793 +0800\ncommitter GitHub <noreply@github.com> 1536234793 +0800\n\nMerge pull request #1968 from RajanGrewal/patch-1\n\nSocket.Close calls Socket.Dispose internally"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f1042cbf655f836ec8b6b4ce73e75ea12fabb771",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f1042cbf655f836ec8b6b4ce73e75ea12fabb771/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "547989c62d1aeb7c00edfe8c40a0b439942c099b",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/547989c62d1aeb7c00edfe8c40a0b439942c099b",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/547989c62d1aeb7c00edfe8c40a0b439942c099b"
+            },
+            {
+                "sha": "ee11e3caccc93675bf4776d594f0de74a7560170",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ee11e3caccc93675bf4776d594f0de74a7560170",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ee11e3caccc93675bf4776d594f0de74a7560170"
+            }
+        ]
+    },
+    {
+        "sha": "547989c62d1aeb7c00edfe8c40a0b439942c099b",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1NDc5ODljNjJkMWFlYjdjMDBlZGZlOGM0MGEwYjQzOTk0MmMwOTli",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-09-03T11:37:04Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-09-03T11:37:04Z"
+            },
+            "message": "Merge pull request #1993 from CGDF-Github/master\n\n补上Statistics界面的图标",
+            "tree": {
+                "sha": "3e9c6af0f08868565a10a6860f814d6eaad82e40",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3e9c6af0f08868565a10a6860f814d6eaad82e40"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/547989c62d1aeb7c00edfe8c40a0b439942c099b",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbjRzgCRBK7hj4Ov3rIwAAdHIIAE1erkRFWwECm7z1uLprwDow\nFpdO5C6JPtxn6MRvgcVSsaBGc0zWGXDrVZXHqERIXRXIi0C+XhnbjJhr1KaHyN9x\nCm3pf+tiR2/kOt/r+h2crjnasdDcSxud9FtdCRGl93phu6EeECRdoUIclLmoXG55\nCpefYZGDecs7o+VbZPqSIidFOxiHlHu6yP1n5Pi4uPCYbKm7fvsLySKhHhG4ldGw\nGYrFn7v7N4FWF9Yw0+19kKaZ5yduEiqVJzUxJfqG0piFLPdG48O/+PrY5qKMrqdp\nuCesgEJ/StWQddwvrANOxZcTGvo4MzjPS00418xtsa7lCzbzH3b3ZHhrokfFsNY=\n=66ua\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 3e9c6af0f08868565a10a6860f814d6eaad82e40\nparent 7aedf947c6a7997d2e29bb9e9155a384d241beea\nparent 46f37fa4f225318702c422a4bebc7a14b1d6b4fa\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1535974624 +0800\ncommitter GitHub <noreply@github.com> 1535974624 +0800\n\nMerge pull request #1993 from CGDF-Github/master\n\n补上Statistics界面的图标"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/547989c62d1aeb7c00edfe8c40a0b439942c099b",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/547989c62d1aeb7c00edfe8c40a0b439942c099b",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/547989c62d1aeb7c00edfe8c40a0b439942c099b/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7aedf947c6a7997d2e29bb9e9155a384d241beea",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7aedf947c6a7997d2e29bb9e9155a384d241beea",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7aedf947c6a7997d2e29bb9e9155a384d241beea"
+            },
+            {
+                "sha": "46f37fa4f225318702c422a4bebc7a14b1d6b4fa",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/46f37fa4f225318702c422a4bebc7a14b1d6b4fa",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/46f37fa4f225318702c422a4bebc7a14b1d6b4fa"
+            }
+        ]
+    },
+    {
+        "sha": "7aedf947c6a7997d2e29bb9e9155a384d241beea",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3YWVkZjk0N2M2YTc5OTdkMmUyOWJiOWU5MTU1YTM4NGQyNDFiZWVh",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-29T16:12:31Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-29T16:12:31Z"
+            },
+            "message": "Update readme.md\n\nAdd logo",
+            "tree": {
+                "sha": "d0884ce5088b1277acc944492f44c8e9018e2da4",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/d0884ce5088b1277acc944492f44c8e9018e2da4"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7aedf947c6a7997d2e29bb9e9155a384d241beea",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7aedf947c6a7997d2e29bb9e9155a384d241beea",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7aedf947c6a7997d2e29bb9e9155a384d241beea",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7aedf947c6a7997d2e29bb9e9155a384d241beea/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/37d63c82c5d89d59d99ca8fcad2792b3ff52f157"
+            }
+        ]
+    },
+    {
+        "sha": "37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTozN2Q2M2M4MmM1ZDg5ZDU5ZDk5Y2E4ZmNhZDI3OTJiM2ZmNTJmMTU3",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-21T13:36:30Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-08-21T13:36:30Z"
+            },
+            "message": "Merge pull request #1978 from studentmain/master\n\nUnit test for plugin launch",
+            "tree": {
+                "sha": "5dde1077ee7a90f006c5a12ce75884e608750aba",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/5dde1077ee7a90f006c5a12ce75884e608750aba"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbfBVeCRBK7hj4Ov3rIwAAdHIIAJNnqwxLG8+2xmsljbsznmd2\n3KUOyWptS5BhgNpEOSghf2YKj/HtIYyCSdPa190ecGQmNTneJrjxbbxYD/eTqV52\ntGVfX41z9yB2JlHBh2UoqTWsr+uZPnIz8VQr7NeJu8lu6uDUawKbUKii3qgtDJqO\nuJuhO0eQJg4RxeZ35qLDl+vUTjNRY9Up0QPy+75qJpjoEkId6qbOY2xX2i2N1wBq\nBUyk5inpByHUQNCCbvAifVfc0Uss0lQFY6fiKgfoywMS5fftE+KZ//9USm/++Wvd\nAzGqio1LWIQEFddZsg7NzuWNsRsu0/7L5CC50qBO6T8p9K3JoHPmJbdlbwOy2fo=\n=JKrQ\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 5dde1077ee7a90f006c5a12ce75884e608750aba\nparent 14559b5ef60d2e580e90adea33c26c15ca61c0cb\nparent 27f62fce85a07a4687dcfaf32675515e60726b08\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1534858590 +0800\ncommitter GitHub <noreply@github.com> 1534858590 +0800\n\nMerge pull request #1978 from studentmain/master\n\nUnit test for plugin launch"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/37d63c82c5d89d59d99ca8fcad2792b3ff52f157",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/37d63c82c5d89d59d99ca8fcad2792b3ff52f157/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/14559b5ef60d2e580e90adea33c26c15ca61c0cb"
+            },
+            {
+                "sha": "27f62fce85a07a4687dcfaf32675515e60726b08",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/27f62fce85a07a4687dcfaf32675515e60726b08",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/27f62fce85a07a4687dcfaf32675515e60726b08"
+            }
+        ]
+    },
+    {
+        "sha": "14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxNDU1OWI1ZWY2MGQyZTU4MGU5MGFkZWEzM2MyNmMxNWNhNjFjMGNi",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-20T03:10:33Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-08-20T03:10:33Z"
+            },
+            "message": "Merge pull request #1977 from celeron533/EnvironmentVariables\n\nFix #1969 #1818",
+            "tree": {
+                "sha": "8d080be5d9f1eef71dbccc80ae386bb1585f1d73",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/8d080be5d9f1eef71dbccc80ae386bb1585f1d73"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbejEpCRBK7hj4Ov3rIwAAdHIIAB1r74AwcEFg8BpJD/jBwIDX\nOE/cViQtv4QzK47SUPpOFfMVvFZb5wShYp9WaUSYRLN5IiUedP7HZRegiwgT40pb\n8SZTycs2fUyUikzFmXp5rzsFRh6q6K1Ef/CfRnj0/XzxNAbFPQlZTYTzpqJMZZCm\nljI4oXOv0OYKoKLX9zrmCn85KaX5xGBZ7R1OWsRKtaEt56yUM4aksk0n3CLEnl5O\nZou5EWv0Ckyr0S34PxqaboD4Mx2iinf3RY3usSg7RczNAZNQwD7Vs36BZq9qMlg2\nl+SGBNp+BgM/sxYlAz1LdNJY49VSTUQ33GJ5lnLtxRGjhcHcMHtHPU8TMcDjdsA=\n=7U/0\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 8d080be5d9f1eef71dbccc80ae386bb1585f1d73\nparent 465355a6caa2a7de858fa5276238445ff6e53427\nparent 1b373fd145ceda8dc82fe66015d111c0c4ee77ce\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1534734633 +0800\ncommitter GitHub <noreply@github.com> 1534734633 +0800\n\nMerge pull request #1977 from celeron533/EnvironmentVariables\n\nFix #1969 #1818"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/14559b5ef60d2e580e90adea33c26c15ca61c0cb",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/14559b5ef60d2e580e90adea33c26c15ca61c0cb/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "465355a6caa2a7de858fa5276238445ff6e53427",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/465355a6caa2a7de858fa5276238445ff6e53427",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/465355a6caa2a7de858fa5276238445ff6e53427"
+            },
+            {
+                "sha": "1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1b373fd145ceda8dc82fe66015d111c0c4ee77ce"
+            }
+        ]
+    },
+    {
+        "sha": "1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxYjM3M2ZkMTQ1Y2VkYThkYzgyZmU2NjAxNWQxMTFjMGM0ZWU3N2Nl",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-19T15:42:26Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-19T15:48:46Z"
+            },
+            "message": "Fix #1969 #1818\n\nCause: process's additional environment variables are not expanded\nby correctly.\n\nInnovated by studentmain (StudentEx <scncgz@gmail.com>)",
+            "tree": {
+                "sha": "8d080be5d9f1eef71dbccc80ae386bb1585f1d73",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/8d080be5d9f1eef71dbccc80ae386bb1585f1d73"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1b373fd145ceda8dc82fe66015d111c0c4ee77ce",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1b373fd145ceda8dc82fe66015d111c0c4ee77ce/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "465355a6caa2a7de858fa5276238445ff6e53427",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/465355a6caa2a7de858fa5276238445ff6e53427",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/465355a6caa2a7de858fa5276238445ff6e53427"
+            }
+        ]
+    },
+    {
+        "sha": "465355a6caa2a7de858fa5276238445ff6e53427",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo0NjUzNTVhNmNhYTJhN2RlODU4ZmE1Mjc2MjM4NDQ1ZmY2ZTUzNDI3",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-18T02:11:29Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-18T02:11:29Z"
+            },
+            "message": "Update readme.md\n\nsection Global Hotkeys",
+            "tree": {
+                "sha": "7a070c850e5ce8bee5bf984d32d32276fa2d2409",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/7a070c850e5ce8bee5bf984d32d32276fa2d2409"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/465355a6caa2a7de858fa5276238445ff6e53427",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/465355a6caa2a7de858fa5276238445ff6e53427",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/465355a6caa2a7de858fa5276238445ff6e53427",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/465355a6caa2a7de858fa5276238445ff6e53427/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7c1cb27aab3813605ff55c2282da51206af1a23e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7c1cb27aab3813605ff55c2282da51206af1a23e",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7c1cb27aab3813605ff55c2282da51206af1a23e"
+            }
+        ]
+    },
+    {
+        "sha": "7c1cb27aab3813605ff55c2282da51206af1a23e",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3YzFjYjI3YWFiMzgxMzYwNWZmNTVjMjI4MmRhNTEyMDZhZjFhMjNl",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-18T01:38:24Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-18T01:51:02Z"
+            },
+            "message": "Update CHANGES and bump version",
+            "tree": {
+                "sha": "722a630fd9463e28e375a27bb45491818cf19957",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/722a630fd9463e28e375a27bb45491818cf19957"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7c1cb27aab3813605ff55c2282da51206af1a23e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7c1cb27aab3813605ff55c2282da51206af1a23e",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7c1cb27aab3813605ff55c2282da51206af1a23e",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7c1cb27aab3813605ff55c2282da51206af1a23e/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b5e32bdd505d3bb7a894580fb1cd97360c1191c6"
+            }
+        ]
+    },
+    {
+        "sha": "b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpiNWUzMmJkZDUwNWQzYmI3YTg5NDU4MGZiMWNkOTczNjBjMTE5MWM2",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-17T07:07:02Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-08-17T07:07:02Z"
+            },
+            "message": "Merge pull request #1962 from SoDa-GitHub/master\n\n修复ConfigForm不安全代码。链接分隔符支持空格。",
+            "tree": {
+                "sha": "a0faa8523e9279d64615e9050137810e51a56502",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/a0faa8523e9279d64615e9050137810e51a56502"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbdnQWCRBK7hj4Ov3rIwAAdHIIAKOyy1QCYE3Ty/b6d/Nh2fYT\nDbAZO9rRTM89LlH9kXadge0Oz6KqaQQOXq2+56NC16828TXTUI5Hj4C7i8TRIdk9\naPTrmzIs8qDKixdRcwbXaapXTwQNbU7mE8N7KcHc6+e2iflBjnjQa/uIRUO1xGg2\n+pcyDFtxiaDH+DSVNkNjhnoKALBBQFhf8nvfGxJklEaWbrbNyYBoFLLWXwqan9lb\nO1qsNYwJcShvODfK6aoMPuJzC/M1xH4lYlJQC4jjWAY2wPNt8vY9PS2mPTha5Bau\nME1fNOcS7ebfunA9INwtAkk17oyBBBRpZGacqVhTSNX41PeBbPH4k/q9jU3LLXU=\n=imQb\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree a0faa8523e9279d64615e9050137810e51a56502\nparent 80e4bec8c823c0ac2f46686b6e745da2cf49d0c0\nparent b73dbd6be20b91bd339bf905450bed533451f062\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1534489622 +0800\ncommitter GitHub <noreply@github.com> 1534489622 +0800\n\nMerge pull request #1962 from SoDa-GitHub/master\n\n修复ConfigForm不安全代码。链接分隔符支持空格。"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b5e32bdd505d3bb7a894580fb1cd97360c1191c6",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b5e32bdd505d3bb7a894580fb1cd97360c1191c6/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0"
+            },
+            {
+                "sha": "b73dbd6be20b91bd339bf905450bed533451f062",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b73dbd6be20b91bd339bf905450bed533451f062",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b73dbd6be20b91bd339bf905450bed533451f062"
+            }
+        ]
+    },
+    {
+        "sha": "80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo4MGU0YmVjOGM4MjNjMGFjMmY0NjY4NmI2ZTc0NWRhMmNmNDlkMGMw",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-07T13:54:24Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-07T13:54:24Z"
+            },
+            "message": "Fix fail to register hotkeys after wake up (#1954)",
+            "tree": {
+                "sha": "bd709c364845389f76472a1c2e9e8278a8048934",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/bd709c364845389f76472a1c2e9e8278a8048934"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/80e4bec8c823c0ac2f46686b6e745da2cf49d0c0/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/796cd6516b3d9fadfaf6f2e0c391503d1b46b654"
+            }
+        ]
+    },
+    {
+        "sha": "796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3OTZjZDY1MTZiM2Q5ZmFkZmFmNmYyZTBjMzkxNTAzZDFiNDZiNjU0",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-05T12:18:15Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-05T12:18:15Z"
+            },
+            "message": "Update CHANGES and bump version",
+            "tree": {
+                "sha": "1af3c355a012f437c3b8a4a19194a40ee5d218d5",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/1af3c355a012f437c3b8a4a19194a40ee5d218d5"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/796cd6516b3d9fadfaf6f2e0c391503d1b46b654",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/796cd6516b3d9fadfaf6f2e0c391503d1b46b654/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "bef37135ec0be973b9ba83610512965a38790f25",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/bef37135ec0be973b9ba83610512965a38790f25",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/bef37135ec0be973b9ba83610512965a38790f25"
+            }
+        ]
+    },
+    {
+        "sha": "2a93461498ee3957b5471ac91189dffe547a2e22",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyYTkzNDYxNDk4ZWUzOTU3YjU0NzFhYzkxMTg5ZGZmZTU0N2EyZTIy",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-02T13:22:31Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-02T13:22:31Z"
+            },
+            "message": "Update translation",
+            "tree": {
+                "sha": "403cd13354327ee24d7b2d84a8918796bd8a323c",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/403cd13354327ee24d7b2d84a8918796bd8a323c"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/2a93461498ee3957b5471ac91189dffe547a2e22",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2a93461498ee3957b5471ac91189dffe547a2e22",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2a93461498ee3957b5471ac91189dffe547a2e22",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2a93461498ee3957b5471ac91189dffe547a2e22/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6"
+            }
+        ]
+    },
+    {
+        "sha": "721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3MjFmYjNmMGVmMzVlNWE3ZmY2NDJmMDVmMDllNzlmNWFjMjVlMmY2",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-01T15:19:27Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-08-01T15:19:27Z"
+            },
+            "message": "Refine HotkeyReg logic",
+            "tree": {
+                "sha": "3a33057ac2cf0f97b42522bb10ed81c7559fd2ff",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3a33057ac2cf0f97b42522bb10ed81c7559fd2ff"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/721fb3f0ef35e5a7ff642f05f09e79f5ac25e2f6/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f24c0e98726713332f354db41100455bb1e61c49",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f24c0e98726713332f354db41100455bb1e61c49",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f24c0e98726713332f354db41100455bb1e61c49"
+            }
+        ]
+    },
+    {
+        "sha": "8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo4Y2U0YjNiODk2N2JlMWRmMDQwOWE1OTkyYmI5NzQ2Y2JiYjE1NWMy",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-18T06:10:21Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-18T06:10:21Z"
+            },
+            "message": "Create pull request template\n\n* Referenced from project `rg3/youtube-dl` with necessary modifications",
+            "tree": {
+                "sha": "e91b47d3a427770510383a1a44e267c7c83d2792",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/e91b47d3a427770510383a1a44e267c7c83d2792"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8ce4b3b8967be1df0409a5992bb9746cbbb155c2/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "9dbb0be39402f52ead356c8643772797ad856b9e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9dbb0be39402f52ead356c8643772797ad856b9e",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/9dbb0be39402f52ead356c8643772797ad856b9e"
+            }
+        ]
+    },
+    {
+        "sha": "9dbb0be39402f52ead356c8643772797ad856b9e",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo5ZGJiMGJlMzk0MDJmNTJlYWQzNTZjODY0Mzc3Mjc5N2FkODU2Yjll",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-18T05:54:54Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-18T05:57:57Z"
+            },
+            "message": "Update issue template",
+            "tree": {
+                "sha": "13aef0b2b6bcf24d04c4dc6c74f92f19869df0df",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/13aef0b2b6bcf24d04c4dc6c74f92f19869df0df"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/9dbb0be39402f52ead356c8643772797ad856b9e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9dbb0be39402f52ead356c8643772797ad856b9e",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/9dbb0be39402f52ead356c8643772797ad856b9e",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9dbb0be39402f52ead356c8643772797ad856b9e/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6"
+            }
+        ]
+    },
+    {
+        "sha": "ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTplZDRmOGY1Yjc4ZGMxNGUxMDI5ZDQwNzU5Y2E0ZWQ0YTdmNDg3N2M2",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-11T13:55:46Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-11T13:55:46Z"
+            },
+            "message": "Minor updates on Hotkeys form\n\n- Naming\n- Cleanup\n- Move logic to controller",
+            "tree": {
+                "sha": "33ed3d34ed4bcdd924e744c58eb46a481ba17c71",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/33ed3d34ed4bcdd924e744c58eb46a481ba17c71"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ed4f8f5b78dc14e1029d40759ca4ed4a7f4877c6/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "05b41389f13509691feba06ee461d7144be12249",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/05b41389f13509691feba06ee461d7144be12249",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/05b41389f13509691feba06ee461d7144be12249"
+            }
+        ]
+    },
+    {
+        "sha": "05b41389f13509691feba06ee461d7144be12249",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTowNWI0MTM4OWYxMzUwOTY5MWZlYmEwNmVlNDYxZDcxNDRiZTEyMjQ5",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-09T02:15:31Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-09T02:15:31Z"
+            },
+            "message": "Get rid of the UI coupled reflection on Hotkey config form",
+            "tree": {
+                "sha": "f50a4caca89b7d8f2f323a2f3312cd84e5fd5fb1",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/f50a4caca89b7d8f2f323a2f3312cd84e5fd5fb1"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/05b41389f13509691feba06ee461d7144be12249",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/05b41389f13509691feba06ee461d7144be12249",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/05b41389f13509691feba06ee461d7144be12249",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/05b41389f13509691feba06ee461d7144be12249/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "66cdd13144d4285ab2da126b37a50ceb1213a801",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/66cdd13144d4285ab2da126b37a50ceb1213a801",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/66cdd13144d4285ab2da126b37a50ceb1213a801"
+            }
+        ]
+    },
+    {
+        "sha": "66cdd13144d4285ab2da126b37a50ceb1213a801",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo2NmNkZDEzMTQ0ZDQyODVhYjJkYTEyNmIzN2E1MGNlYjEyMTNhODAx",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-07T00:33:57Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-07T00:33:57Z"
+            },
+            "message": "Minor updates on Hotkeys form",
+            "tree": {
+                "sha": "9b79b731f3ea042b4c961af50863eec3620aeea4",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/9b79b731f3ea042b4c961af50863eec3620aeea4"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/66cdd13144d4285ab2da126b37a50ceb1213a801",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/66cdd13144d4285ab2da126b37a50ceb1213a801",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/66cdd13144d4285ab2da126b37a50ceb1213a801",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/66cdd13144d4285ab2da126b37a50ceb1213a801/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a"
+            }
+        ]
+    },
+    {
+        "sha": "c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpjNzdkNjlmOTMxNDRhY2JmMTRkNzkyY2I2YmM3NmFjNmM4YTlmYTZh",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-06T14:05:30Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-06T14:05:30Z"
+            },
+            "message": "Minor updates on ConfigForm",
+            "tree": {
+                "sha": "dc718ed6ed40e1fb9020488145c5b19676b38909",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/dc718ed6ed40e1fb9020488145c5b19676b38909"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c77d69f93144acbf14d792cb6bc76ac6c8a9fa6a/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "db1bbd803977059d6b86808a6b32c55666c52103",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db1bbd803977059d6b86808a6b32c55666c52103",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/db1bbd803977059d6b86808a6b32c55666c52103"
+            }
+        ]
+    },
+    {
+        "sha": "db1bbd803977059d6b86808a6b32c55666c52103",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpkYjFiYmQ4MDM5NzcwNTlkNmI4NjgwOGE2YjMyYzU1NjY2YzUyMTAz",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-05T14:44:03Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-06-05T14:44:03Z"
+            },
+            "message": "Minor updates on Hotkeys form",
+            "tree": {
+                "sha": "2a8c1b01f7bb12023f888d33427842c3833407b2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/2a8c1b01f7bb12023f888d33427842c3833407b2"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/db1bbd803977059d6b86808a6b32c55666c52103",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db1bbd803977059d6b86808a6b32c55666c52103",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/db1bbd803977059d6b86808a6b32c55666c52103",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db1bbd803977059d6b86808a6b32c55666c52103/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "409f58bf1b504d7e5e987ab62346ea8a0690a408",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/409f58bf1b504d7e5e987ab62346ea8a0690a408",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/409f58bf1b504d7e5e987ab62346ea8a0690a408"
+            }
+        ]
+    },
+    {
+        "sha": "409f58bf1b504d7e5e987ab62346ea8a0690a408",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo0MDlmNThiZjFiNTA0ZDdlNWU5ODdhYjYyMzQ2ZWE4YTA2OTBhNDA4",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-31T16:02:19Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-31T16:02:19Z"
+            },
+            "message": "Minor updates on ConfigForm",
+            "tree": {
+                "sha": "8355bad481f15298bb4169e09fdb95b304667ae1",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/8355bad481f15298bb4169e09fdb95b304667ae1"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/409f58bf1b504d7e5e987ab62346ea8a0690a408",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/409f58bf1b504d7e5e987ab62346ea8a0690a408",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/409f58bf1b504d7e5e987ab62346ea8a0690a408",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/409f58bf1b504d7e5e987ab62346ea8a0690a408/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "79f33bc326f92921133b433a1fcd597fe64e7f75",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/79f33bc326f92921133b433a1fcd597fe64e7f75",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/79f33bc326f92921133b433a1fcd597fe64e7f75"
+            }
+        ]
+    },
+    {
+        "sha": "79f33bc326f92921133b433a1fcd597fe64e7f75",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3OWYzM2JjMzI2ZjkyOTIxMTMzYjQzM2ExZmNkNTk3ZmU2NGU3Zjc1",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-31T14:23:32Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-31T14:23:32Z"
+            },
+            "message": "Simplify the temp folder mechanism: portable mode is back\n\n- Portable mode ON: executable file's folder\n- Portable mode OFF: current user's temp folder",
+            "tree": {
+                "sha": "17efdd39a4185eae6eedf7d11989a8d5d5b89aa0",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/17efdd39a4185eae6eedf7d11989a8d5d5b89aa0"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/79f33bc326f92921133b433a1fcd597fe64e7f75",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/79f33bc326f92921133b433a1fcd597fe64e7f75",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/79f33bc326f92921133b433a1fcd597fe64e7f75",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/79f33bc326f92921133b433a1fcd597fe64e7f75/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "348e6011969325241b0d273a3afe698fbad9fd9a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/348e6011969325241b0d273a3afe698fbad9fd9a",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/348e6011969325241b0d273a3afe698fbad9fd9a"
+            }
+        ]
+    },
+    {
+        "sha": "348e6011969325241b0d273a3afe698fbad9fd9a",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTozNDhlNjAxMTk2OTMyNTI0MWIwZDI3M2EzYWZlNjk4ZmJhZDlmZDlh",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-15T03:06:43Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-15T03:06:43Z"
+            },
+            "message": "Add version in log file",
+            "tree": {
+                "sha": "90f3a3f23624485ec79ed52051e4c320d4a56be5",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/90f3a3f23624485ec79ed52051e4c320d4a56be5"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/348e6011969325241b0d273a3afe698fbad9fd9a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/348e6011969325241b0d273a3afe698fbad9fd9a",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/348e6011969325241b0d273a3afe698fbad9fd9a",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/348e6011969325241b0d273a3afe698fbad9fd9a/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "70ec5df5b0f8926ca509dfb1ddce048a3a9ab169",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/70ec5df5b0f8926ca509dfb1ddce048a3a9ab169",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/70ec5df5b0f8926ca509dfb1ddce048a3a9ab169"
+            }
+        ]
+    },
+    {
+        "sha": "153727b3b7b6f3df95ab24a42be8fd591a986494",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxNTM3MjdiM2I3YjZmM2RmOTVhYjI0YTQyYmU4ZmQ1OTFhOTg2NDk0",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-10T15:53:40Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-10T15:53:40Z"
+            },
+            "message": "Fix typo",
+            "tree": {
+                "sha": "fb35275747efa1f6be81b238f28ffa8e951cad48",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/fb35275747efa1f6be81b238f28ffa8e951cad48"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/153727b3b7b6f3df95ab24a42be8fd591a986494",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/153727b3b7b6f3df95ab24a42be8fd591a986494",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/153727b3b7b6f3df95ab24a42be8fd591a986494",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/153727b3b7b6f3df95ab24a42be8fd591a986494/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4"
+            }
+        ]
+    },
+    {
+        "sha": "1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxYTU2ZWEyM2VjN2FmYjNhOWE4NzJhODBiZWE0NDcyZmZhMzY0NmQ0",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-10T15:29:06Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-05-10T15:29:06Z"
+            },
+            "message": "Update CHANGES and bump version",
+            "tree": {
+                "sha": "78b247cdf7da91f497c3843867ec307e7263283f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/78b247cdf7da91f497c3843867ec307e7263283f"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1a56ea23ec7afb3a9a872a80bea4472ffa3646d4/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1c2e135d8e85258628b45a036ddad7c0b586b8f7"
+            }
+        ]
+    },
+    {
+        "sha": "1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxYzJlMTM1ZDhlODUyNTg2MjhiNDVhMDM2ZGRhZDdjMGI1ODZiOGY3",
+        "commit": {
+            "author": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-04-26T12:01:14Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-04-26T12:01:14Z"
+            },
+            "message": "Merge pull request #1818 from celeron533/CLI\n\nAdd plugin CLI arguments support",
+            "tree": {
+                "sha": "cc10a26c34bea6cdae8a29a191f12d422995e20d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/cc10a26c34bea6cdae8a29a191f12d422995e20d"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa4b+KCRBK7hj4Ov3rIwAAdHIIACZclo6vrk47n97PZvHLLTkP\npGqAP4vJS7mFQgejKomJqz1IsOdnCxQCq1BqNnDlZgSAUmE79kcKCz/QoF4cfA2t\nB9rKQqqJAeu5f4GDvtRFzUi7jVD2ilgiwRSH9t+fmbVTQakmQQItFVUD66FLlew/\nMMXuHgLr7B4fExtw/82AG9lotPw9Wpun+Ean+7tQSGvi/oSfQl2EmaLl9HV6vhdG\nh9Ln8p6as0zwY8vKyNtV7//nJ3RkJ/Cmy0H+8D/eASn4xy/UFJDN3QofROZviHYf\nv5QimiGq2MyU3FJk7LbkyZgiAVCBZ/QUDefEXtlYUadMPT0nuFw3SQyOjzqDsdU=\n=jXVl\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree cc10a26c34bea6cdae8a29a191f12d422995e20d\nparent 22275959982f83b07995dec7183911921fd81b4d\nparent 9439fc617a48ee23edee0cba8711bf02c92d4306\nauthor Allen Zhu <zhuyilun8@hotmail.com> 1524744074 +0800\ncommitter GitHub <noreply@github.com> 1524744074 +0800\n\nMerge pull request #1818 from celeron533/CLI\n\nAdd plugin CLI arguments support"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1c2e135d8e85258628b45a036ddad7c0b586b8f7",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1c2e135d8e85258628b45a036ddad7c0b586b8f7/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "22275959982f83b07995dec7183911921fd81b4d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/22275959982f83b07995dec7183911921fd81b4d",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/22275959982f83b07995dec7183911921fd81b4d"
+            },
+            {
+                "sha": "9439fc617a48ee23edee0cba8711bf02c92d4306",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9439fc617a48ee23edee0cba8711bf02c92d4306",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/9439fc617a48ee23edee0cba8711bf02c92d4306"
+            }
+        ]
+    },
+    {
+        "sha": "9439fc617a48ee23edee0cba8711bf02c92d4306",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo5NDM5ZmM2MTdhNDhlZTIzZWRlZTBjYmE4NzExYmYwMmM5MmQ0MzA2",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-04-17T13:24:19Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-04-17T13:24:19Z"
+            },
+            "message": "Config form UI updates\n\n* Add tooltips\n* Translations",
+            "tree": {
+                "sha": "cc10a26c34bea6cdae8a29a191f12d422995e20d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/cc10a26c34bea6cdae8a29a191f12d422995e20d"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/9439fc617a48ee23edee0cba8711bf02c92d4306",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9439fc617a48ee23edee0cba8711bf02c92d4306",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/9439fc617a48ee23edee0cba8711bf02c92d4306",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/9439fc617a48ee23edee0cba8711bf02c92d4306/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b7e30318cdfed37c457874ff4378653c6ef51182",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b7e30318cdfed37c457874ff4378653c6ef51182",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b7e30318cdfed37c457874ff4378653c6ef51182"
+            }
+        ]
+    },
+    {
+        "sha": "b7e30318cdfed37c457874ff4378653c6ef51182",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpiN2UzMDMxOGNkZmVkMzdjNDU3ODc0ZmY0Mzc4NjUzYzZlZjUxMTgy",
+        "commit": {
+            "author": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-04-17T12:41:57Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-04-17T12:41:57Z"
+            },
+            "message": "Add plugin CLI arguments support",
+            "tree": {
+                "sha": "072c43682a4f0f08b7dc68eff71a267780475169",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/072c43682a4f0f08b7dc68eff71a267780475169"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/b7e30318cdfed37c457874ff4378653c6ef51182",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b7e30318cdfed37c457874ff4378653c6ef51182",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b7e30318cdfed37c457874ff4378653c6ef51182",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b7e30318cdfed37c457874ff4378653c6ef51182/comments",
+        "author": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "22275959982f83b07995dec7183911921fd81b4d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/22275959982f83b07995dec7183911921fd81b4d",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/22275959982f83b07995dec7183911921fd81b4d"
+            }
+        ]
+    }
+]
+
+
+ Linhas adicionadas: 18
+ Linhas de comentário: 0

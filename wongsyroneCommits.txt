@@ -1,0 +1,793 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=wongsyrone 
+ 
+ 
+ {
+        "sha": "3329291ab9c2169133a6ffcdb4676bc021f32a81",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTozMzI5MjkxYWI5YzIxNjkxMzNhNmZmY2RiNDY3NmJjMDIxZjMyYTgx",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2018-02-24T12:06:31Z"
+            },
+            "committer": {
+                "name": "celeron533",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-03-03T14:22:01Z"
+            },
+            "message": "add xchacha20-ietf-poly1305\n\n- update mbedtls to 2.7.0, use new md5 api\n- update libsodium to 1.0.16\n- static link to openssl 1.1.0g, check libsscrypto repo for detail",
+            "tree": {
+                "sha": "b8a5ade563dfb7a88a04c4e26c06077524d20cb7",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/b8a5ade563dfb7a88a04c4e26c06077524d20cb7"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/3329291ab9c2169133a6ffcdb4676bc021f32a81",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3329291ab9c2169133a6ffcdb4676bc021f32a81",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/3329291ab9c2169133a6ffcdb4676bc021f32a81",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3329291ab9c2169133a6ffcdb4676bc021f32a81/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1e04279d374d77477c742b89641468d66f5b6f28",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1e04279d374d77477c742b89641468d66f5b6f28",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1e04279d374d77477c742b89641468d66f5b6f28"
+            }
+        ]
+    },
+    {
+        "sha": "b2645f9f0ab24ae383561d7a69a251d459a69d04",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpiMjY0NWY5ZjBhYjI0YWUzODM1NjFkN2E2OWEyNTFkNDU5YTY5ZDA0",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2018-02-15T13:29:40Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2018-02-15T13:29:40Z"
+            },
+            "message": "Fix bf-cfb name\n\nDon't use Cname",
+            "tree": {
+                "sha": "b513e55ba21b863be17e13aaf86b99a27c3a689f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/b513e55ba21b863be17e13aaf86b99a27c3a689f"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/b2645f9f0ab24ae383561d7a69a251d459a69d04",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b2645f9f0ab24ae383561d7a69a251d459a69d04",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b2645f9f0ab24ae383561d7a69a251d459a69d04",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b2645f9f0ab24ae383561d7a69a251d459a69d04/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/4d4f1753c7a98a1de977fbd5898566e4cba2a02c"
+            }
+        ]
+    },
+    {
+        "sha": "4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo0ZDRmMTc1M2M3YTk4YTFkZTk3N2ZiZDU4OTg1NjZlNGNiYTJhMDJj",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2018-02-09T23:54:30Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2018-02-10T00:27:32Z"
+            },
+            "message": "Add OpenSSL 1.1.0g support due to hardware acceleration\n\nNote: If you want to compile it by yourself, please make sure\ndo NOT use `no-asm` configure option, since the main point of\nthis commit is to utilize assembly in openssl\n\nAdd OpenSSL test",
+            "tree": {
+                "sha": "5454d35f577a0c3aace324fb24df377414ba61d6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/5454d35f577a0c3aace324fb24df377414ba61d6"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/4d4f1753c7a98a1de977fbd5898566e4cba2a02c",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/4d4f1753c7a98a1de977fbd5898566e4cba2a02c/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d1219bbfca3523684ae191e89e4e6a95e4950dcb",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d1219bbfca3523684ae191e89e4e6a95e4950dcb",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d1219bbfca3523684ae191e89e4e6a95e4950dcb"
+            }
+        ]
+    },
+    {
+        "sha": "bbfc5d332d053d4fa04265de544743181baf2b93",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpiYmZjNWQzMzJkMDUzZDRmYTA0MjY1ZGU1NDQ3NDMxODFiYWYyYjkz",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-06-01T07:55:55Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-06-01T07:55:55Z"
+            },
+            "message": "Update CHANGES and bump version\n\nSigned-off-by: Syrone Wong <wong.syrone@gmail.com>",
+            "tree": {
+                "sha": "3f736a29249f6a99be41a171b02eff9a2de1f4f7",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3f736a29249f6a99be41a171b02eff9a2de1f4f7"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/bbfc5d332d053d4fa04265de544743181baf2b93",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/bbfc5d332d053d4fa04265de544743181baf2b93",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/bbfc5d332d053d4fa04265de544743181baf2b93",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/bbfc5d332d053d4fa04265de544743181baf2b93/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5d75e19c269bee61c47324c33a85b00bf2528579",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5d75e19c269bee61c47324c33a85b00bf2528579",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5d75e19c269bee61c47324c33a85b00bf2528579"
+            }
+        ]
+    },
+    {
+        "sha": "5d75e19c269bee61c47324c33a85b00bf2528579",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1ZDc1ZTE5YzI2OWJlZTYxYzQ3MzI0YzMzYTg1YjAwYmYyNTI4NTc5",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-31T02:04:00Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-31T02:04:00Z"
+            },
+            "message": "prefer to use aes-256-gcm in libsodium\n\nwhich is hardware accelerated compared to AES-GCM in mbedtls\n\nWe have to drop this commit when mbedtls support hw-accelerated GCM\nwhen compiling with MSVC\n\nSigned-off-by: Syrone Wong <wong.syrone@gmail.com>",
+            "tree": {
+                "sha": "a011e180291de10202c03458ec1dd33fa98b9107",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/a011e180291de10202c03458ec1dd33fa98b9107"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/5d75e19c269bee61c47324c33a85b00bf2528579",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5d75e19c269bee61c47324c33a85b00bf2528579",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5d75e19c269bee61c47324c33a85b00bf2528579",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5d75e19c269bee61c47324c33a85b00bf2528579/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "816651ebdcaa8571b117864d6fb78cd0a6217362",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/816651ebdcaa8571b117864d6fb78cd0a6217362",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/816651ebdcaa8571b117864d6fb78cd0a6217362"
+            }
+        ]
+    },
+    {
+        "sha": "816651ebdcaa8571b117864d6fb78cd0a6217362",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo4MTY2NTFlYmRjYWE4NTcxYjExNzg2NGQ2ZmI3OGNkMGE2MjE3MzYy",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-25T09:18:20Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-25T09:18:20Z"
+            },
+            "message": "Save user wininet settings as another config file",
+            "tree": {
+                "sha": "f6124ef3f081ad612ea827145cfae18c5daa9c76",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/f6124ef3f081ad612ea827145cfae18c5daa9c76"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/816651ebdcaa8571b117864d6fb78cd0a6217362",
+            "comment_count": 1,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/816651ebdcaa8571b117864d6fb78cd0a6217362",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/816651ebdcaa8571b117864d6fb78cd0a6217362",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/816651ebdcaa8571b117864d6fb78cd0a6217362/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e"
+            }
+        ]
+    },
+    {
+        "sha": "44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo0NGFmZWZlZDcxZjNhNDQwN2QxZWIxYmE5M2YzZmY2ZWM3ZTlmYjll",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-19T08:47:31Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-19T08:47:31Z"
+            },
+            "message": "Update CHANGES and bump version\n\nSigned-off-by: Syrone Wong <wong.syrone@gmail.com>",
+            "tree": {
+                "sha": "07537df6f88706d372c64e10559c83209a6972a9",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/07537df6f88706d372c64e10559c83209a6972a9"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/44afefed71f3a4407d1eb1ba93f3ff6ec7e9fb9e/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b"
+            }
+        ]
+    },
+    {
+        "sha": "2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyZWVlYmMyOWQ3ZWM5MGZjYWU4N2NiN2Y2YzgxOGIwYjFjYzc3ZjFi",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-19T07:56:13Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-19T07:56:13Z"
+            },
+            "message": "Replace circular buffer with the blockcopy variant\n\nto get rid of deep copy\n\n- update NuGet pkg\n\nSigned-off-by: Syrone Wong <wong.syrone@gmail.com>",
+            "tree": {
+                "sha": "3858bf370aa667995589a5100067ea42112aeb3b",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3858bf370aa667995589a5100067ea42112aeb3b"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2eeebc29d7ec90fcae87cb7f6c818b0b1cc77f1b/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "0e01f8303c9c5143d7fef32151ca4df4521c03b3",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/0e01f8303c9c5143d7fef32151ca4df4521c03b3",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/0e01f8303c9c5143d7fef32151ca4df4521c03b3"
+            }
+        ]
+    },
+    {
+        "sha": "2fcf843bba2d415e90042497f8b101ee3f57cb05",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyZmNmODQzYmJhMmQ0MTVlOTAwNDI0OTdmOGIxMDFlZTNmNTdjYjA1",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-15T08:14:37Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-05-15T08:14:37Z"
+            },
+            "message": "libsodium: enable AVX2 for x86\n\nSigned-off-by: Syrone Wong <wong.syrone@gmail.com>",
+            "tree": {
+                "sha": "d582d3ee6bb7b038545e2c20c60247ec537cfcd8",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/d582d3ee6bb7b038545e2c20c60247ec537cfcd8"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/2fcf843bba2d415e90042497f8b101ee3f57cb05",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2fcf843bba2d415e90042497f8b101ee3f57cb05",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2fcf843bba2d415e90042497f8b101ee3f57cb05",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2fcf843bba2d415e90042497f8b101ee3f57cb05/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60"
+            }
+        ]
+    },
+    {
+        "sha": "3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTozYjNhOGM5MDc3Y2RiOTczMzVkN2IzNDBhYzBhN2NmZTI3OTMyYzYw",
+        "commit": {
+            "author": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-04-21T04:33:24Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-04-21T04:39:53Z"
+            },
+            "message": "fix legacy key derivation",
+            "tree": {
+                "sha": "662890c63ef8ea310f2e6e8df5a81601663036f6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/662890c63ef8ea310f2e6e8df5a81601663036f6"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/3b3a8c9077cdb97335d7b340ac0a7cfe27932c60/comments",
+        "author": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "60a55728088da5f22987c759065488ad42fa69ad",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/60a55728088da5f22987c759065488ad42fa69ad",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/60a55728088da5f22987c759065488ad42fa69ad"
+            }
+        ]
+    },

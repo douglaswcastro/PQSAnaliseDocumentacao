@@ -1,0 +1,792 @@
+    http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=Noisyfox
+
+{
+        "sha": "2e7518d8023a61298be19a885b20bfaf148fb8a8",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyZTc1MThkODAyM2E2MTI5OGJlMTlhODg1YjIwYmZhZjE0OGZiOGE4",
+        "commit": {
+            "author": {
+                "name": "Noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2017-01-03T23:59:41Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-01-03T23:59:41Z"
+            },
+            "message": "Send first chunk with Socks5 header (#984)\n\n* Send socks5 handshake respond before read the target address\r\nSo that the next package will (hopefully) contain the first data chunk which means we could get a 'random' first package size.\r\n\r\n* Try read available data before send first packet\r\n\r\n* Add random size first packet\r\nBut commented out ^u^\r\n\r\n* Oops forget to delete some test code",
+            "tree": {
+                "sha": "f6acf5bdaee7f9abb0b02cd85792baee22967879",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/f6acf5bdaee7f9abb0b02cd85792baee22967879"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/2e7518d8023a61298be19a885b20bfaf148fb8a8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2e7518d8023a61298be19a885b20bfaf148fb8a8",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2e7518d8023a61298be19a885b20bfaf148fb8a8",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2e7518d8023a61298be19a885b20bfaf148fb8a8/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/18e956f34c63ca4a4b6a422abdadfdaccaf83b61"
+            }
+        ]
+    },
+    {
+        "sha": "03c087db6d2a80234d1d5c0fadcc2b46b1d48925",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTowM2MwODdkYjZkMmE4MDIzNGQxZDVjMGZhZGNjMmI0NmIxZDQ4OTI1",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:37:10Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:39:47Z"
+            },
+            "message": "Update CHANGES and bump version",
+            "tree": {
+                "sha": "0ed1ffbb7f8f0fde45030c7aa824816baf251193",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/0ed1ffbb7f8f0fde45030c7aa824816baf251193"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/03c087db6d2a80234d1d5c0fadcc2b46b1d48925",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/03c087db6d2a80234d1d5c0fadcc2b46b1d48925",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/03c087db6d2a80234d1d5c0fadcc2b46b1d48925",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/03c087db6d2a80234d1d5c0fadcc2b46b1d48925/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5741133d5c2da917d178fc3df5fec44385b38a0f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5741133d5c2da917d178fc3df5fec44385b38a0f",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5741133d5c2da917d178fc3df5fec44385b38a0f"
+            }
+        ]
+    },
+    {
+        "sha": "5741133d5c2da917d178fc3df5fec44385b38a0f",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1NzQxMTMzZDVjMmRhOTE3ZDE3OGZjM2RmNWZlYzQ0Mzg1YjM4YTBm",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:25:14Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:25:14Z"
+            },
+            "message": "Fix compile error.\nAnd farewell.",
+            "tree": {
+                "sha": "f977fc21c9cd8b9607db2a0399083878e24e8cf2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/f977fc21c9cd8b9607db2a0399083878e24e8cf2"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/5741133d5c2da917d178fc3df5fec44385b38a0f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5741133d5c2da917d178fc3df5fec44385b38a0f",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5741133d5c2da917d178fc3df5fec44385b38a0f",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5741133d5c2da917d178fc3df5fec44385b38a0f/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/28954600a29b2f2e43d8c855a9e0a3cdb0506af8"
+            }
+        ]
+    },
+    {
+        "sha": "28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyODk1NDYwMGEyOWIyZjJlNDNkOGM4NTVhOWUwYTNjZGIwNTA2YWY4",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:52Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:52Z"
+            },
+            "message": "Revert \"Rename Shadowsocks.Proxy -> Shadowsocks.ForwardProxy\"\n\nThis reverts commit be3cc3f3a67d63560c8e165d4e1fd55cb8e9734d.",
+            "tree": {
+                "sha": "5059125acb4ff331eb850028f6600b58e5755f71",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/5059125acb4ff331eb850028f6600b58e5755f71"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/28954600a29b2f2e43d8c855a9e0a3cdb0506af8",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/28954600a29b2f2e43d8c855a9e0a3cdb0506af8/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a"
+            }
+        ]
+    },
+    {
+        "sha": "6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo2ZGRkM2Q0ODZiZGYyZWRhMWFkYTQ5MmIyNDc3MWM1ZTgwMDdjZjlh",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:42Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:42Z"
+            },
+            "message": "Revert \"Allow LineReader to start with a first package\"\n\nThis reverts commit a61b10bb676a7bfc9064695d12a4da24518058cf.",
+            "tree": {
+                "sha": "3f9f41ee91db3ae39d0d902c78b4365c5290549e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/3f9f41ee91db3ae39d0d902c78b4365c5290549e"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/6ddd3d486bdf2eda1ada492b24771c5e8007cf9a/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "dd269ac89de13b2cd403c3a749841568137073b7",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/dd269ac89de13b2cd403c3a749841568137073b7",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/dd269ac89de13b2cd403c3a749841568137073b7"
+            }
+        ]
+    },
+    {
+        "sha": "dd269ac89de13b2cd403c3a749841568137073b7",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpkZDI2OWFjODlkZTEzYjJjZDQwM2MzYTc0OTg0MTU2ODEzNzA3M2I3",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:33Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:33Z"
+            },
+            "message": "Revert \"Remove privoxy\"\n\nThis reverts commit 0d4d01af3bd41e766c649b3c5122b7e39a6b13b5.",
+            "tree": {
+                "sha": "e0e5b739ec4fe096fb1b9fdcbe4d98fbd8031657",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/e0e5b739ec4fe096fb1b9fdcbe4d98fbd8031657"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/dd269ac89de13b2cd403c3a749841568137073b7",
+            "comment_count": 1,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/dd269ac89de13b2cd403c3a749841568137073b7",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/dd269ac89de13b2cd403c3a749841568137073b7",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/dd269ac89de13b2cd403c3a749841568137073b7/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51"
+            }
+        ]
+    },
+    {
+        "sha": "09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTowOWQ4OWI0MjRkM2EzMmExZTUwZjQ5YTQxYTNjZGQ4ZTQ1ZjI0ZTUx",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:26Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:26Z"
+            },
+            "message": "Revert \"First working built-in http proxy\"\n\nThis reverts commit 5ba0dffa5d4eaa180dd8d7015d7f76cd0c4be463.",
+            "tree": {
+                "sha": "9a908122b689267df1c9b917f591ac77eb931e53",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/9a908122b689267df1c9b917f591ac77eb931e53"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/09d89b424d3a32a1e50f49a41a3cdd8e45f24e51/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5e973adb77ec48b73c9a808fc922c442d4f0cb1c"
+            }
+        ]
+    },
+    {
+        "sha": "5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1ZTk3M2FkYjc3ZWM0OGI3M2M5YTgwOGZjOTIyYzQ0MmQ0ZjBjYjFj",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:18Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:18Z"
+            },
+            "message": "Revert \"Refine header parse\"\n\nThis reverts commit f9e39fdd1d2cb85f3d170edfcb1ab0a1c77e2aae.",
+            "tree": {
+                "sha": "62db6765711b74f181cdaf09034c9d88047937a2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/62db6765711b74f181cdaf09034c9d88047937a2"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5e973adb77ec48b73c9a808fc922c442d4f0cb1c",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5e973adb77ec48b73c9a808fc922c442d4f0cb1c/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f149851e3bf13859cf50319ec8990935f2e0076a",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f149851e3bf13859cf50319ec8990935f2e0076a",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f149851e3bf13859cf50319ec8990935f2e0076a"
+            }
+        ]
+    },
+    {
+        "sha": "f149851e3bf13859cf50319ec8990935f2e0076a",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpmMTQ5ODUxZTNiZjEzODU5Y2Y1MDMxOWVjODk5MDkzNWYyZTAwNzZh",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:09Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:19:09Z"
+            },
+            "message": "Revert \"Better host parse\"\n\nThis reverts commit d1e8f387673cafc4f54d925b4d8f6d36b651a667.",
+            "tree": {
+                "sha": "87540fc148624a68114efbf5e86732ca779d8106",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/87540fc148624a68114efbf5e86732ca779d8106"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/f149851e3bf13859cf50319ec8990935f2e0076a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f149851e3bf13859cf50319ec8990935f2e0076a",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f149851e3bf13859cf50319ec8990935f2e0076a",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f149851e3bf13859cf50319ec8990935f2e0076a/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "511a658fd35f0ee45aec25a96d232085b2a56ad1",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/511a658fd35f0ee45aec25a96d232085b2a56ad1",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/511a658fd35f0ee45aec25a96d232085b2a56ad1"
+            }
+        ]
+    },
+    {
+        "sha": "511a658fd35f0ee45aec25a96d232085b2a56ad1",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1MTFhNjU4ZmQzNWYwZWU0NWFlYzI1YTk2ZDIzMjA4NWIyYTU2YWQx",
+        "commit": {
+            "author": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:18:59Z"
+            },
+            "committer": {
+                "name": "noisyfox",
+                "email": "timemanager.rick@gmail.com",
+                "date": "2016-12-16T01:18:59Z"
+            },
+            "message": "Revert \"Reuse buffer from first pakcage\"\n\nThis reverts commit f2b8e91f81fd7975f19826cac2a9a94e59833d69.",
+            "tree": {
+                "sha": "8ccd98348249d8fce55c614f86771c5047542c4c",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/8ccd98348249d8fce55c614f86771c5047542c4c"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/511a658fd35f0ee45aec25a96d232085b2a56ad1",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/511a658fd35f0ee45aec25a96d232085b2a56ad1",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/511a658fd35f0ee45aec25a96d232085b2a56ad1",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/511a658fd35f0ee45aec25a96d232085b2a56ad1/comments",
+        "author": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Noisyfox",
+            "id": 1537155,
+            "node_id": "MDQ6VXNlcjE1MzcxNTU=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/1537155?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Noisyfox",
+            "html_url": "https://github.com/Noisyfox",
+            "followers_url": "https://api.github.com/users/Noisyfox/followers",
+            "following_url": "https://api.github.com/users/Noisyfox/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Noisyfox/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Noisyfox/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Noisyfox/subscriptions",
+            "organizations_url": "https://api.github.com/users/Noisyfox/orgs",
+            "repos_url": "https://api.github.com/users/Noisyfox/repos",
+            "events_url": "https://api.github.com/users/Noisyfox/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Noisyfox/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "efe6d5ba814ec4b7f9baff25a64217f023a756b3",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/efe6d5ba814ec4b7f9baff25a64217f023a756b3",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/efe6d5ba814ec4b7f9baff25a64217f023a756b3"
+            }
+        ]
+    },
