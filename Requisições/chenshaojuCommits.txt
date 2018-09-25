@@ -1,0 +1,555 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=chenshaoju
+
+{
+        "sha": "21ecdc6425d33c8d749d6d5bca78a132215887f4",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyMWVjZGM2NDI1ZDMzYzhkNzQ5ZDZkNWJjYTc4YTEzMjIxNTg4N2Y0",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2018-07-12T13:54:14Z"
+            },
+            "committer": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-07-12T13:54:14Z"
+            },
+            "message": "Optimal description (#1924)\n\n* Update LogForm.cs\r\n* Update ja.txt\r\n* Update zh_CN.txt\r\n* Update zh_TW.txt\r\n* Update the control name",
+            "tree": {
+                "sha": "aea2bb8111494916f41be975de13cc51ab40d7ef",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/aea2bb8111494916f41be975de13cc51ab40d7ef"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/21ecdc6425d33c8d749d6d5bca78a132215887f4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/21ecdc6425d33c8d749d6d5bca78a132215887f4",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/21ecdc6425d33c8d749d6d5bca78a132215887f4",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/21ecdc6425d33c8d749d6d5bca78a132215887f4/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/8ce4b3b8967be1df0409a5992bb9746cbbb155c2",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/8ce4b3b8967be1df0409a5992bb9746cbbb155c2"
+            }
+        ]
+    },
+    {
+        "sha": "5138e43aff76d9d2f491c8db4137728e748c34cf",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo1MTM4ZTQzYWZmNzZkOWQyZjQ5MWM4ZGI0MTM3NzI4ZTc0OGMzNGNm",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2018-03-17T02:15:15Z"
+            },
+            "committer": {
+                "name": "Allen Zhu",
+                "email": "zhuyilun8@hotmail.com",
+                "date": "2018-03-17T02:15:15Z"
+            },
+            "message": "\"Allow Clients from LAN\" Description & Translation optimization (#1753)\n\n\"Allow Clients from LAN\" --> \"Allow other Devices to connect\"",
+            "tree": {
+                "sha": "1b365919988d9d10bab8e55e9f395f8df5f18893",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/1b365919988d9d10bab8e55e9f395f8df5f18893"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/5138e43aff76d9d2f491c8db4137728e748c34cf",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5138e43aff76d9d2f491c8db4137728e748c34cf",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/5138e43aff76d9d2f491c8db4137728e748c34cf",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/5138e43aff76d9d2f491c8db4137728e748c34cf/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "celeron533",
+            "id": 3608762,
+            "node_id": "MDQ6VXNlcjM2MDg3NjI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/3608762?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/celeron533",
+            "html_url": "https://github.com/celeron533",
+            "followers_url": "https://api.github.com/users/celeron533/followers",
+            "following_url": "https://api.github.com/users/celeron533/following{/other_user}",
+            "gists_url": "https://api.github.com/users/celeron533/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/celeron533/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/celeron533/subscriptions",
+            "organizations_url": "https://api.github.com/users/celeron533/orgs",
+            "repos_url": "https://api.github.com/users/celeron533/repos",
+            "events_url": "https://api.github.com/users/celeron533/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/celeron533/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "25c1d0239542efbd2a4b76b748bb5efe7e70454e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/25c1d0239542efbd2a4b76b748bb5efe7e70454e",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/25c1d0239542efbd2a4b76b748bb5efe7e70454e"
+            }
+        ]
+    },
+    {
+        "sha": "d266ea2e395b86ffbbcf49c7f03fc57675981808",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpkMjY2ZWEyZTM5NWI4NmZmYmJjZjQ5YzdmMDNmYzU3Njc1OTgxODA4",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2018-02-17T03:28:01Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-02-17T03:28:01Z"
+            },
+            "message": "fix",
+            "tree": {
+                "sha": "1f9cf5c1f0cdf47c57da6a0e8e8c6085469990de",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/1f9cf5c1f0cdf47c57da6a0e8e8c6085469990de"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/d266ea2e395b86ffbbcf49c7f03fc57675981808",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJah6FBCRBK7hj4Ov3rIwAAdHIIADZDDjA4m+rO6rinDeirtF8j\n/Sl9IiHog38m56sRWa5Koxms3qMMlmK+PbUgYrizWhBm3Z+tFT7EPtuVAhN//wSX\n1n/iRPnpTP9yZcV0uSXIWONKsGIpPlwnmnYP9lOULZAN8EXySuTiOM8XdtCyJ//z\nCkuoUrLylChVFBv4LRs39q0XUwYl/il0UqQo45+ltfz6A8kGVQAz86stYoTAaTIE\njlq1ueMBapZVTvJ7NbYXKNw0x7VpCRLuyNxUK0c5JpA+YID6r1CQGtDSaPWpUBxF\naWbx2gYZ90fp8z2mJ1dNvClSsZFdjYdE2MdJdD6qDGWhXgq71k2IHvPV7KwEuMs=\n=POdy\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 1f9cf5c1f0cdf47c57da6a0e8e8c6085469990de\nparent a5b11aee34254196984fb667c6cccf13ef08e792\nauthor Chen Shaoju <oshirisu.red@gmail.com> 1518838081 +0800\ncommitter GitHub <noreply@github.com> 1518838081 +0800\n\nfix"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d266ea2e395b86ffbbcf49c7f03fc57675981808",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d266ea2e395b86ffbbcf49c7f03fc57675981808",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d266ea2e395b86ffbbcf49c7f03fc57675981808/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "a5b11aee34254196984fb667c6cccf13ef08e792",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a5b11aee34254196984fb667c6cccf13ef08e792",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a5b11aee34254196984fb667c6cccf13ef08e792"
+            }
+        ]
+    },
+    {
+        "sha": "a5b11aee34254196984fb667c6cccf13ef08e792",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTphNWIxMWFlZTM0MjU0MTk2OTg0ZmI2NjdjNmNjY2YxM2VmMDhlNzky",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2018-02-17T03:21:16Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2018-02-17T03:21:16Z"
+            },
+            "message": "Add new requirements",
+            "tree": {
+                "sha": "06a1ade25b61e777e7257d3b93aa48420a28c528",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/06a1ade25b61e777e7257d3b93aa48420a28c528"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/a5b11aee34254196984fb667c6cccf13ef08e792",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJah5+sCRBK7hj4Ov3rIwAAdHIIAJLdXgzcYyF1rrTgyeZddfCC\n4uHnU80dzn/bdrvjX4fyBFM+U32WS8ViXG0SJjIcjV11IArZetxCZ/9k9G4ugGh3\nQ51FLF2fc92bt/m6NuhQxhi4xJPxqP/AFJ2k5GCSeA45LQaHThrMeW7NFRelYscZ\nQpKYiRtUw7kwZsfumYsgIaywvYrqMnymKkIqhKsqc+JCcmyaf69v+F91nfpW9doR\nwPy3eIBlAhKBGycv0K2Y1Z+MYnPeYb6LHtt6GEbRMil1qZi5MDsKhHHNhWlPGsml\nHmKlkhi5GzoFHgL9TyfkUaxleXAiHe9W6H+6x+pGRzLKSea1tf8O2RpQ8fXAz/g=\n=18qG\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 06a1ade25b61e777e7257d3b93aa48420a28c528\nparent e2b9822224f8fb11ab5fb9c76437ba633e874380\nauthor Chen Shaoju <oshirisu.red@gmail.com> 1518837676 +0800\ncommitter GitHub <noreply@github.com> 1518837676 +0800\n\nAdd new requirements"
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a5b11aee34254196984fb667c6cccf13ef08e792",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a5b11aee34254196984fb667c6cccf13ef08e792",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a5b11aee34254196984fb667c6cccf13ef08e792/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e2b9822224f8fb11ab5fb9c76437ba633e874380",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e2b9822224f8fb11ab5fb9c76437ba633e874380",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e2b9822224f8fb11ab5fb9c76437ba633e874380"
+            }
+        ]
+    },
+    {
+        "sha": "e217143c2742fa2a3d907000b29b5f0107f9b49e",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTplMjE3MTQzYzI3NDJmYTJhM2Q5MDcwMDBiMjliNWYwMTA3ZjliNDll",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2016-06-15T09:16:15Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-06-15T09:16:15Z"
+            },
+            "message": "Update cn.txt (2)\n\nFix.",
+            "tree": {
+                "sha": "ab58492cda248f8637227dab127fa4d7fd393c2f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/ab58492cda248f8637227dab127fa4d7fd393c2f"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/e217143c2742fa2a3d907000b29b5f0107f9b49e",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e217143c2742fa2a3d907000b29b5f0107f9b49e",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/e217143c2742fa2a3d907000b29b5f0107f9b49e",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/e217143c2742fa2a3d907000b29b5f0107f9b49e/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7275eee88d66b554a219850b2199e26bd2c3781d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7275eee88d66b554a219850b2199e26bd2c3781d",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7275eee88d66b554a219850b2199e26bd2c3781d"
+            }
+        ]
+    },
+    {
+        "sha": "7275eee88d66b554a219850b2199e26bd2c3781d",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3Mjc1ZWVlODhkNjZiNTU0YTIxOTg1MGIyMTk5ZTI2YmQyYzM3ODFk",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2016-06-15T08:24:34Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2016-06-15T08:24:34Z"
+            },
+            "message": "Update cn.txt\n\nUse new string in https://github.com/shadowsocks/shadowsocks-windows/pull/592",
+            "tree": {
+                "sha": "015365f4ecaa604616f5edfa7eb403d3d51cc94b",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/015365f4ecaa604616f5edfa7eb403d3d51cc94b"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7275eee88d66b554a219850b2199e26bd2c3781d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7275eee88d66b554a219850b2199e26bd2c3781d",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7275eee88d66b554a219850b2199e26bd2c3781d",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7275eee88d66b554a219850b2199e26bd2c3781d/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f9499e79459135f128eccea4c9e77a25e8a6763f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/f9499e79459135f128eccea4c9e77a25e8a6763f",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/f9499e79459135f128eccea4c9e77a25e8a6763f"
+            }
+        ]
+    },
+    {
+        "sha": "c7c849c060428295c3a6ab6c45f01a0e2cb9c14a",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpjN2M4NDljMDYwNDI4Mjk1YzNhNmFiNmM0NWYwMWEwZTJjYjljMTRh",
+        "commit": {
+            "author": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2014-09-12T16:02:52Z"
+            },
+            "committer": {
+                "name": "Chen Shaoju",
+                "email": "oshirisu.red@gmail.com",
+                "date": "2014-09-12T16:02:52Z"
+            },
+            "message": "Update README.md\n\nFix git URL.",
+            "tree": {
+                "sha": "785ef3ea71f940acc49457033c1145b02704c183",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/785ef3ea71f940acc49457033c1145b02704c183"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/c7c849c060428295c3a6ab6c45f01a0e2cb9c14a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c7c849c060428295c3a6ab6c45f01a0e2cb9c14a",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/c7c849c060428295c3a6ab6c45f01a0e2cb9c14a",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c7c849c060428295c3a6ab6c45f01a0e2cb9c14a/comments",
+        "author": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "chenshaoju",
+            "id": 515763,
+            "node_id": "MDQ6VXNlcjUxNTc2Mw==",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/515763?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/chenshaoju",
+            "html_url": "https://github.com/chenshaoju",
+            "followers_url": "https://api.github.com/users/chenshaoju/followers",
+            "following_url": "https://api.github.com/users/chenshaoju/following{/other_user}",
+            "gists_url": "https://api.github.com/users/chenshaoju/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/chenshaoju/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/chenshaoju/subscriptions",
+            "organizations_url": "https://api.github.com/users/chenshaoju/orgs",
+            "repos_url": "https://api.github.com/users/chenshaoju/repos",
+            "events_url": "https://api.github.com/users/chenshaoju/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/chenshaoju/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d598d3e1776662f899c26ac4eb3d11d025be45df",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d598d3e1776662f899c26ac4eb3d11d025be45df",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d598d3e1776662f899c26ac4eb3d11d025be45df"
+            }
+        ]
+    }

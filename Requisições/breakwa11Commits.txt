@@ -1,0 +1,792 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=breakwa11
+
+{
+        "sha": "b266bf42f56f0d9cbaee9794af11b01c4714208d",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpiMjY2YmY0MmY1NmYwZDljYmFlZTk3OTRhZjExYjAxYzQ3MTQyMDhk",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2017-01-08T00:44:49Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-01-08T00:44:49Z"
+            },
+            "message": "create \"help\" menu group (#989)",
+            "tree": {
+                "sha": "22b5b0db005eaf86a46ee8a6f97145a34bff1af5",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/22b5b0db005eaf86a46ee8a6f97145a34bff1af5"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/b266bf42f56f0d9cbaee9794af11b01c4714208d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b266bf42f56f0d9cbaee9794af11b01c4714208d",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b266bf42f56f0d9cbaee9794af11b01c4714208d",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b266bf42f56f0d9cbaee9794af11b01c4714208d/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "2e7518d8023a61298be19a885b20bfaf148fb8a8",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/2e7518d8023a61298be19a885b20bfaf148fb8a8",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/2e7518d8023a61298be19a885b20bfaf148fb8a8"
+            }
+        ]
+    },
+    {
+        "sha": "18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxOGU5NTZmMzRjNjNjYTRhNGI2YTQyMmFiZGFkZmRhY2NhZjgzYjYx",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2017-01-02T07:19:23Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2017-01-02T07:19:23Z"
+            },
+            "message": "not set alpha of the icon (#981)",
+            "tree": {
+                "sha": "91647c9e18e88282dc6523be5ed84405fec8cc70",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/91647c9e18e88282dc6523be5ed84405fec8cc70"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/18e956f34c63ca4a4b6a422abdadfdaccaf83b61",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/18e956f34c63ca4a4b6a422abdadfdaccaf83b61/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "333ad2516f6cc488b7b75695ac9736c0bd44f644",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/333ad2516f6cc488b7b75695ac9736c0bd44f644",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/333ad2516f6cc488b7b75695ac9736c0bd44f644"
+            }
+        ]
+    },
+    {
+        "sha": "c7adac5fb090f25c7ae0319c68d227479140daaf",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpjN2FkYWM1ZmIwOTBmMjVjN2FlMDMxOWM2OGQyMjc0NzkxNDBkYWFm",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-30T00:03:43Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2016-09-30T00:03:43Z"
+            },
+            "message": "Remove lock in SodiumEncryptor (#754)\n\n- Use separate encrypt/decrypt buffer when creating instances\r\n- Revert 3bc77d212a711d9482a864b49eae59203a79340b",
+            "tree": {
+                "sha": "9aae903a60e59f4f2c9f6a8fb526056614e03ba2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/9aae903a60e59f4f2c9f6a8fb526056614e03ba2"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/c7adac5fb090f25c7ae0319c68d227479140daaf",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c7adac5fb090f25c7ae0319c68d227479140daaf",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/c7adac5fb090f25c7ae0319c68d227479140daaf",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c7adac5fb090f25c7ae0319c68d227479140daaf/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "41eb43b54e794f12717e127803f4170d8a7e8540",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/41eb43b54e794f12717e127803f4170d8a7e8540",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/41eb43b54e794f12717e127803f4170d8a7e8540"
+            }
+        ]
+    },
+    {
+        "sha": "fabe270813b611993639d9c2df255748c1e067a0",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpmYWJlMjcwODEzYjYxMTk5MzYzOWQ5YzJkZjI1NTc0OGMxZTA2N2Ew",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T12:22:29Z"
+            },
+            "committer": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T12:22:29Z"
+            },
+            "message": "Resize the button",
+            "tree": {
+                "sha": "2a321c17bdcdb5d702caced8ffde716c9f42c084",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/2a321c17bdcdb5d702caced8ffde716c9f42c084"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/fabe270813b611993639d9c2df255748c1e067a0",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/fabe270813b611993639d9c2df255748c1e067a0",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/fabe270813b611993639d9c2df255748c1e067a0",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/fabe270813b611993639d9c2df255748c1e067a0/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d284cd04e88b095532a3a8e875d0f68b20859789",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d284cd04e88b095532a3a8e875d0f68b20859789",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d284cd04e88b095532a3a8e875d0f68b20859789"
+            }
+        ]
+    },
+    {
+        "sha": "d284cd04e88b095532a3a8e875d0f68b20859789",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpkMjg0Y2QwNGU4OGIwOTU1MzJhM2E4ZTg3NWQwZjY4YjIwODU5Nzg5",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T12:01:08Z"
+            },
+            "committer": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T12:01:08Z"
+            },
+            "message": "Set the newline mode to CRLF",
+            "tree": {
+                "sha": "5a8c244b2d65670bf08a091d76d9beec2c866c5e",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/5a8c244b2d65670bf08a091d76d9beec2c866c5e"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/d284cd04e88b095532a3a8e875d0f68b20859789",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d284cd04e88b095532a3a8e875d0f68b20859789",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d284cd04e88b095532a3a8e875d0f68b20859789",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d284cd04e88b095532a3a8e875d0f68b20859789/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "db626dac428430311f8f81b812a0a4f3db05462d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db626dac428430311f8f81b812a0a4f3db05462d",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/db626dac428430311f8f81b812a0a4f3db05462d"
+            }
+        ]
+    },
+    {
+        "sha": "db626dac428430311f8f81b812a0a4f3db05462d",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpkYjYyNmRhYzQyODQzMDMxMWY4ZjgxYjgxMmEwYTRmM2RiMDU0NjJk",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T11:19:38Z"
+            },
+            "committer": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-17T11:27:52Z"
+            },
+            "message": "set AutoScaleMode is DPI",
+            "tree": {
+                "sha": "15cb65f7d8d3a743dcb6b91db36ae525b5a5c0d5",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/15cb65f7d8d3a743dcb6b91db36ae525b5a5c0d5"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/db626dac428430311f8f81b812a0a4f3db05462d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db626dac428430311f8f81b812a0a4f3db05462d",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/db626dac428430311f8f81b812a0a4f3db05462d",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/db626dac428430311f8f81b812a0a4f3db05462d/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "aa99d56e2cf9870a2b283f8c8a23201338993ae4",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/aa99d56e2cf9870a2b283f8c8a23201338993ae4",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/aa99d56e2cf9870a2b283f8c8a23201338993ae4"
+            }
+        ]
+    },
+    {
+        "sha": "7586739a52c49b5f79d3c367f131073f209bf341",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo3NTg2NzM5YTUyYzQ5YjVmNzlkM2MzNjdmMTMxMDczZjIwOWJmMzQx",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-16T03:02:55Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2016-09-16T03:02:55Z"
+            },
+            "message": "remove all tuple (#718)",
+            "tree": {
+                "sha": "129fb86598bb8ddab161ea863590420f7a62d1be",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/129fb86598bb8ddab161ea863590420f7a62d1be"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/7586739a52c49b5f79d3c367f131073f209bf341",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7586739a52c49b5f79d3c367f131073f209bf341",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/7586739a52c49b5f79d3c367f131073f209bf341",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/7586739a52c49b5f79d3c367f131073f209bf341/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "33b2ca8c8a44d0615f02b21cbd882b039f1f7426",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/33b2ca8c8a44d0615f02b21cbd882b039f1f7426",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/33b2ca8c8a44d0615f02b21cbd882b039f1f7426"
+            }
+        ]
+    },
+    {
+        "sha": "836a58775f30bc08f2cef02362de7e9e88d69fe4",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo4MzZhNTg3NzVmMzBiYzA4ZjJjZWYwMjM2MmRlN2U5ZTg4ZDY5ZmU0",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-15T02:14:33Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2016-09-15T02:14:33Z"
+            },
+            "message": "optimize LogMessageTextBox (#719)\n\n* optimize LogMessageTextBox\r\n\r\n* StringBuilder instead",
+            "tree": {
+                "sha": "fd275b9fc3b7b228b8af478ec45745ae1c6dcad6",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/fd275b9fc3b7b228b8af478ec45745ae1c6dcad6"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/836a58775f30bc08f2cef02362de7e9e88d69fe4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/836a58775f30bc08f2cef02362de7e9e88d69fe4",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/836a58775f30bc08f2cef02362de7e9e88d69fe4",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/836a58775f30bc08f2cef02362de7e9e88d69fe4/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d3c6039c611817c9f8538059f73d450d52722cb2",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/d3c6039c611817c9f8538059f73d450d52722cb2",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/d3c6039c611817c9f8538059f73d450d52722cb2"
+            }
+        ]
+    },
+    {
+        "sha": "ea9c7b093aaaa40e85697d2876baada5d1fecf9f",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTplYTljN2IwOTNhYWFhNDBlODU2OTdkMjg3NmJhYWRhNWQxZmVjZjlm",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-14T03:16:37Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2016-09-14T03:16:37Z"
+            },
+            "message": "Refine Encryption module (#717)\n\n- use EncryptorInfo struct instead of Dictionary<string, int[]>>",
+            "tree": {
+                "sha": "f49aa7b44f0d399e9b77b9e748d067b520d99cab",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/f49aa7b44f0d399e9b77b9e748d067b520d99cab"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/ea9c7b093aaaa40e85697d2876baada5d1fecf9f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ea9c7b093aaaa40e85697d2876baada5d1fecf9f",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ea9c7b093aaaa40e85697d2876baada5d1fecf9f",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ea9c7b093aaaa40e85697d2876baada5d1fecf9f/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "a9cf3992e1f0bcf696ceccd4856c56407633a855",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a9cf3992e1f0bcf696ceccd4856c56407633a855",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a9cf3992e1f0bcf696ceccd4856c56407633a855"
+            }
+        ]
+    },
+    {
+        "sha": "a9cf3992e1f0bcf696ceccd4856c56407633a855",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTphOWNmMzk5MmUxZjBiY2Y2OTZjZWNjZDQ4NTZjNTY0MDc2MzNhODU1",
+        "commit": {
+            "author": {
+                "name": "破娃酱",
+                "email": "mmgac001@gmail.com",
+                "date": "2016-09-14T02:27:22Z"
+            },
+            "committer": {
+                "name": "Syrone Wong",
+                "email": "wong.syrone@gmail.com",
+                "date": "2016-09-14T02:27:22Z"
+            },
+            "message": "Refine traditional Chinese translation (#716)",
+            "tree": {
+                "sha": "0cade001726abf979dd99a528b8c2699701f65ce",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/0cade001726abf979dd99a528b8c2699701f65ce"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/a9cf3992e1f0bcf696ceccd4856c56407633a855",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a9cf3992e1f0bcf696ceccd4856c56407633a855",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/a9cf3992e1f0bcf696ceccd4856c56407633a855",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/a9cf3992e1f0bcf696ceccd4856c56407633a855/comments",
+        "author": {
+            "login": "breakwa11",
+            "id": 8436963,
+            "node_id": "MDQ6VXNlcjg0MzY5NjM=",
+            "avatar_url": "https://avatars0.githubusercontent.com/u/8436963?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/breakwa11",
+            "html_url": "https://github.com/breakwa11",
+            "followers_url": "https://api.github.com/users/breakwa11/followers",
+            "following_url": "https://api.github.com/users/breakwa11/following{/other_user}",
+            "gists_url": "https://api.github.com/users/breakwa11/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/breakwa11/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/breakwa11/subscriptions",
+            "organizations_url": "https://api.github.com/users/breakwa11/orgs",
+            "repos_url": "https://api.github.com/users/breakwa11/repos",
+            "events_url": "https://api.github.com/users/breakwa11/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/breakwa11/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "wongsyrone",
+            "id": 5462232,
+            "node_id": "MDQ6VXNlcjU0NjIyMzI=",
+            "avatar_url": "https://avatars3.githubusercontent.com/u/5462232?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/wongsyrone",
+            "html_url": "https://github.com/wongsyrone",
+            "followers_url": "https://api.github.com/users/wongsyrone/followers",
+            "following_url": "https://api.github.com/users/wongsyrone/following{/other_user}",
+            "gists_url": "https://api.github.com/users/wongsyrone/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/wongsyrone/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/wongsyrone/subscriptions",
+            "organizations_url": "https://api.github.com/users/wongsyrone/orgs",
+            "repos_url": "https://api.github.com/users/wongsyrone/repos",
+            "events_url": "https://api.github.com/users/wongsyrone/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/wongsyrone/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ab464ca8b1b3bda2f366197f8f10a83a43bede9b",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ab464ca8b1b3bda2f366197f8f10a83a43bede9b",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ab464ca8b1b3bda2f366197f8f10a83a43bede9b"
+            }
+        ]
+    },

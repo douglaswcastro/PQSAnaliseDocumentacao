@@ -1,7 +1,7 @@
     http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=Noisyfox
 
 {
-        "sha": "2e7518d8023a61298be19a885b20bfaf148fb8a8",
+    {    "sha": "2e7518d8023a61298be19a885b20bfaf148fb8a8",
         "node_id": "MDY6Q29tbWl0NzYwMDQwOToyZTc1MThkODAyM2E2MTI5OGJlMTlhODg1YjIwYmZhZjE0OGZiOGE4",
         "commit": {
             "author": {

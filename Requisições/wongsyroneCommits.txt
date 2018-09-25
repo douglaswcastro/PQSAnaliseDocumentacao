@@ -2,7 +2,7 @@ http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=wongs
  
  
  {
-        "sha": "3329291ab9c2169133a6ffcdb4676bc021f32a81",
+    {   "sha": "3329291ab9c2169133a6ffcdb4676bc021f32a81",
         "node_id": "MDY6Q29tbWl0NzYwMDQwOTozMzI5MjkxYWI5YzIxNjkxMzNhNmZmY2RiNDY3NmJjMDIxZjMyYTgx",
         "commit": {
             "author": {

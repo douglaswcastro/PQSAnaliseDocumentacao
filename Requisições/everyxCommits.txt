@@ -1,0 +1,397 @@
+http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=everyx
+
+{
+        "sha": "c1fd3f30350b2ba5cc2f62c9374588242e79e733",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTpjMWZkM2YzMDM1MGIyYmE1Y2MyZjYyYzkzNzQ1ODgyNDJlNzllNzMz",
+        "commit": {
+            "author": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-15T13:06:44Z"
+            },
+            "committer": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-15T13:06:44Z"
+            },
+            "message": "take @laincat's advice",
+            "tree": {
+                "sha": "e7eb25f6b3d9c52344adfe563eae4337bece14ac",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/e7eb25f6b3d9c52344adfe563eae4337bece14ac"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/c1fd3f30350b2ba5cc2f62c9374588242e79e733",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c1fd3f30350b2ba5cc2f62c9374588242e79e733",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/c1fd3f30350b2ba5cc2f62c9374588242e79e733",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/c1fd3f30350b2ba5cc2f62c9374588242e79e733/comments",
+        "author": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "22d081f72e2107a1c377bf44450771b4b014dd44",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/22d081f72e2107a1c377bf44450771b4b014dd44",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/22d081f72e2107a1c377bf44450771b4b014dd44"
+            }
+        ]
+    },
+    {
+        "sha": "22d081f72e2107a1c377bf44450771b4b014dd44",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToyMmQwODFmNzJlMjEwN2ExYzM3N2JmNDQ0NTA3NzFiNGIwMTRkZDQ0",
+        "commit": {
+            "author": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-14T14:04:16Z"
+            },
+            "committer": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-14T14:04:16Z"
+            },
+            "message": "improve tray icon color",
+            "tree": {
+                "sha": "c8d4327fe71c519d421c7108d9e7acf57a8a779f",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/c8d4327fe71c519d421c7108d9e7acf57a8a779f"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/22d081f72e2107a1c377bf44450771b4b014dd44",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/22d081f72e2107a1c377bf44450771b4b014dd44",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/22d081f72e2107a1c377bf44450771b4b014dd44",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/22d081f72e2107a1c377bf44450771b4b014dd44/comments",
+        "author": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/45aaaa6ed99f6a099729578de692e4ce51a16b7d"
+            }
+        ]
+    },
+    {
+        "sha": "45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOTo0NWFhYWE2ZWQ5OWY2YTA5OTcyOTU3OGRlNjkyZTRjZTUxYTE2Yjdk",
+        "commit": {
+            "author": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-13T15:54:56Z"
+            },
+            "committer": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-13T15:54:56Z"
+            },
+            "message": "update function name",
+            "tree": {
+                "sha": "92092717e2cec5d380512cc6b237342a855f83a7",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/92092717e2cec5d380512cc6b237342a855f83a7"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/45aaaa6ed99f6a099729578de692e4ce51a16b7d",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/45aaaa6ed99f6a099729578de692e4ce51a16b7d/comments",
+        "author": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1"
+            }
+        ]
+    },
+    {
+        "sha": "1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxZDU4NTRkZmE3NWJhZDZiMWRhOTM2MTNkMTk4YTRjZGYzYzZiOGUx",
+        "commit": {
+            "author": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-13T15:50:19Z"
+            },
+            "committer": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2016-03-13T15:50:19Z"
+            },
+            "message": "feature #490",
+            "tree": {
+                "sha": "9a26cd349382eb7ee3d6098b7ec700db90a1c256",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/9a26cd349382eb7ee3d6098b7ec700db90a1c256"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1d5854dfa75bad6b1da93613d198a4cdf3c6b8e1/comments",
+        "author": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "b01aced174409748fb1a07dcebb1130466920421",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/b01aced174409748fb1a07dcebb1130466920421",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/b01aced174409748fb1a07dcebb1130466920421"
+            }
+        ]
+    },
+    {
+        "sha": "1e9f1f37645fd56b6c8f72efba6558d0264a6e31",
+        "node_id": "MDY6Q29tbWl0NzYwMDQwOToxZTlmMWYzNzY0NWZkNTZiNmM4ZjcyZWZiYTY1NThkMDI2NGE2ZTMx",
+        "commit": {
+            "author": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2015-10-10T16:21:25Z"
+            },
+            "committer": {
+                "name": "everyx",
+                "email": "lunt.luo@gmail.com",
+                "date": "2015-10-10T16:21:25Z"
+            },
+            "message": "fix ArgumentOutOfRangeException",
+            "tree": {
+                "sha": "e06a1469dff45362e7c89b7bfc43a9b7db370c12",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/trees/e06a1469dff45362e7c89b7bfc43a9b7db370c12"
+            },
+            "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/git/commits/1e9f1f37645fd56b6c8f72efba6558d0264a6e31",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1e9f1f37645fd56b6c8f72efba6558d0264a6e31",
+        "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/1e9f1f37645fd56b6c8f72efba6558d0264a6e31",
+        "comments_url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/1e9f1f37645fd56b6c8f72efba6558d0264a6e31/comments",
+        "author": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "everyx",
+            "id": 1665522,
+            "node_id": "MDQ6VXNlcjE2NjU1MjI=",
+            "avatar_url": "https://avatars2.githubusercontent.com/u/1665522?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/everyx",
+            "html_url": "https://github.com/everyx",
+            "followers_url": "https://api.github.com/users/everyx/followers",
+            "following_url": "https://api.github.com/users/everyx/following{/other_user}",
+            "gists_url": "https://api.github.com/users/everyx/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/everyx/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/everyx/subscriptions",
+            "organizations_url": "https://api.github.com/users/everyx/orgs",
+            "repos_url": "https://api.github.com/users/everyx/repos",
+            "events_url": "https://api.github.com/users/everyx/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/everyx/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ad8a8c24e6be8ec7fc4fb75cc869f00baf98af15",
+                "url": "https://api.github.com/repos/shadowsocks/shadowsocks-windows/commits/ad8a8c24e6be8ec7fc4fb75cc869f00baf98af15",
+                "html_url": "https://github.com/shadowsocks/shadowsocks-windows/commit/ad8a8c24e6be8ec7fc4fb75cc869f00baf98af15"
+            }
+        ]
+    }
