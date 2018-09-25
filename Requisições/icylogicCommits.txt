@@ -2,7 +2,7 @@ http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=icylo
 
 
 {
-        "sha": "a1ae4a60622d993ee2a630e1426934fb5907c055",
+    {    "sha": "a1ae4a60622d993ee2a630e1426934fb5907c055",
         "node_id": "MDY6Q29tbWl0NzYwMDQwOTphMWFlNGE2MDYyMmQ5OTNlZTJhNjMwZTE0MjY5MzRmYjU5MDdjMDU1",
         "commit": {
             "author": {

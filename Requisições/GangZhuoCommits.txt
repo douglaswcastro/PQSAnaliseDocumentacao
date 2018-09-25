@@ -2,7 +2,7 @@ http://api.github.com/repos/shadowsocks/shadowsocks-windows/commits?author=GangZ
 
 
 {
-        "sha": "31f6864e20e447949ea68a11cdfe82805edbd1d8",
+    {   "sha": "31f6864e20e447949ea68a11cdfe82805edbd1d8",
         "node_id": "MDY6Q29tbWl0NzYwMDQwOTozMWY2ODY0ZTIwZTQ0Nzk0OWVhNjhhMTFjZGZlODI4MDVlZGJkMWQ4",
         "commit": {
             "author": {
