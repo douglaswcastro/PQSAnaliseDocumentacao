@@ -1,0 +1,15 @@
+linhas: 10
+comentários: 1
+
+linhas: 11
+comentários: 0
+
+
+linhas: 6
+comentários: 0
+
+linhas: 4
+comentários: 0
+
+linhas: 545
+comentários: 8

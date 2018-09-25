@@ -1,0 +1,31 @@
+linhas: 12
+Comentários: 0
+
+
+linhas: 7
+Comentários: 1
+
+linhas:45
+Comentários: 0
+
+linhas: 6
+Comentários: 0
+
+linhas: 131
+Comentários: 0
+
+linhas: 4
+Comentários: 0
+
+linhas: 52
+Comentários: 1
+
+linhas: 7
+Comentários: 1
+
+linhas: 42
+Comentários: 0
+
+linhas: 2
+Comentários: 0
+

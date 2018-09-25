@@ -1,0 +1,16 @@
+linhas: 13
+comentários: 1
+
+linhas: 6
+comentários: 0
+
+linhas: 4
+comentários: 0
+
+linhas: 46
+comentários: 0
+
+linhas: 5
+comentários: 0
+
+ 
