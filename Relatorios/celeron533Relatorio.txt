@@ -1,0 +1,33 @@
+linhas: 6
+comentario: 0 
+
+linha: 11
+comentario: 0
+
+linha: 3
+comentario: 0
+
+linha: 1
+comentario: 0
+
+linha: 878
+comentario: 49
+
+linha: 17
+comentario: 2
+
+linha: 17   
+comentario: 0
+
+linha: 6
+comentario: 0
+
+linha: 6
+comentario: 0
+
+linha: 7
+comentario: 6
+
+
+total linha: 952
+total comentario: 55
