@@ -1,0 +1,10 @@
+D:\Projetos\TrabPQS\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Projetos\TrabPQS\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Projetos\TrabPQS\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Projetos\TrabPQS\ConsoleApp\bin\Debug\Octokit.dll
+D:\Projetos\TrabPQS\ConsoleApp\bin\Debug\Octokit.xml
+D:\Projetos\TrabPQS\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Projetos\TrabPQS\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos\TrabPQS\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Projetos\TrabPQS\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Projetos\TrabPQS\ConsoleApp\obj\Debug\ConsoleApp.pdb
